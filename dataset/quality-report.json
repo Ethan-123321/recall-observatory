@@ -1,0 +1,293 @@
+{
+  "retrieved_date": "2026-10-20",
+  "unique_announcements": 211,
+  "quarantined": 5,
+  "scope_assessment": {
+    "需同时核对批次": 127,
+    "按型号与生产日期界定": 62,
+    "多型号分别界定": 6,
+    "范围细节需补充确认": 14,
+    "离散日期分别界定": 1,
+    "明确限定范围内全部批次": 1
+  },
+  "review_status": {
+    "已完成逐条文本复核": 211
+  },
+  "batch_review_status": {
+    "明确批次标识": 122,
+    "批次表述不完整": 33,
+    "未提供有效批次标识": 43,
+    "多型号日期或批次分别对应": 6,
+    "多个明确批次": 5,
+    "多个离散生产日期": 1,
+    "限定产品范围内全部批次": 1
+  },
+  "duplicate_extracts": 3,
+  "failed_extracts": [
+    {
+      "extract_file": "batch-0.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn17view0\",\"id\":7}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202506/t20250606_113606.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-12.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn19view0\",\"id\":13}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202504/t20250430_113434.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-16.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn19view1\",\"id\":10}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202503/t20250306_113059.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-17.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn19view1\",\"id\":12}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202503/t20250306_113057.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-18.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn19view1\",\"id\":16}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202502/t20250224_113021.html: (400) Timeout fetching"
+    },
+    {
+      "extract_file": "batch-18.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn19view1\",\"id\":19}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202502/t20250224_113018.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-2.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn17view0\",\"id\":12}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202505/t20250521_113530.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-5.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn17view1\",\"id\":7}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202504/t20250402_113191.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-6.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn17view1\",\"id\":9}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202504/t20250402_113189.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-6.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn17view1\",\"id\":11}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202504/t20250402_113187.html: Cache miss"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202504/t20250402_113182.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-7.txt"
+    },
+    {
+      "extract_file": "batch-v2-0-12.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn40view0\",\"id\":13}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202602/t20260205_115092.html: (400) Timeout fetching"
+    },
+    {
+      "extract_file": "batch-v2-0-16.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn40view0\",\"id\":18}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202601/t20260130_115058.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v2-0-8.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn40view0\",\"id\":9}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202602/t20260209_115144.html: (400) Timeout fetching"
+    },
+    {
+      "extract_file": "batch-v2-1-12.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn40view1\",\"id\":13}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202507/t20250730_113920.html: (400) Timeout fetching"
+    },
+    {
+      "extract_file": "batch-v2-2-12.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn41view1\",\"id\":12}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202605/t20260510_115448.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v2-2-4.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn41view1\",\"id\":6}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202605/t20260510_115454.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v2-2-8.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn41view1\",\"id\":9}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202605/t20260510_115451.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v2-2-8.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn41view1\",\"id\":11}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202605/t20260510_115449.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v2-3-4.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn57view0\",\"id\":5}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202508/t20250829_114125.html: (403) Forbidden"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202604/t20260414_115362.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-0-12.txt"
+    },
+    {
+      "extract_file": "batch-v4-0-8.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn67view0\",\"id\":9}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202604/t20260430_115397.html: Cache miss"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202603/t20260323_115278.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-1-12.txt"
+    },
+    {
+      "extract_file": "batch-v4-1-12.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn67view1\",\"id\":13}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202603/t20260320_115272.html: (400) Timeout fetching"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202603/t20260323_115279.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-1-8.txt"
+    },
+    {
+      "extract_file": "batch-v4-2-4.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn67view2\",\"id\":4}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202603/t20260316_115236.html: Cache miss"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202602/t20260228_115214.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-2-4.txt"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202602/t20260225_115206.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-2-8.txt"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202601/t20260104_114913.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-3-16.txt"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202601/t20260104_114918.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-3-16.txt"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202601/t20260104_114902.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-3-16.txt"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202601/t20260104_114901.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-3-16.txt"
+    },
+    {
+      "extract_file": "batch-v4-3-20.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn67view3\",\"id\":20}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202512/t20251231_114882.html: Cache miss"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202601/t20260121_115005.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v4-3-4.txt"
+    },
+    {
+      "extract_file": "batch-v4-current.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn63view0\",\"id\":46}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2026/art_72a8a6063bd346a9a9b9c2cad944d6eb.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v4-current.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn63view0\",\"id\":48}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2026/art_dbb20141cee74e219c5f663a3bd78114.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v4-modern.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn64view1\",\"id\":38}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/art/2026/art_3e3a9013d3974a99ba4515dcdb98702d.html?type=nFZcuWzfh2c41ylKrWj7k: Cache miss"
+    },
+    {
+      "extract_file": "batch-v4-modern.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn64view1\",\"id\":40}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/art/2026/art_d35e22cf696d44b484af905c3863a1db.html?type=nFZcuWzfh2c41ylKrWj7k: Cache miss"
+    },
+    {
+      "extract_file": "batch-v4-modern.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn64view1\",\"id\":44}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/art/2026/art_79678ce9402c4509ac3e360d064f9304.html?type=nFZcuWzfh2c41ylKrWj7k: Cache miss"
+    },
+    {
+      "extract_file": "batch-v5-13-12.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn90view1\",\"id\":15}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202511/t20251120_114585.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v5-13-16.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn90view1\",\"id\":19}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202511/t20251114_114545.html: (400) Timeout fetching"
+    },
+    {
+      "extract_file": "batch-v5-13-20.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn90view1\",\"id\":20}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202511/t20251114_114544.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v5-13-4.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn90view1\",\"id\":6}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202511/t20251127_114610.html: Cache miss"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202511/t20251125_114604.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v5-13-8.txt"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202511/t20251105_114441.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v5-17-4.txt"
+    },
+    {
+      "extract_file": "batch-v5-17-8.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn91view1\",\"id\":8}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202511/t20251103_114426.html: Cache miss"
+    },
+    {
+      "extract_file": "batch-v5-17-8.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn91view1\",\"id\":11}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202510/t20251031_114418.html: Cache miss"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202605/t20260529_115597.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v5-3-16.txt"
+    },
+    {
+      "extract_file": "batch-v5-3-16.txt",
+      "reason": "Internal Error () [wordlim: 200] Source: click({\"ref_id\":\"turn104view0\",\"id\":18}); Total lines: 1 L0: Failed to fetch https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202605/t20260510_115469.html: (400) Timeout fetching"
+    },
+    {
+      "url": "https://www.samrdprc.org.cn/xfpzh/xfpzhgg/202605/t20260510_115466.html",
+      "error": "未取得正文标题",
+      "extract_file": "batch-v5-5-20.txt"
+    }
+  ],
+  "published_date_range": [
+    "2025-02-17",
+    "2026-10-14"
+  ],
+  "categories": {
+    "玩具": 44,
+    "照明电器": 11,
+    "家用电器": 31,
+    "家具家居": 15,
+    "服饰鞋包": 38,
+    "电源电器": 14,
+    "防护消防用品": 14,
+    "婴童用品": 3,
+    "个护电器": 5,
+    "食品接触用品": 9,
+    "日用清洁用品": 5,
+    "饰品": 3,
+    "文具": 10,
+    "运动用品": 1,
+    "燃气器具": 3,
+    "电动自行车": 1,
+    "无人机": 3,
+    "光学用品": 1
+  },
+  "field_missing": {
+    "producer": 0,
+    "product_name": 0,
+    "brand": 53,
+    "model_raw": 1,
+    "production_dates_raw": 0,
+    "quantity_raw": 0,
+    "batch_raw": 43,
+    "description_raw": 60,
+    "defect_raw": 0,
+    "consequence_raw": 0,
+    "emergency_raw": 0,
+    "remedy_raw": 0,
+    "responsible_raw": 0,
+    "contact_raw": 0,
+    "schedule_raw": 0,
+    "other_report_raw": 185,
+    "other_info_raw": 2
+  },
+  "quality_flags": {
+    "quantity_unit_missing": 20,
+    "source_does_not_specify_harm": 11,
+    "scope_requires_manufacturer_confirmation": 14,
+    "missing:model_raw": 1
+  },
+  "scope": "多个历史官方列表页及新版官方公告的可访问样本；网页检索缓存可能来自不同时间。非全量、非连续时间覆盖，不代表市场发生率。"
+}

@@ -1,0 +1,11 @@
+const assert=require('node:assert/strict'),fs=require('fs');const v=require('./dist/verify.js');
+assert.equal(v.dates('2025年5月'),null);assert.equal(v.dates('2025-02-30'),null);
+assert.deepEqual(v.dates('2025.3.10-2025.3.15'),[['2025-03-10','2025-03-15']]);
+assert.deepEqual(v.dates('2025年3月1日、2025年3月9日'),[['2025-03-01','2025-03-01'],['2025-03-09','2025-03-09']]);
+let r={model_raw:'A1',production_dates_raw:'2025年3月1日至2025年3月9日',scope_assessment:'按型号与生产日期界定',domain:'一般消费品'};
+assert.equal(v.check(r,{model:'A1',production:'2025-03-05',batch:''}).state,'matched');
+assert.equal(v.check(r,{model:'A1',production:'2025-03-10',batch:''}).state,'outside');
+for(const delta of [{domain:'汽车'},{scope_assessment:'范围细节需补充确认'}])assert.equal(v.check({...r,...delta},{model:'A1',production:'2025-03-05',batch:''}).state,'pending');
+assert.equal(v.batches('C14-P6/P7'),null);assert.equal(v.batches('3批次'),null);
+const rows=JSON.parse(fs.readFileSync('./dataset/recalls-2023-2025.json','utf8'));assert.equal(v.search(rows,'').length,rows.length);for(const r of rows)assert.equal(v.check(r,{model:'',production:'',batch:''}).state,'pending');
+console.log('PASS: precision, discrete dates, scope uncertainty, VIN boundary, batch shorthand, all '+rows.length+' records');

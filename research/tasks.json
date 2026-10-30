@@ -1,0 +1,175 @@
+{
+  "study_id": "recall-interaction-v1",
+  "data_version": "30c8d8330d93cc40e02219fb01a00f8d3bb587841175eb1f6ab45c50f1ebef8b",
+  "date": "2026-10-24",
+  "conditions": [
+    "manual",
+    "voice_chart"
+  ],
+  "tasks": [
+    {
+      "id": "filter-A",
+      "variant": "A",
+      "type": "filter",
+      "title": "组合筛选",
+      "instruction": "查找2025年玩具类中涉及机械伤害风险的公告。",
+      "filters": {
+        "year": "2025",
+        "category": "玩具",
+        "risk": "机械伤害"
+      },
+      "expected_count": 12,
+      "expected_ids": [
+        "art_44321e5408c84916a1b01a1ef6ec4241",
+        "art_43f5622f2f98456e9dcf31570bcde379",
+        "art_1d745184b5ba4df1b1d0036006263555",
+        "art_af2f4eccd9174c0eaf2ec4aa381236cb",
+        "art_f7dfde16bb0b419bba5728038165eb9c",
+        "art_ce1dfdce05674e248eedbc24335e971c",
+        "art_73f9466dfca444438be37b31db0adbec",
+        "art_c7fe66873f904bcf84e72da7b68ca9cd",
+        "art_9ed0582926a345688ce449efb786ea8d",
+        "art_b34301a58b41434a91bd1a5fb8634789",
+        "art_6c0912bc23f84c368de2afe21db8ce09",
+        "art_194c110f58ad462ea3ef824540cd5ec5"
+      ]
+    },
+    {
+      "id": "peak-A",
+      "variant": "A",
+      "type": "peak",
+      "title": "图表追问",
+      "instruction": "找出2025年玩具公告最多的月份；如有并列，填写全部月份（YYYY-MM，用逗号分隔）。",
+      "filters": {
+        "year": "2025",
+        "category": "玩具",
+        "risk": "全部",
+        "scope": "全部",
+        "query": "",
+        "month": "",
+        "from": "",
+        "to": ""
+      },
+      "expected_months": [
+        "2025-04"
+      ],
+      "sample_count": 57,
+      "top_count": 13
+    },
+    {
+      "id": "verify-A",
+      "variant": "A",
+      "type": "verify",
+      "title": "复杂条件组核验",
+      "instruction": "在“锦阳消防科技有限公司召回部分手提式干粉灭火器”中核验型号MFZ/ABC4、生产日期2024-04-21、批号2024-04，并展开至少一项对应原文证据。",
+      "notice_id": "art_31401ac19ceb420d8b83e702e9a890cf",
+      "product": {
+        "model": "MFZ/ABC4",
+        "production": "2024-04-21",
+        "batch": "2024-04"
+      },
+      "expected_state": "matched",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+      "source_sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224"
+    },
+    {
+      "id": "recover-A",
+      "variant": "A",
+      "type": "recover",
+      "title": "纠错与恢复",
+      "instruction": "先筛选2025年玩具中的机械伤害公告，再将风险改为“窒息/误吞”，最后恢复到机械伤害，并保留年份和类别。",
+      "filters": {
+        "year": "2025",
+        "category": "玩具",
+        "risk": "机械伤害"
+      },
+      "intermediate_risk": "窒息/误吞"
+    },
+    {
+      "id": "filter-B",
+      "variant": "B",
+      "type": "filter",
+      "title": "组合筛选",
+      "instruction": "查找2024年玩具类中涉及机械伤害风险的公告。",
+      "filters": {
+        "year": "2024",
+        "category": "玩具",
+        "risk": "机械伤害"
+      },
+      "expected_count": 20,
+      "expected_ids": [
+        "art_dd825ee7deb14b0eb9476a213004796d",
+        "art_735d7c4f1a8845a5b17db7d775dcfe8d",
+        "art_0a7cdd0f14354a288722ff30a899e792",
+        "art_a3fe944aa0eb4d4a8c350f75d1e347c4",
+        "art_99ff231ee6f04b83b1f8a70e31c4d3c5",
+        "art_8a933af7c60d4e9284ed9b9a3a147dfe",
+        "art_13ceb12f4d554430a2323ecfe5803889",
+        "art_cdd58c4861a6418ea03142d9ca7a9dd4",
+        "art_234c7881529e4fc2ae74e29852ddaec5",
+        "art_ead6288c71fb4f65b0693c096d9823a0",
+        "art_cb2c42d761c4422fbceb9953c4f1e45d",
+        "art_c56067fbb50e44c7b7b0a6428de00abb",
+        "art_57f4ea1d50134c7da32d2017b4d5a82f",
+        "art_23e56a207f66461cb973f4107273dadb",
+        "art_84cc4c356720410faae8744cd9958cd9",
+        "art_1200a9657810464e92934b930f7c1262",
+        "art_5edbed754ccb405ea6af68b1a345b3ba",
+        "art_6aeffe82485f4601a2707aec6f7e751e",
+        "art_dd5cf8e236514083baf9714fb70f14bf",
+        "art_7ce53e26085d4219bb05a5315a2598bd"
+      ]
+    },
+    {
+      "id": "peak-B",
+      "variant": "B",
+      "type": "peak",
+      "title": "图表追问",
+      "instruction": "找出2024年玩具公告最多的月份；如有并列，填写全部月份（YYYY-MM，用逗号分隔）。",
+      "filters": {
+        "year": "2024",
+        "category": "玩具",
+        "risk": "全部",
+        "scope": "全部",
+        "query": "",
+        "month": "",
+        "from": "",
+        "to": ""
+      },
+      "expected_months": [
+        "2024-11"
+      ],
+      "sample_count": 149,
+      "top_count": 38
+    },
+    {
+      "id": "verify-B",
+      "variant": "B",
+      "type": "verify",
+      "title": "复杂条件组核验",
+      "instruction": "在“佛山市吉星家电有限公司召回部分钻石牌换气扇”中核验型号FV-15010、生产日期2021-05-07、批号20210507023，并展开至少一项对应原文证据。",
+      "notice_id": "art_280411cbe0554b1791251299bec3dc09",
+      "product": {
+        "model": "FV-15010",
+        "production": "2021-05-07",
+        "batch": "20210507023"
+      },
+      "expected_state": "matched",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+      "source_sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf"
+    },
+    {
+      "id": "recover-B",
+      "variant": "B",
+      "type": "recover",
+      "title": "纠错与恢复",
+      "instruction": "先筛选2024年玩具中的机械伤害公告，再将风险改为“窒息/误吞”，最后恢复到机械伤害，并保留年份和类别。",
+      "filters": {
+        "year": "2024",
+        "category": "玩具",
+        "risk": "机械伤害"
+      },
+      "intermediate_risk": "窒息/误吞"
+    }
+  ]
+}

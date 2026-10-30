@@ -1,0 +1,2 @@
+# Source evidence hashes must survive Windows Git checkout byte-for-byte.
+raw/** -text

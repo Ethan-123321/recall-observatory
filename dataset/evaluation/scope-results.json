@@ -1,0 +1,3275 @@
+{
+  "suite_version": "scope-eval-20261024",
+  "rule_version": "scope-v4",
+  "fixture_sha256": "3999c0d8e7541d3fdc37d797f7cd57e43c096914fbd35c0ab9479138fbb8c002",
+  "data_sha256": "a4cd6cb0d3aa92cfec3108a2875a8d24829b7d2208d5ea44ad75ebc0c7ec5eec",
+  "count": 120,
+  "accuracy": 1,
+  "deterministic_coverage": 0.6666666666666666,
+  "deterministic_accuracy": 1,
+  "false_matches": 0,
+  "false_exclusions": 0,
+  "overconfident": 0,
+  "matrix": {
+    "matched": {
+      "matched": 44,
+      "outside": 0,
+      "pending": 0
+    },
+    "outside": {
+      "matched": 0,
+      "outside": 36,
+      "pending": 0
+    },
+    "pending": {
+      "matched": 0,
+      "outside": 0,
+      "pending": 40
+    }
+  },
+  "pending_reasons": {
+    "missing_batch": 8,
+    "date_precision": 4,
+    "unsupported_batch": 4,
+    "conflict": 4,
+    "unresolved_scope": 4,
+    "exclusion_unknown": 4,
+    "vin": 4,
+    "unsupported_model": 4,
+    "missing_production": 4
+  },
+  "by_scenario": {
+    "同组全部符合": 4,
+    "型号不符": 8,
+    "日期前一日": 4,
+    "日期末日": 4,
+    "批号不符": 4,
+    "缺少批号": 4,
+    "禁止跨组拼接": 4,
+    "同型号多组第二组命中": 4,
+    "离散日期间隔": 4,
+    "离散日期命中": 4,
+    "月精度公告": 4,
+    "月输入部分重叠": 4,
+    "月输入全月符合": 4,
+    "批号斜杠简称": 4,
+    "日期冲突": 4,
+    "范围未完整枚举": 4,
+    "命中组内排除": 4,
+    "未命中组内排除": 4,
+    "排除条件待解释": 4,
+    "汽车需VIN": 4,
+    "食品规格缺失": 4,
+    "公告起日": 4,
+    "公告末日": 4,
+    "范围前一日": 4,
+    "缺生产日期": 4,
+    "多组公告第一组符合": 4,
+    "多组公告第二组符合": 4,
+    "多组公告跨组批号错误": 4,
+    "多组公告缺少批号": 4
+  },
+  "by_origin": {
+    "规则规格案例": 84,
+    "公告来源关联案例": 36
+  },
+  "unique_source_notices": 8,
+  "results": [
+    {
+      "case_id": "scope-1-01",
+      "scenario": "同组全部符合",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-1-02",
+      "scenario": "型号不符",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "X999",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-03",
+      "scenario": "日期前一日",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2023-12-31",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-04",
+      "scenario": "日期末日",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-03-31",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-1-05",
+      "scenario": "批号不符",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "OTHER"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-06",
+      "scenario": "缺少批号",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "missing_batch"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-07",
+      "scenario": "禁止跨组拼接",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-07-01",
+        "batch": "B09"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-08",
+      "scenario": "同型号多组第二组命中",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-07-01",
+        "batch": "B09"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-09",
+      "scenario": "离散日期间隔",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-10",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-10",
+      "scenario": "离散日期命中",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-20",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-1-11",
+      "scenario": "月精度公告",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-03-31",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-1-12",
+      "scenario": "月输入部分重叠",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "date_precision"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-13",
+      "scenario": "月输入全月符合",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-1-14",
+      "scenario": "批号斜杠简称",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-15",
+      "scenario": "日期冲突",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "conflict"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-16",
+      "scenario": "范围未完整枚举",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "X999",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unresolved_scope"
+      ],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-17",
+      "scenario": "命中组内排除",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-18",
+      "scenario": "未命中组内排除",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-1-19",
+      "scenario": "排除条件待解释",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "exclusion_unknown"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-20",
+      "scenario": "汽车需VIN",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "vin"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-1-21",
+      "scenario": "食品规格缺失",
+      "origin": "规则规格案例",
+      "notice_id": "spec-1",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A1",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unsupported_model"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-01",
+      "scenario": "同组全部符合",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-2-02",
+      "scenario": "型号不符",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "X999",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-03",
+      "scenario": "日期前一日",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2023-12-31",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-04",
+      "scenario": "日期末日",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-03-31",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-2-05",
+      "scenario": "批号不符",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "OTHER"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-06",
+      "scenario": "缺少批号",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "missing_batch"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-07",
+      "scenario": "禁止跨组拼接",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-07-01",
+        "batch": "B09"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-08",
+      "scenario": "同型号多组第二组命中",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-07-01",
+        "batch": "B09"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-09",
+      "scenario": "离散日期间隔",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-10",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-10",
+      "scenario": "离散日期命中",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-20",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-2-11",
+      "scenario": "月精度公告",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-03-31",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-2-12",
+      "scenario": "月输入部分重叠",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "date_precision"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-13",
+      "scenario": "月输入全月符合",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-2-14",
+      "scenario": "批号斜杠简称",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-15",
+      "scenario": "日期冲突",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "conflict"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-16",
+      "scenario": "范围未完整枚举",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "X999",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unresolved_scope"
+      ],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-17",
+      "scenario": "命中组内排除",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-18",
+      "scenario": "未命中组内排除",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-2-19",
+      "scenario": "排除条件待解释",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "exclusion_unknown"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-20",
+      "scenario": "汽车需VIN",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "vin"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-2-21",
+      "scenario": "食品规格缺失",
+      "origin": "规则规格案例",
+      "notice_id": "spec-2",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A2",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unsupported_model"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-01",
+      "scenario": "同组全部符合",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-3-02",
+      "scenario": "型号不符",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "X999",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-03",
+      "scenario": "日期前一日",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2023-12-31",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-04",
+      "scenario": "日期末日",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-03-31",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-3-05",
+      "scenario": "批号不符",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "OTHER"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-06",
+      "scenario": "缺少批号",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "missing_batch"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-07",
+      "scenario": "禁止跨组拼接",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-07-01",
+        "batch": "B09"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-08",
+      "scenario": "同型号多组第二组命中",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-07-01",
+        "batch": "B09"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-09",
+      "scenario": "离散日期间隔",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-10",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-10",
+      "scenario": "离散日期命中",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-20",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-3-11",
+      "scenario": "月精度公告",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-03-31",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-3-12",
+      "scenario": "月输入部分重叠",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "date_precision"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-13",
+      "scenario": "月输入全月符合",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-3-14",
+      "scenario": "批号斜杠简称",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-15",
+      "scenario": "日期冲突",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "conflict"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-16",
+      "scenario": "范围未完整枚举",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "X999",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unresolved_scope"
+      ],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-17",
+      "scenario": "命中组内排除",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-18",
+      "scenario": "未命中组内排除",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-3-19",
+      "scenario": "排除条件待解释",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "exclusion_unknown"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-20",
+      "scenario": "汽车需VIN",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "vin"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-3-21",
+      "scenario": "食品规格缺失",
+      "origin": "规则规格案例",
+      "notice_id": "spec-3",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A3",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unsupported_model"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-01",
+      "scenario": "同组全部符合",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-4-02",
+      "scenario": "型号不符",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "X999",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-03",
+      "scenario": "日期前一日",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2023-12-31",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-04",
+      "scenario": "日期末日",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-03-31",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-4-05",
+      "scenario": "批号不符",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "OTHER"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-06",
+      "scenario": "缺少批号",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "missing_batch"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-07",
+      "scenario": "禁止跨组拼接",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-07-01",
+        "batch": "B09"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-08",
+      "scenario": "同型号多组第二组命中",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-07-01",
+        "batch": "B09"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-09",
+      "scenario": "离散日期间隔",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-10",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-10",
+      "scenario": "离散日期命中",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-20",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-4-11",
+      "scenario": "月精度公告",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-03-31",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-4-12",
+      "scenario": "月输入部分重叠",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "date_precision"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-13",
+      "scenario": "月输入全月符合",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-4-14",
+      "scenario": "批号斜杠简称",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-15",
+      "scenario": "日期冲突",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "conflict"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-16",
+      "scenario": "范围未完整枚举",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "X999",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unresolved_scope"
+      ],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-17",
+      "scenario": "命中组内排除",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-18",
+      "scenario": "未命中组内排除",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [],
+      "decisive_groups": [
+        "A"
+      ]
+    },
+    {
+      "case_id": "scope-4-19",
+      "scenario": "排除条件待解释",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "exclusion_unknown"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-20",
+      "scenario": "汽车需VIN",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "vin"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "scope-4-21",
+      "scenario": "食品规格缺失",
+      "origin": "规则规格案例",
+      "notice_id": "spec-4",
+      "source_url": null,
+      "source_sha256": null,
+      "input": {
+        "model": "A4",
+        "production": "2024-02-15",
+        "batch": "B01"
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": "依条件组内同时满足、组间任一满足原则确定预期",
+      "reason_codes": [
+        "unsupported_model"
+      ],
+      "decisive_groups": [
+        "B"
+      ]
+    },
+    {
+      "case_id": "source-art_5e795330577848978072b67d4186f5d1-1",
+      "scenario": "公告起日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5e795330577848978072b67d4186f5d1",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+      "source_sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b",
+      "input": {
+        "model": "521",
+        "production": "2025-07-05",
+        "batch": ""
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "model": "521",
+        "dates": "2025.07.05~2025.07.06",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+        "sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_5e795330577848978072b67d4186f5d1:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_5e795330577848978072b67d4186f5d1-2",
+      "scenario": "公告末日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5e795330577848978072b67d4186f5d1",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+      "source_sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b",
+      "input": {
+        "model": "521",
+        "production": "2025-07-06",
+        "batch": ""
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "model": "521",
+        "dates": "2025.07.05~2025.07.06",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+        "sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_5e795330577848978072b67d4186f5d1:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_5e795330577848978072b67d4186f5d1-3",
+      "scenario": "范围前一日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5e795330577848978072b67d4186f5d1",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+      "source_sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b",
+      "input": {
+        "model": "521",
+        "production": "2025-07-04",
+        "batch": ""
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "model": "521",
+        "dates": "2025.07.05~2025.07.06",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+        "sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_5e795330577848978072b67d4186f5d1:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_5e795330577848978072b67d4186f5d1-4",
+      "scenario": "型号不符",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5e795330577848978072b67d4186f5d1",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+      "source_sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b",
+      "input": {
+        "model": "UNLISTED999",
+        "production": "2025-07-05",
+        "batch": ""
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "model": "521",
+        "dates": "2025.07.05~2025.07.06",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+        "sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_5e795330577848978072b67d4186f5d1:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_5e795330577848978072b67d4186f5d1-5",
+      "scenario": "缺生产日期",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5e795330577848978072b67d4186f5d1",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+      "source_sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b",
+      "input": {
+        "model": "521",
+        "production": "",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": {
+        "model": "521",
+        "dates": "2025.07.05~2025.07.06",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
+        "sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b"
+      },
+      "reason_codes": [
+        "missing_production"
+      ],
+      "decisive_groups": []
+    },
+    {
+      "case_id": "source-art_5450c51d412f40de99454171d33ec52e-1",
+      "scenario": "公告起日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5450c51d412f40de99454171d33ec52e",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+      "source_sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3",
+      "input": {
+        "model": "6802-2",
+        "production": "2025-03-10",
+        "batch": ""
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "model": "6802-2",
+        "dates": "2025.3.10-2025.3.15",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+        "sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_5450c51d412f40de99454171d33ec52e:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_5450c51d412f40de99454171d33ec52e-2",
+      "scenario": "公告末日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5450c51d412f40de99454171d33ec52e",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+      "source_sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3",
+      "input": {
+        "model": "6802-2",
+        "production": "2025-03-15",
+        "batch": ""
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "model": "6802-2",
+        "dates": "2025.3.10-2025.3.15",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+        "sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_5450c51d412f40de99454171d33ec52e:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_5450c51d412f40de99454171d33ec52e-3",
+      "scenario": "范围前一日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5450c51d412f40de99454171d33ec52e",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+      "source_sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3",
+      "input": {
+        "model": "6802-2",
+        "production": "2025-03-09",
+        "batch": ""
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "model": "6802-2",
+        "dates": "2025.3.10-2025.3.15",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+        "sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_5450c51d412f40de99454171d33ec52e:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_5450c51d412f40de99454171d33ec52e-4",
+      "scenario": "型号不符",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5450c51d412f40de99454171d33ec52e",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+      "source_sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3",
+      "input": {
+        "model": "UNLISTED999",
+        "production": "2025-03-10",
+        "batch": ""
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "model": "6802-2",
+        "dates": "2025.3.10-2025.3.15",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+        "sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_5450c51d412f40de99454171d33ec52e:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_5450c51d412f40de99454171d33ec52e-5",
+      "scenario": "缺生产日期",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_5450c51d412f40de99454171d33ec52e",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+      "source_sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3",
+      "input": {
+        "model": "6802-2",
+        "production": "",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": {
+        "model": "6802-2",
+        "dates": "2025.3.10-2025.3.15",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
+        "sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3"
+      },
+      "reason_codes": [
+        "missing_production"
+      ],
+      "decisive_groups": []
+    },
+    {
+      "case_id": "source-art_43f5622f2f98456e9dcf31570bcde379-1",
+      "scenario": "公告起日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_43f5622f2f98456e9dcf31570bcde379",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+      "source_sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759",
+      "input": {
+        "model": "8115",
+        "production": "2025-03-01",
+        "batch": ""
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "model": "8115",
+        "dates": "2025年3月1日至2025年3月31日",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+        "sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_43f5622f2f98456e9dcf31570bcde379:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_43f5622f2f98456e9dcf31570bcde379-2",
+      "scenario": "公告末日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_43f5622f2f98456e9dcf31570bcde379",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+      "source_sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759",
+      "input": {
+        "model": "8115",
+        "production": "2025-03-31",
+        "batch": ""
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "model": "8115",
+        "dates": "2025年3月1日至2025年3月31日",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+        "sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_43f5622f2f98456e9dcf31570bcde379:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_43f5622f2f98456e9dcf31570bcde379-3",
+      "scenario": "范围前一日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_43f5622f2f98456e9dcf31570bcde379",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+      "source_sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759",
+      "input": {
+        "model": "8115",
+        "production": "2025-02-28",
+        "batch": ""
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "model": "8115",
+        "dates": "2025年3月1日至2025年3月31日",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+        "sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_43f5622f2f98456e9dcf31570bcde379:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_43f5622f2f98456e9dcf31570bcde379-4",
+      "scenario": "型号不符",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_43f5622f2f98456e9dcf31570bcde379",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+      "source_sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759",
+      "input": {
+        "model": "UNLISTED999",
+        "production": "2025-03-01",
+        "batch": ""
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "model": "8115",
+        "dates": "2025年3月1日至2025年3月31日",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+        "sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_43f5622f2f98456e9dcf31570bcde379:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_43f5622f2f98456e9dcf31570bcde379-5",
+      "scenario": "缺生产日期",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_43f5622f2f98456e9dcf31570bcde379",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+      "source_sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759",
+      "input": {
+        "model": "8115",
+        "production": "",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": {
+        "model": "8115",
+        "dates": "2025年3月1日至2025年3月31日",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
+        "sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759"
+      },
+      "reason_codes": [
+        "missing_production"
+      ],
+      "decisive_groups": []
+    },
+    {
+      "case_id": "source-art_d9e6ce8de77e40f3a39c38589304ba40-1",
+      "scenario": "公告起日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_d9e6ce8de77e40f3a39c38589304ba40",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+      "source_sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7",
+      "input": {
+        "model": "PT-60-3",
+        "production": "2024-07-01",
+        "batch": ""
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "model": "PT-60-3",
+        "dates": "2024-07-01 ～2024-08-31",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+        "sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_d9e6ce8de77e40f3a39c38589304ba40:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_d9e6ce8de77e40f3a39c38589304ba40-2",
+      "scenario": "公告末日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_d9e6ce8de77e40f3a39c38589304ba40",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+      "source_sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7",
+      "input": {
+        "model": "PT-60-3",
+        "production": "2024-08-31",
+        "batch": ""
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "model": "PT-60-3",
+        "dates": "2024-07-01 ～2024-08-31",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+        "sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_d9e6ce8de77e40f3a39c38589304ba40:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_d9e6ce8de77e40f3a39c38589304ba40-3",
+      "scenario": "范围前一日",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_d9e6ce8de77e40f3a39c38589304ba40",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+      "source_sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7",
+      "input": {
+        "model": "PT-60-3",
+        "production": "2024-06-30",
+        "batch": ""
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "model": "PT-60-3",
+        "dates": "2024-07-01 ～2024-08-31",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+        "sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_d9e6ce8de77e40f3a39c38589304ba40:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_d9e6ce8de77e40f3a39c38589304ba40-4",
+      "scenario": "型号不符",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_d9e6ce8de77e40f3a39c38589304ba40",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+      "source_sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7",
+      "input": {
+        "model": "UNLISTED999",
+        "production": "2024-07-01",
+        "batch": ""
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "model": "PT-60-3",
+        "dates": "2024-07-01 ～2024-08-31",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+        "sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_d9e6ce8de77e40f3a39c38589304ba40:g1"
+      ]
+    },
+    {
+      "case_id": "source-art_d9e6ce8de77e40f3a39c38589304ba40-5",
+      "scenario": "缺生产日期",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_d9e6ce8de77e40f3a39c38589304ba40",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+      "source_sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7",
+      "input": {
+        "model": "PT-60-3",
+        "production": "",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": {
+        "model": "PT-60-3",
+        "dates": "2024-07-01 ～2024-08-31",
+        "scope": "按型号与生产日期界定",
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
+        "sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7"
+      },
+      "reason_codes": [
+        "missing_production"
+      ],
+      "decisive_groups": []
+    },
+    {
+      "case_id": "group-source-art_31401ac19ceb420d8b83e702e9a890cf-1",
+      "scenario": "多组公告第一组符合",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_31401ac19ceb420d8b83e702e9a890cf",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+      "source_sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224",
+      "input": {
+        "model": "MFZ/ABC4",
+        "production": "2024-04-21",
+        "batch": "2024-04"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "MFZ/ABC4",
+              "dates": [],
+              "source_dates": "2024年4月21日",
+              "batches": [
+                "2024-04"
+              ]
+            },
+            {
+              "model": "MFZ/ABC5",
+              "dates": [],
+              "source_dates": "2024年5月9日",
+              "batches": [
+                "2024-05"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+        "sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_31401ac19ceb420d8b83e702e9a890cf:g1"
+      ]
+    },
+    {
+      "case_id": "group-source-art_31401ac19ceb420d8b83e702e9a890cf-2",
+      "scenario": "多组公告第二组符合",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_31401ac19ceb420d8b83e702e9a890cf",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+      "source_sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224",
+      "input": {
+        "model": "MFZ/ABC5",
+        "production": "2024-05-09",
+        "batch": "2024-05"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "MFZ/ABC4",
+              "dates": [],
+              "source_dates": "2024年4月21日",
+              "batches": [
+                "2024-04"
+              ]
+            },
+            {
+              "model": "MFZ/ABC5",
+              "dates": [],
+              "source_dates": "2024年5月9日",
+              "batches": [
+                "2024-05"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+        "sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_31401ac19ceb420d8b83e702e9a890cf:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_31401ac19ceb420d8b83e702e9a890cf-3",
+      "scenario": "多组公告跨组批号错误",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_31401ac19ceb420d8b83e702e9a890cf",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+      "source_sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224",
+      "input": {
+        "model": "MFZ/ABC4",
+        "production": "2024-05-09",
+        "batch": "2024-05"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "MFZ/ABC4",
+              "dates": [],
+              "source_dates": "2024年4月21日",
+              "batches": [
+                "2024-04"
+              ]
+            },
+            {
+              "model": "MFZ/ABC5",
+              "dates": [],
+              "source_dates": "2024年5月9日",
+              "batches": [
+                "2024-05"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+        "sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_31401ac19ceb420d8b83e702e9a890cf:g1",
+        "art_31401ac19ceb420d8b83e702e9a890cf:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_31401ac19ceb420d8b83e702e9a890cf-4",
+      "scenario": "多组公告缺少批号",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_31401ac19ceb420d8b83e702e9a890cf",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+      "source_sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224",
+      "input": {
+        "model": "MFZ/ABC4",
+        "production": "2024-04-21",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "MFZ/ABC4",
+              "dates": [],
+              "source_dates": "2024年4月21日",
+              "batches": [
+                "2024-04"
+              ]
+            },
+            {
+              "model": "MFZ/ABC5",
+              "dates": [],
+              "source_dates": "2024年5月9日",
+              "batches": [
+                "2024-05"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31401ac19ceb420d8b83e702e9a890cf.html",
+        "sha256": "75487de3728926d2ad57aa5fa93088f6bb940c5117b822f270c0e506fa5ba224"
+      },
+      "reason_codes": [
+        "missing_batch"
+      ],
+      "decisive_groups": [
+        "art_31401ac19ceb420d8b83e702e9a890cf:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_77006229eec14fe68504694b92eeb1da-1",
+      "scenario": "多组公告第一组符合",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_77006229eec14fe68504694b92eeb1da",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77006229eec14fe68504694b92eeb1da.html",
+      "source_sha256": "96eb061a6c9e19bb6701929b3acdcd0181a8ad02bc99e91659bfd793af6c3a50",
+      "input": {
+        "model": "KA-I75",
+        "production": "2022-02-10",
+        "batch": "2022-02"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "KA-I75",
+              "dates": [],
+              "source_dates": "2022年2月10日",
+              "batches": [
+                "2022-02"
+              ]
+            },
+            {
+              "model": "KA-903-30",
+              "dates": [],
+              "source_dates": "2022年5月15日",
+              "batches": [
+                "2022-05"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77006229eec14fe68504694b92eeb1da.html",
+        "sha256": "96eb061a6c9e19bb6701929b3acdcd0181a8ad02bc99e91659bfd793af6c3a50"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_77006229eec14fe68504694b92eeb1da:g1"
+      ]
+    },
+    {
+      "case_id": "group-source-art_77006229eec14fe68504694b92eeb1da-2",
+      "scenario": "多组公告第二组符合",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_77006229eec14fe68504694b92eeb1da",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77006229eec14fe68504694b92eeb1da.html",
+      "source_sha256": "96eb061a6c9e19bb6701929b3acdcd0181a8ad02bc99e91659bfd793af6c3a50",
+      "input": {
+        "model": "KA-903-30",
+        "production": "2022-05-15",
+        "batch": "2022-05"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "KA-I75",
+              "dates": [],
+              "source_dates": "2022年2月10日",
+              "batches": [
+                "2022-02"
+              ]
+            },
+            {
+              "model": "KA-903-30",
+              "dates": [],
+              "source_dates": "2022年5月15日",
+              "batches": [
+                "2022-05"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77006229eec14fe68504694b92eeb1da.html",
+        "sha256": "96eb061a6c9e19bb6701929b3acdcd0181a8ad02bc99e91659bfd793af6c3a50"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_77006229eec14fe68504694b92eeb1da:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_77006229eec14fe68504694b92eeb1da-3",
+      "scenario": "多组公告跨组批号错误",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_77006229eec14fe68504694b92eeb1da",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77006229eec14fe68504694b92eeb1da.html",
+      "source_sha256": "96eb061a6c9e19bb6701929b3acdcd0181a8ad02bc99e91659bfd793af6c3a50",
+      "input": {
+        "model": "KA-I75",
+        "production": "2022-05-15",
+        "batch": "2022-05"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "KA-I75",
+              "dates": [],
+              "source_dates": "2022年2月10日",
+              "batches": [
+                "2022-02"
+              ]
+            },
+            {
+              "model": "KA-903-30",
+              "dates": [],
+              "source_dates": "2022年5月15日",
+              "batches": [
+                "2022-05"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77006229eec14fe68504694b92eeb1da.html",
+        "sha256": "96eb061a6c9e19bb6701929b3acdcd0181a8ad02bc99e91659bfd793af6c3a50"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_77006229eec14fe68504694b92eeb1da:g1",
+        "art_77006229eec14fe68504694b92eeb1da:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_77006229eec14fe68504694b92eeb1da-4",
+      "scenario": "多组公告缺少批号",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_77006229eec14fe68504694b92eeb1da",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77006229eec14fe68504694b92eeb1da.html",
+      "source_sha256": "96eb061a6c9e19bb6701929b3acdcd0181a8ad02bc99e91659bfd793af6c3a50",
+      "input": {
+        "model": "KA-I75",
+        "production": "2022-02-10",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "KA-I75",
+              "dates": [],
+              "source_dates": "2022年2月10日",
+              "batches": [
+                "2022-02"
+              ]
+            },
+            {
+              "model": "KA-903-30",
+              "dates": [],
+              "source_dates": "2022年5月15日",
+              "batches": [
+                "2022-05"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77006229eec14fe68504694b92eeb1da.html",
+        "sha256": "96eb061a6c9e19bb6701929b3acdcd0181a8ad02bc99e91659bfd793af6c3a50"
+      },
+      "reason_codes": [
+        "missing_batch"
+      ],
+      "decisive_groups": [
+        "art_77006229eec14fe68504694b92eeb1da:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_f4fe421e182c4e42a7e9b0aba738c96d-1",
+      "scenario": "多组公告第一组符合",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_f4fe421e182c4e42a7e9b0aba738c96d",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f4fe421e182c4e42a7e9b0aba738c96d.html",
+      "source_sha256": "10660d08fa5ee4896ec5300f0faa7960d3cfb7eb4a6114ec17be8f2f981e8545",
+      "input": {
+        "model": "QF38+38W",
+        "production": "2021-08-01",
+        "batch": "LED-A210725-01"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "数量末尾总计188件，分项单位为个；汇总沿用总计单位并保留原文。",
+          "groups": [
+            {
+              "model": "QF38+38W",
+              "dates": [],
+              "source_dates": "2021年8月1日-2022年5月1日",
+              "batches": [
+                "LED-A210725-01"
+              ]
+            },
+            {
+              "model": "QF25-30W",
+              "dates": [],
+              "source_dates": "2021年7月1日-2022年5月1日",
+              "batches": [
+                "LED-A210605-04"
+              ]
+            },
+            {
+              "model": "QF-36W",
+              "dates": [],
+              "source_dates": "2021年8月1日-2022年5月1日",
+              "batches": [
+                "LED-A210721-02"
+              ]
+            },
+            {
+              "model": "QF-7W",
+              "dates": [],
+              "source_dates": "2021年9月1日-2022年5月1日",
+              "batches": [
+                "LED-A210810-03"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f4fe421e182c4e42a7e9b0aba738c96d.html",
+        "sha256": "10660d08fa5ee4896ec5300f0faa7960d3cfb7eb4a6114ec17be8f2f981e8545"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g1"
+      ]
+    },
+    {
+      "case_id": "group-source-art_f4fe421e182c4e42a7e9b0aba738c96d-2",
+      "scenario": "多组公告第二组符合",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_f4fe421e182c4e42a7e9b0aba738c96d",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f4fe421e182c4e42a7e9b0aba738c96d.html",
+      "source_sha256": "10660d08fa5ee4896ec5300f0faa7960d3cfb7eb4a6114ec17be8f2f981e8545",
+      "input": {
+        "model": "QF25-30W",
+        "production": "2021-07-01",
+        "batch": "LED-A210605-04"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "数量末尾总计188件，分项单位为个；汇总沿用总计单位并保留原文。",
+          "groups": [
+            {
+              "model": "QF38+38W",
+              "dates": [],
+              "source_dates": "2021年8月1日-2022年5月1日",
+              "batches": [
+                "LED-A210725-01"
+              ]
+            },
+            {
+              "model": "QF25-30W",
+              "dates": [],
+              "source_dates": "2021年7月1日-2022年5月1日",
+              "batches": [
+                "LED-A210605-04"
+              ]
+            },
+            {
+              "model": "QF-36W",
+              "dates": [],
+              "source_dates": "2021年8月1日-2022年5月1日",
+              "batches": [
+                "LED-A210721-02"
+              ]
+            },
+            {
+              "model": "QF-7W",
+              "dates": [],
+              "source_dates": "2021年9月1日-2022年5月1日",
+              "batches": [
+                "LED-A210810-03"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f4fe421e182c4e42a7e9b0aba738c96d.html",
+        "sha256": "10660d08fa5ee4896ec5300f0faa7960d3cfb7eb4a6114ec17be8f2f981e8545"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_f4fe421e182c4e42a7e9b0aba738c96d-3",
+      "scenario": "多组公告跨组批号错误",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_f4fe421e182c4e42a7e9b0aba738c96d",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f4fe421e182c4e42a7e9b0aba738c96d.html",
+      "source_sha256": "10660d08fa5ee4896ec5300f0faa7960d3cfb7eb4a6114ec17be8f2f981e8545",
+      "input": {
+        "model": "QF38+38W",
+        "production": "2021-07-01",
+        "batch": "LED-A210605-04"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "数量末尾总计188件，分项单位为个；汇总沿用总计单位并保留原文。",
+          "groups": [
+            {
+              "model": "QF38+38W",
+              "dates": [],
+              "source_dates": "2021年8月1日-2022年5月1日",
+              "batches": [
+                "LED-A210725-01"
+              ]
+            },
+            {
+              "model": "QF25-30W",
+              "dates": [],
+              "source_dates": "2021年7月1日-2022年5月1日",
+              "batches": [
+                "LED-A210605-04"
+              ]
+            },
+            {
+              "model": "QF-36W",
+              "dates": [],
+              "source_dates": "2021年8月1日-2022年5月1日",
+              "batches": [
+                "LED-A210721-02"
+              ]
+            },
+            {
+              "model": "QF-7W",
+              "dates": [],
+              "source_dates": "2021年9月1日-2022年5月1日",
+              "batches": [
+                "LED-A210810-03"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f4fe421e182c4e42a7e9b0aba738c96d.html",
+        "sha256": "10660d08fa5ee4896ec5300f0faa7960d3cfb7eb4a6114ec17be8f2f981e8545"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g1",
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g2",
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g3",
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g4"
+      ]
+    },
+    {
+      "case_id": "group-source-art_f4fe421e182c4e42a7e9b0aba738c96d-4",
+      "scenario": "多组公告缺少批号",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_f4fe421e182c4e42a7e9b0aba738c96d",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f4fe421e182c4e42a7e9b0aba738c96d.html",
+      "source_sha256": "10660d08fa5ee4896ec5300f0faa7960d3cfb7eb4a6114ec17be8f2f981e8545",
+      "input": {
+        "model": "QF38+38W",
+        "production": "2021-08-01",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "数量末尾总计188件，分项单位为个；汇总沿用总计单位并保留原文。",
+          "groups": [
+            {
+              "model": "QF38+38W",
+              "dates": [],
+              "source_dates": "2021年8月1日-2022年5月1日",
+              "batches": [
+                "LED-A210725-01"
+              ]
+            },
+            {
+              "model": "QF25-30W",
+              "dates": [],
+              "source_dates": "2021年7月1日-2022年5月1日",
+              "batches": [
+                "LED-A210605-04"
+              ]
+            },
+            {
+              "model": "QF-36W",
+              "dates": [],
+              "source_dates": "2021年8月1日-2022年5月1日",
+              "batches": [
+                "LED-A210721-02"
+              ]
+            },
+            {
+              "model": "QF-7W",
+              "dates": [],
+              "source_dates": "2021年9月1日-2022年5月1日",
+              "batches": [
+                "LED-A210810-03"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f4fe421e182c4e42a7e9b0aba738c96d.html",
+        "sha256": "10660d08fa5ee4896ec5300f0faa7960d3cfb7eb4a6114ec17be8f2f981e8545"
+      },
+      "reason_codes": [
+        "missing_batch"
+      ],
+      "decisive_groups": [
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g2",
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g3",
+        "art_f4fe421e182c4e42a7e9b0aba738c96d:g4"
+      ]
+    },
+    {
+      "case_id": "group-source-art_280411cbe0554b1791251299bec3dc09-1",
+      "scenario": "多组公告第一组符合",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_280411cbe0554b1791251299bec3dc09",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+      "source_sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf",
+      "input": {
+        "model": "FV-15008",
+        "production": "2020-09-01",
+        "batch": "20200901012"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "FV-15008",
+              "dates": [],
+              "source_dates": "2020年9月1日",
+              "batches": [
+                "20200901012"
+              ]
+            },
+            {
+              "model": "FV-15010",
+              "dates": [],
+              "source_dates": "2021年5月7日",
+              "batches": [
+                "20210507023"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+        "sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_280411cbe0554b1791251299bec3dc09:g1"
+      ]
+    },
+    {
+      "case_id": "group-source-art_280411cbe0554b1791251299bec3dc09-2",
+      "scenario": "多组公告第二组符合",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_280411cbe0554b1791251299bec3dc09",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+      "source_sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf",
+      "input": {
+        "model": "FV-15010",
+        "production": "2021-05-07",
+        "batch": "20210507023"
+      },
+      "expected": "matched",
+      "actual": "matched",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "FV-15008",
+              "dates": [],
+              "source_dates": "2020年9月1日",
+              "batches": [
+                "20200901012"
+              ]
+            },
+            {
+              "model": "FV-15010",
+              "dates": [],
+              "source_dates": "2021年5月7日",
+              "batches": [
+                "20210507023"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+        "sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_280411cbe0554b1791251299bec3dc09:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_280411cbe0554b1791251299bec3dc09-3",
+      "scenario": "多组公告跨组批号错误",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_280411cbe0554b1791251299bec3dc09",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+      "source_sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf",
+      "input": {
+        "model": "FV-15008",
+        "production": "2021-05-07",
+        "batch": "20210507023"
+      },
+      "expected": "outside",
+      "actual": "outside",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "FV-15008",
+              "dates": [],
+              "source_dates": "2020年9月1日",
+              "batches": [
+                "20200901012"
+              ]
+            },
+            {
+              "model": "FV-15010",
+              "dates": [],
+              "source_dates": "2021年5月7日",
+              "batches": [
+                "20210507023"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+        "sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf"
+      },
+      "reason_codes": [],
+      "decisive_groups": [
+        "art_280411cbe0554b1791251299bec3dc09:g1",
+        "art_280411cbe0554b1791251299bec3dc09:g2"
+      ]
+    },
+    {
+      "case_id": "group-source-art_280411cbe0554b1791251299bec3dc09-4",
+      "scenario": "多组公告缺少批号",
+      "origin": "公告来源关联案例",
+      "notice_id": "art_280411cbe0554b1791251299bec3dc09",
+      "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+      "source_sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf",
+      "input": {
+        "model": "FV-15008",
+        "production": "2020-09-01",
+        "batch": ""
+      },
+      "expected": "pending",
+      "actual": "pending",
+      "correct": true,
+      "basis": {
+        "groups": {
+          "status": "原文逐组列明型号及日期或批次，必须在同组内核对，禁止跨型号拼接。",
+          "groups": [
+            {
+              "model": "FV-15008",
+              "dates": [],
+              "source_dates": "2020年9月1日",
+              "batches": [
+                "20200901012"
+              ]
+            },
+            {
+              "model": "FV-15010",
+              "dates": [],
+              "source_dates": "2021年5月7日",
+              "batches": [
+                "20210507023"
+              ]
+            }
+          ]
+        },
+        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_280411cbe0554b1791251299bec3dc09.html",
+        "sha256": "3ae4835eef20207d4633660e4adb5f62554efb95c7973d373b162b8e1a9d4cdf"
+      },
+      "reason_codes": [
+        "missing_batch"
+      ],
+      "decisive_groups": [
+        "art_280411cbe0554b1791251299bec3dc09:g2"
+      ]
+    }
+  ]
+}

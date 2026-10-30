@@ -1,0 +1,23 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+.qwen-config*
+*.pem
+*.key
+credentials*.json
+secrets*.json
+# Runtime and personal outputs
+__pycache__/
+*.pyc
+tmp/
+*.log
+research/exports/
+research/results/
+.DS_Store
+Thumbs.db
+
+# Original announcement/OCR images retained locally
+dataset/**/*.png
+dataset/**/*.jpg
+dataset/**/*.jpeg

@@ -1,0 +1,15 @@
+const assert=require('node:assert/strict');
+const {notices,records,verifyRecord:v}=require('./dist/data.js');
+assert.equal(notices.length,6);assert.equal(records.length,11);
+const get=id=>records.find(r=>r.id===id);
+assert.equal(v(get('leying'),'2025-07-29','').state,'matched');
+assert.equal(v(get('leying'),'2025-07-28','').state,'outside');
+assert.equal(v(get('leying'),'','').state,'pending');
+assert.equal(v(get('anker'),'2024-05-01','').state,'pending');
+assert.equal(v(get('romoss'),'2023-08-01','').state,'outside');
+assert.equal(v(get('romoss'),'2024-01-05','').state,'pending');
+assert.equal(v(get('linxee'),'2025-08-25','').state,'pending');
+assert.equal(v(get('linxee'),'2025-08-25','WRONG').state,'outside');
+assert.equal(v(get('linxee'),'2025-08-27','SZF25070901-A').state,'matched');
+assert.equal(records.reduce((s,r)=>s+r.count,0),841577);
+console.log('PASS: notice/model counts, quantities, date boundaries, disjoint ranges, missing and mismatched batches.');

@@ -1,0 +1,94 @@
+{
+  "art_04cf1ad378bd4b809e2ff2816ff730ac": {
+    "source_sha256": "a18a17d4b3395fa3b6181eaf0719348688f9aa3e92fc42e89a7c572066a1bec3",
+    "method": "2026-10-25逐项核对官方HTML型号、生产日期、批次表格，以产品名称保持关联",
+    "complete": true,
+    "groups": [
+      {
+        "model": "DNDG-2503-COB25W",
+        "source_dates": "2021年4月5日至2021年4月9日",
+        "batch_raw": "DN20210405",
+        "evidence": "导轨射灯：DNDG-2503-COB25W；导轨射灯：2021年4月5日至2021年4月9日；导轨射灯：DN20210405"
+      },
+      {
+        "model": "DN-CHLED-TD-0504-1 5W",
+        "source_dates": "2021年3月15日至2021年3月18",
+        "batch_raw": "DN20210315",
+        "evidence": "LED筒灯：DN-CHLED-TD-0504-1 5W；LED筒灯：2021年3月15日至2021年3月18；LED筒灯：DN20210315"
+      },
+      {
+        "model": "LEDT5A 4W",
+        "source_dates": "2021年4月6日至2021年4月8",
+        "batch_raw": "DN20210406",
+        "evidence": "LED T5支架：LEDT5A 4W；LED T5支架：2021年4月6日至2021年4月8；LED T5支架：DN20210406"
+      }
+    ]
+  },
+  "art_2eaa74cf65a04792a51d89af9d34ed5d": {
+    "source_sha256": "85731e257e5c4fd4ef79f2e816ffeae7cc535637ba5ab2a561595df8ce37401f",
+    "method": "2026-10-25逐条核对官方HTML全表，五组编号型号与生产日一一对应；批号栏--/--，未另列独立批号限制。仅核对公告已披露范围，不推断未列型号或其他生产日期。",
+    "complete": true,
+    "groups": [
+      {
+        "model": "Z0207D",
+        "source_dates": "2025年5月16日",
+        "batch_raw": "--/--",
+        "required": {
+          "model": true,
+          "production": true,
+          "batch": false
+        },
+        "evidence": "型号/规格第1项：Z0207D型；生产起止日期第1项：2025年5月16日；生产批号/批次：--/--。",
+        "batch_basis": "经完整公告范围表复核，按编号型号及生产日界定，未列独立批号限制。"
+      },
+      {
+        "model": "Z0207A",
+        "source_dates": "2025年5月17日",
+        "batch_raw": "--/--",
+        "required": {
+          "model": true,
+          "production": true,
+          "batch": false
+        },
+        "evidence": "型号/规格第2项：Z0207A型；生产起止日期第2项：2025年5月17日；生产批号/批次：--/--。",
+        "batch_basis": "经完整公告范围表复核，按编号型号及生产日界定，未列独立批号限制。"
+      },
+      {
+        "model": "Z0207B",
+        "source_dates": "2025年5月19日",
+        "batch_raw": "--/--",
+        "required": {
+          "model": true,
+          "production": true,
+          "batch": false
+        },
+        "evidence": "型号/规格第3项：Z0207B型；生产起止日期第3项：2025年5月19日；生产批号/批次：--/--。",
+        "batch_basis": "经完整公告范围表复核，按编号型号及生产日界定，未列独立批号限制。"
+      },
+      {
+        "model": "Z0207F",
+        "source_dates": "2025年5月19日",
+        "batch_raw": "--/--",
+        "required": {
+          "model": true,
+          "production": true,
+          "batch": false
+        },
+        "evidence": "型号/规格第4项：Z0207F型；生产起止日期第4项：2025年5月19日；生产批号/批次：--/--。",
+        "batch_basis": "经完整公告范围表复核，按编号型号及生产日界定，未列独立批号限制。"
+      },
+      {
+        "model": "Z0207C",
+        "source_dates": "2025年5月19日",
+        "batch_raw": "--/--",
+        "required": {
+          "model": true,
+          "production": true,
+          "batch": false
+        },
+        "evidence": "型号/规格第5项：Z0207C型；生产起止日期第5项：2025年5月19日；生产批号/批次：--/--。",
+        "batch_basis": "经完整公告范围表复核，按编号型号及生产日界定，未列独立批号限制。"
+      }
+    ]
+  }
+}

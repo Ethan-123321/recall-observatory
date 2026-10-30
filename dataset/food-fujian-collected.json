@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fj_P020260115591615780613",
+    "title": "泉州市鲜滋燕食品有限公司食品召回公告（20251220）",
+    "published_date": "2025-12-23",
+    "source_url": "https://scjgj.fujian.gov.cn/zt/spzh/spzh/202601/P020260115591615780613.pdf",
+    "raw_file": "raw\\multidomain\\P020260115591615780613.pdf",
+    "sha256": "8e8f66d17f36cefa08097df84528c8b0a69adeab6121578c49b424c3c4f710d1",
+    "source_text": "",
+    "retrieved_date": "2026-10-23"
+  },
+  {
+    "id": "fj_P020260115591192169632",
+    "title": "泉州三厨食品有限公司食品召回公告（20251219）",
+    "published_date": "2025-12-22",
+    "source_url": "https://scjgj.fujian.gov.cn/zt/spzh/spzh/202601/P020260115591192169632.pdf",
+    "raw_file": "raw\\multidomain\\P020260115591192169632.pdf",
+    "sha256": "bd82be6a9127046d3207952923eebfce1cf172963319e4117ea517d5853c8190",
+    "source_text": "",
+    "retrieved_date": "2026-10-23"
+  },
+  {
+    "id": "fj_P020260115590795751838",
+    "title": "晋江市中鸿油脂食品有限公司不合格食品的召回公告（20251128）",
+    "published_date": "2025-12-01",
+    "source_url": "https://scjgj.fujian.gov.cn/zt/spzh/spzh/202601/P020260115590795751838.pdf",
+    "raw_file": "raw\\multidomain\\P020260115590795751838.pdf",
+    "sha256": "196216706e897b7a9d4f8dea4b78e0845f3498840d76ff6d1b0d03aa0766f867",
+    "source_text": "\n",
+    "retrieved_date": "2026-10-23"
+  },
+  {
+    "id": "fj_P020251117419461819747",
+    "title": "晋江市池店镇林培玲食品加工厂食品召回公告（20251010）",
+    "published_date": "2025-10-13",
+    "source_url": "https://scjgj.fujian.gov.cn/zt/spzh/spzh/202511/P020251117419461819747.pdf",
+    "raw_file": "raw\\multidomain\\P020251117419461819747.pdf",
+    "sha256": "95ece4ca424de5978cf6dae14bd789dffca837ca3172ac3723a6b600e4db8555",
+    "source_text": "",
+    "retrieved_date": "2026-10-23"
+  },
+  {
+    "id": "fj_P020251029604375755908",
+    "title": "南安市翔达油脂发展有限公司食品召回公告（20251009）",
+    "published_date": "2025-10-12",
+    "source_url": "https://scjgj.fujian.gov.cn/zt/spzh/spzh/202510/P020251029604375755908.pdf",
+    "raw_file": "raw\\multidomain\\P020251029604375755908.pdf",
+    "sha256": "0d59fbef5ab2c050fc9ffe093072cf27b017551a09b99f3ea98f261d7073a94e",
+    "source_text": "",
+    "retrieved_date": "2026-10-23"
+  }
+]

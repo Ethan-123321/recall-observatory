@@ -1,0 +1,2005 @@
+{
+  "source_url": "https://www.samrdprc.org.cn/zhxx/spxgcpzh/index.html",
+  "retrieved_date": "2026-10-22",
+  "filter": "2023-01-01 / 2025-12-31",
+  "total": 267,
+  "pages": [
+    {
+      "page": 1,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-001.json",
+      "sha256": "e875912cba5e1c08eabfeab5385cb0993e32f9a11e01aa6982b7286853e4f6b7",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+1%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 2,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-002.json",
+      "sha256": "05606b83783e5e7ac1518f044894a9f219ec1f566842b82f94aec69cbe314cd8",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+2%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 3,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-003.json",
+      "sha256": "e31ee104081fd35924d5f1cb1931c9b3d658bf71d2089bc5e8fda2aaf9a560a8",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+3%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 4,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-004.json",
+      "sha256": "da345f59812dcd82ed8e80a497aa51f53fc98129bee02bcf7158f103d02dfa45",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+4%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 5,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-005.json",
+      "sha256": "e2661e995a72447480174d760b3863b6acc2aa32682dc8aec214ece29e5852cf",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+5%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 6,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-006.json",
+      "sha256": "33b413c09412bdb3aee54914f046d2b24cc5238a4e7ef9420d39e1e53b5a1183",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+6%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 7,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-007.json",
+      "sha256": "a2a449d4fd457168d0c2b9f73015935c6effc2a85cb0a5c389ce8e5c95501e92",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+7%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 8,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-008.json",
+      "sha256": "7b694a59c9d865a8544674b1dcefca52d174f86c78cf62bba7c9213e8a9fc7bb",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+8%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 9,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-009.json",
+      "sha256": "dd930c27f4eb40ec4279b5e0328e480970b449e827a70a2271491e47da4ff622",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+9%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 10,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-010.json",
+      "sha256": "fd08350d0bac266b6b94c4037032db0ebe1057880113988f795bc03a4afb1be2",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+10%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 11,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-011.json",
+      "sha256": "eb098bbb0b772b2b8a35dcbe2a3a587026856190f176f05c14e79ee3342522c7",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+11%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 12,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-012.json",
+      "sha256": "1533cff74fda08b2ac6eb06ac0763f5a54432291eaaf802565018e3e984e4fe8",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+12%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 13,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-013.json",
+      "sha256": "2ecfac1a92d563d9d557e0478377c402811c188ecff2da666368d4832d0240f7",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+13%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 14,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-014.json",
+      "sha256": "61df965c9e0a311d8d50d4dd60e77449601a70103e3330edddd04e6891646736",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+14%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 15,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-015.json",
+      "sha256": "e1cb447bcae0e642d651a37ada5d0b0ea97da40f6ce71e28ceb64ea76790af6b",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+15%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 16,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-016.json",
+      "sha256": "d433e9e338a6772f43321fc6daf5beefca582458e3a1133445afcbf8f406bbe5",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+16%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 17,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\food-list-017.json",
+      "sha256": "cf59b1806da8754c2374c256fec1b556c51d979ee7665e62cb28152ce3598257",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+17%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 18,
+      "count": 12,
+      "raw_file": "raw\\multidomain\\food-list-018.json",
+      "sha256": "e9a0147fa26557694085aba658afdd2b4d60b14675e536937696338137c0943a",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=p5oHwp130Iib0TKqN5Mlp&paramJson=%7B%22pageNo%22%3A+18%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    }
+  ],
+  "records": [
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c50bf993df0d40319c5867454796f7f9.html",
+      "title": "【江苏】无锡市康爱康塑料有限公司扩大召回部分康爱康牌250mL一次性塑料杯",
+      "published_date": "2025-12-31",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_851a393c34d6412ebfb017ed04dc6c1e.html",
+      "title": "【海南】海南丰瑞康科技有限公司召回V850纸碗（食品用）产品",
+      "published_date": "2025-12-30",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c899105b2df04622a72e82a04f2f2cff.html",
+      "title": "【江苏】连云港根深纸制品有限公司召回根深牌纸餐盒",
+      "published_date": "2025-12-29",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c00447e4ee9b41cc9f295bd733b4a78e.html",
+      "title": "【江苏】南京洁缘纸制品有限公司召回洁缘牌一次性纸杯",
+      "published_date": "2025-12-29",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_ccac2edd41cd4349a2bfa2680466b0ba.html",
+      "title": "【安徽】安徽宣德公共管理服务有限公司召回部分“宣德”牌一次性竹筷",
+      "published_date": "2025-12-26",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_4c702e80557141ff8547b7abf3fd7d12.html",
+      "title": "【安徽】安徽若炫密胺制品有限公司召回部分密胺餐具",
+      "published_date": "2025-12-26",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_2d1e07e5317141bfaa7b0d6b468891ab.html",
+      "title": "【安徽】安徽天添塑业有限公司召回部分大卷烘焙纸",
+      "published_date": "2025-12-26",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_d956cd5fa6984df483b862e7e55c1bf7.html",
+      "title": "【安徽】广德市荣健竹制品厂召回一次性竹筷",
+      "published_date": "2025-12-22",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_6b080346ddd24f2687da77c97b73c052.html",
+      "title": "【安徽】石台县丁香镇裕峰竹业专业合作社召回部分一次性竹筷",
+      "published_date": "2025-12-22",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_3c673dce356f4ec7898de36d2e7d5b30.html",
+      "title": "【安徽】广德县康达竹制品厂召回一次性竹筷",
+      "published_date": "2025-12-22",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_2427b967c50e4621813abd233e14a877.html",
+      "title": "【安徽】青阳县木镇镇春峰竹制品加工厂召回食品接触用竹签",
+      "published_date": "2025-12-22",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_3ce6a7d7d9cd4820802ad2131c2db74f.html",
+      "title": "【安徽】池州南塘竹制品有限公司召回部分一次性竹筷",
+      "published_date": "2025-12-22",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_aa41511d86b94675b0d640969a0d237c.html",
+      "title": "【江苏】江苏方润环保科技有限公司召回方润牌一次性塑料杯",
+      "published_date": "2025-12-22",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c326167f624a49e7b83e19f728965604.html",
+      "title": "【安徽】安徽龙贤商贸有限公司召回鲜滋味饺子盒两件套",
+      "published_date": "2025-12-19",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c3225638ad8a4bb0a11164f37844f3a7.html",
+      "title": "【安徽】芜湖明徽杯业有限公司召回部分双层玻璃杯",
+      "published_date": "2025-12-19",
+      "source_channel": "food",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_7a94a2884a894ab09b18bf0171da102f.html",
+      "title": "【湖南】湖南和聚塑料制品有限公司召回部分和聚饮杯塑料水杯",
+      "published_date": "2025-12-19",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_80988eb17a344b1c8da8a19d8ee60303.html",
+      "title": "【湖南】衡阳县康力纸塑制品厂召回部分康力太空杯塑料水杯",
+      "published_date": "2025-12-19",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_7d3815e82199435080c732d1126fb7d1.html",
+      "title": "【贵州】贵州富强科技包装有限公司召回部分富强AA纸饮杯",
+      "published_date": "2025-12-15",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_6afa47bed17140598750356eee323f93.html",
+      "title": "【河南】河南省诚和印制有限公司召回部分诚和牌一次性纸杯",
+      "published_date": "2025-12-15",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_7e6ef62af66246219821ce90a075d40d.html",
+      "title": "【贵州】兴义市迎春超洁洗涤用品厂召回部分黔净洗洁精",
+      "published_date": "2025-12-12",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_32cff7192b7041ae83228358219b83e2.html",
+      "title": "【贵州】贵州汇宝科技有限公司召回部分大号碗（一次性纸碗）",
+      "published_date": "2025-12-12",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_81e8a6b992414d8286e7e90f71f84f44.html",
+      "title": "【贵州】贵州万军千玺包装有限公司召回部分千玺大号碗",
+      "published_date": "2025-12-12",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_ecaf89b01dcc4e3ba5ec9fe1d3f9f13d.html",
+      "title": "【新疆】新疆广沃汇川日化有限公司召回部分洁威盾牌柠檬植萃温和护手洗洁精",
+      "published_date": "2025-12-05",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_d58e8549065b49a18414f7137ffcf088.html",
+      "title": "【内蒙古】内蒙古雅诚美育文化艺术有限责任公司召回一泡品芳华牌神清气爽杯泡茶",
+      "published_date": "2025-11-26",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_1fa9367653ba4c279d5c64755d0b699e.html",
+      "title": "【江苏】无锡市康爱康塑料有限公司召回部分康爱康牌250mL一次性塑料杯",
+      "published_date": "2025-11-21",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_f9e20230c40b48dbb0d90d669b483293.html",
+      "title": "【甘肃】兰州陇秦工贸有限公司召回部分“陇秦牌”洗洁精产品",
+      "published_date": "2025-11-20",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_da94a2b807c84e439abeba2dc9d2d4ce.html",
+      "title": "【甘肃】兰州辰鑫洗涤化工有限责任公司召回部分“辰鑫”牌餐具洗涤剂产品",
+      "published_date": "2025-11-20",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_f3369b3c0f0342469fc92b18d1fb6004.html",
+      "title": "【甘肃】黄河母亲（甘肃）日化有限公司召回部分“黄河母亲”牌洗涤剂产品",
+      "published_date": "2025-11-20",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_b74def785f364fae87a8dd616cedb8fc.html",
+      "title": "【甘肃】甘肃帝豪日化有限公司召回部分“邦洁博士”牌洗洁精产品",
+      "published_date": "2025-11-20",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_76dacc1b7bf24f37bf326b1158334a62.html",
+      "title": "【江苏】江阴市远望轻工制品有限公司召回部分洁康塑之博牌200mL航旅杯",
+      "published_date": "2025-11-19",
+      "source_channel": "food",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_a826c4af933143b881b300e24377ea33.html",
+      "title": "【江苏】无锡新乐凡纸品有限公司召回部分一次性纸杯",
+      "published_date": "2025-11-19",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_2b62eff16375415291660788a15a5cf6.html",
+      "title": "【安徽】六安勇信嘉新材料科技有限公司召回部分塑料一次性餐盒",
+      "published_date": "2025-11-18",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_92ca6f6919f04380ba89e3d7cdc723c6.html",
+      "title": "【安徽】合肥亮彩日化有限公司召回部分亿民牌绿茶除菌洗洁精",
+      "published_date": "2025-11-18",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_0fed7a42ed3b41829d3dc2b871761f60.html",
+      "title": "【安徽】镜湖区荣祥玻璃工艺厂召回部分双层玻璃杯",
+      "published_date": "2025-11-18",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_4681d39114dd4a86bdbdc1f15af0703f.html",
+      "title": "【新疆】喀什市旭净洁洗涤用品厂召回部分餐具洗涤剂",
+      "published_date": "2025-11-14",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_930e7da99f034adf81df034a1fac5520.html",
+      "title": "【江苏】兴化市巨展塑料制品厂召回部分巨展牌JZ方形餐盒",
+      "published_date": "2025-11-11",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_a3a07a2ecf014433a99204a14a01d773.html",
+      "title": "【贵州】大方县富荣纸碗厂召回部分纸碗",
+      "published_date": "2025-11-05",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_ca390543e3f74a01ba0a0a078eed7410.html",
+      "title": "【贵州】贵州好利雅科技包装有限公司召回部分万康180精品塑杯",
+      "published_date": "2025-11-05",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_9967c35d4f4943a19ddea0aa4370576b.html",
+      "title": "【贵州】七星关区宏达纸品厂召回部分宏达一次性纸碗",
+      "published_date": "2025-11-05",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_3bafde519e3f45e98cfbd8d421455287.html",
+      "title": "【江苏】淮安卓美包装科技有限公司召回750mL纸碗（食品用）产品",
+      "published_date": "2025-11-04",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_6da8a3611b4140668c93a931fea60a22.html",
+      "title": "【江苏】泰州睿阳印刷集团有限公司召回睿阳牌淋膜纸杯",
+      "published_date": "2025-11-04",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_9c99237dc49e48d9aedff8725157f782.html",
+      "title": "【江苏】连云港旭欢塑料制品有限公司召回旭欢牌杯盖",
+      "published_date": "2025-11-04",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_df9c757244544cb98ec1e2bf8066b31a.html",
+      "title": "【江苏】江苏启航包装科技有限公司召回QH牌食品盛装盒",
+      "published_date": "2025-10-31",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/spxgcpzh/art/2026/art_78a9a54fa61d46bab5748bb22d72598d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "【江苏】江苏启航包装科技有限公司召回QH牌食品盛装盒",
+      "published_date": "2025-10-31",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_8eec252f58fc4e8d88f623a31f91f916.html",
+      "title": "【甘肃】甘肃聚兴胜商贸有限公司召回部分廊杰速全效强力洗洁精",
+      "published_date": "2025-10-31",
+      "source_channel": "food",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_20daf809fad342ae88108af1150e735b.html",
+      "title": "【安徽】霍山县福财竹业有限公司召回部分食品用一次性竹签",
+      "published_date": "2025-10-28",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_7d1bc3888f9f486daf913e4f9be46549.html",
+      "title": "【新疆】乌鲁木齐市昇达宏鑫塑料制品有限公司召回部分如意碗",
+      "published_date": "2025-10-22",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_5d0e0c629a1c4918a002b0fd11031962.html",
+      "title": "【新疆】察布查尔锡伯自治县四海洁新洗涤剂厂召回部分餐具洗涤剂",
+      "published_date": "2025-10-22",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_15217b60e4b0468babaae06ffaa2e6d1.html",
+      "title": "【宁夏】银川市陈欣荣纸塑制品有限公司召回部分纸碗",
+      "published_date": "2025-10-21",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_d19a64395d6b4292a214a42a833348e6.html",
+      "title": "【贵州】贵州鑫越新材料科技有限公司召回部分富美家牌一次性塑料杯",
+      "published_date": "2025-10-11",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_63ed2fb864d94083825860936cee70b7.html",
+      "title": "【河南】孟州市行知塑业有限公司召回部分鸿图牌密胺餐具（筷子）",
+      "published_date": "2025-10-09",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_6a0aad41e8c6415b9dafa72fbdfebf58.html",
+      "title": "【河南】博爱县友城炊具有限公司召回部分铸铁锅",
+      "published_date": "2025-10-09",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_0c09c77409994d539b5371c218c5e1de.html",
+      "title": "【安徽】涡阳县韩氏金玺玻璃制品有限公司召回高档双层精品杯",
+      "published_date": "2025-09-29",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_67be1104d8b3455eaa131379bacaf7c3.html",
+      "title": "【安徽】利辛县峰华塑胶有限公司召回一次性塑料碗",
+      "published_date": "2025-09-29",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_206985439b914b50b4ee291582eb4207.html",
+      "title": "【江苏】仪征市新扬塑料制品有限公司召回塑料奶瓶（一次性）",
+      "published_date": "2025-09-29",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_08f3e29b58444e16ad698e773c7de581.html",
+      "title": "【湖北】武汉鑫青隆环保科技有限公司召回部分便携型简约纸碗",
+      "published_date": "2025-09-24",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_27c710df23464e8fac4e750c9785ba53.html",
+      "title": "【安徽】临泉县洛雨餐具有限公司召回一次性稻壳餐具",
+      "published_date": "2025-09-23",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_cf96d8eb4d5445d1814a937188b8af46.html",
+      "title": "【安徽】芜湖艾米妮电子商务有限公司召回部分餐具",
+      "published_date": "2025-09-23",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_640b6df4a8174771b4658120c19e9ca3.html",
+      "title": "【安徽】安徽同鑫密胺制品有限公司召回部分密胺餐盘",
+      "published_date": "2025-09-23",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c9fee20b6d5944c688cc95fc7b63ab4f.html",
+      "title": "【安徽】凤台县杨村镇吴井连筷子加工厂召回一次性竹筷",
+      "published_date": "2025-09-23",
+      "source_channel": "food",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_478eb5996bba42d1b813feb17d9187ac.html",
+      "title": "【安徽】淮南炫达密胺制品有限公司召回部分三角碗",
+      "published_date": "2025-09-23",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_2f2b100f9c214328800fe7311674ac07.html",
+      "title": "【安徽】安徽艺玻玻璃有限公司召回竖纹转转杯",
+      "published_date": "2025-09-23",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_8c9dd1e6876642c795628ed9736e9f26.html",
+      "title": "【江苏】江苏凯序金原纸塑包装有限公司召回金原纸塑牌一次性纸杯",
+      "published_date": "2025-09-08",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_ac51389d8ce14d9d9bae04f6013b7ad6.html",
+      "title": "【江苏】江苏方润环保科技有限公司召回方润牌一次性塑料杯",
+      "published_date": "2025-09-08",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c751d8dbb7bb4e66bdfdf50a2ed4bad3.html",
+      "title": "【河南】平顶山市福源炊具有限公司召回部分花园铁匠牌铸铁锅",
+      "published_date": "2025-09-04",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_577b0545b366421ea99a40ebd0652c8c.html",
+      "title": "【河南】郏县万家利炊具有限公司召回部分伊佳厨牌铸铁锅",
+      "published_date": "2025-09-03",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_eb1ecb4f7ef34cc2a0033ee7113dec09.html",
+      "title": "【安徽】临泉乐腾纸塑包装有限公司召回部分张记关东煮纸碗",
+      "published_date": "2025-09-01",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_20660622be2046e292f5b7c463f0ff8e.html",
+      "title": "【宁夏】灵武市德福纸杯厂召回部分纸碗",
+      "published_date": "2025-08-22",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_0fb9a5f084d54c68a0b0961a4cc62e95.html",
+      "title": "【宁夏】永宁县仁福纸塑制品有限公司召回部分鑫仁福牌纸碗",
+      "published_date": "2025-08-22",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_3b0f52e402514ce29be52be18c211454.html",
+      "title": "【宁夏】宁夏宝乐家纸塑制品有限公司召回部分宝乐家牌纸碗",
+      "published_date": "2025-08-22",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_56ba9dffcda4424c8642ac5eb83e0cc7.html",
+      "title": "【甘肃】天水富强商贸有限公司召回部分纸碗",
+      "published_date": "2025-08-19",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_1f8b47903cb6474b9f4ae35bdff47c6a.html",
+      "title": "【山西】山西众城降解新材料有限公司召回最U盒牌一次性餐盒",
+      "published_date": "2025-08-18",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_a4eb4f3d15454b22ac7fb87a14ea4de2.html",
+      "title": "【辽宁】沈阳泰华包装有限公司召回空白袋",
+      "published_date": "2025-07-18",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_301172f5d2284d2ea806a663d5a62640.html",
+      "title": "【湖南】湖南和聚塑料制品有限公司召回部分一次性航空杯",
+      "published_date": "2025-07-09",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_1fc1baea46dd4713b7eba7d7a25e3df8.html",
+      "title": "【甘肃】兰州市七里河区华丽纸塑工艺厂召回部分一次性航空杯",
+      "published_date": "2025-07-04",
+      "source_channel": "food",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_8e9ed0ffedb44b879a9afc46e9163d07.html",
+      "title": "【江苏】连云港根深纸制品有限公司召回根深牌9盎司型号纸杯",
+      "published_date": "2025-06-27",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_014d41dab7ae4198b8b175e15d4f1a5d.html",
+      "title": "【江苏】江苏乾润新材料科技有限公司召回三边封压花袋",
+      "published_date": "2025-06-27",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_23cfe9bf87194ab1b62cba9b4071ecb4.html",
+      "title": "【甘肃】兰州麦氏商贸有限公司召回部分一次性航空杯",
+      "published_date": "2025-06-27",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_fb82ca5508304f659eadf65ef7f467bd.html",
+      "title": "【甘肃】七里河宏兴塑料厂召回部分一次性航空杯",
+      "published_date": "2025-06-27",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_9ae9652f7cf94863a643a5f911ed60cf.html",
+      "title": "【福建】晋江市磁灶镇恒康纸杯厂召回部分环保纸杯",
+      "published_date": "2025-06-25",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_8d5e2ff1768d418e838da36385f2b533.html",
+      "title": "【湖南】湖南为真塑业有限公司召回部分万容四季杯塑料水杯",
+      "published_date": "2025-06-19",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_f475a7ceb95e454c8b5702b8aa8df477.html",
+      "title": "【安徽】利辛县超芒日用品有限公司召回时尚网红水杯",
+      "published_date": "2025-06-17",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_2922162e9ef047eab5781358d7507a42.html",
+      "title": "【上海】宜家（中国）投资有限公司召回部分宜家IKEA牌瓦福压蒜器",
+      "published_date": "2025-06-12",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_8512d764c24d4166b60d2fdc0e9db140.html",
+      "title": "【河南】汝南县康洁杯业有限公司召回部分汝康洁牌纸杯",
+      "published_date": "2025-06-11",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_62db01d8a6bc4871b2e246efe959f650.html",
+      "title": "【江西】江西康利塑胶有限公司召回欣康利牌塑料一次性餐饮具（塑料餐盒）",
+      "published_date": "2025-06-10",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_a41221c929d442c4a2a5f9fbdf32fb2b.html",
+      "title": "【福建】漳州市三宇纸业有限公司召回部分425白碗",
+      "published_date": "2025-06-06",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_3dc905bdf1694f658c06539ed43c24fc.html",
+      "title": "【北京】优品慧科技发展（北京）有限公司主动召回部分型号星坊牌稻壳碗",
+      "published_date": "2025-06-05",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_ac93bd65c4584c72998a0670df1496e7.html",
+      "title": "【北京】北京北方鑫旺源商贸有限公司主动召回部分型号蓝自然牌稻壳餐具三件套",
+      "published_date": "2025-06-05",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_e9d0340424d741129b86b79c48bce631.html",
+      "title": "【江苏】镇江碗里香包装科技有限公司召回牛皮纸沙拉碗产品",
+      "published_date": "2025-06-04",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_2de3a2ee870f4c8ca26767bedaf390fa.html",
+      "title": "【江西】南昌家雅净包装有限公司召回富达牌航旅杯",
+      "published_date": "2025-05-12",
+      "source_channel": "food",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_e8f0974a98194fc3bcc4ebedede0f18a.html",
+      "title": "【湖南】攸县康怡纸塑包装厂召回部分康洁诺鸿运杯塑料水杯",
+      "published_date": "2025-05-12",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_89aa76f421f240208754c2334433b1a2.html",
+      "title": "【江西】江西星平包装有限公司召回福之家牌靓彩碗",
+      "published_date": "2025-05-06",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_504fb8410c1d4e8dae70243a2282c754.html",
+      "title": "【江苏】扬州远润包装材料有限公司召回淋膜纸盒",
+      "published_date": "2025-04-30",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_4810f6beb6be4d35946c946124fe8bfe.html",
+      "title": "【安徽】宁国市利丰竹木制品厂召回部分一次性竹筷产品",
+      "published_date": "2025-04-30",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_66e64d9aab3c4db3b8ed116ef6fee10a.html",
+      "title": "【安徽】蚌埠市龙淮玻璃器皿有限公司召回琴之羽牌六棱钻石杯",
+      "published_date": "2025-04-30",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_f36dfb4bdcfe45bab13cc13fefd0fd3e.html",
+      "title": "【河南】郑州蚂蚁合众商业管理有限公司召回部分极货牌抗菌小麦砧板",
+      "published_date": "2025-04-27",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_cf730e16ef6a4724bc0e9f84d427e69b.html",
+      "title": "【湖南】攸县康怡纸塑包装厂召回部分康洁诺超炫杯塑料水杯",
+      "published_date": "2025-04-27",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_752ef139830641739b4c7e35620b0494.html",
+      "title": "【河南】睢县兴澳纸制品有限公司召回部分澳兴牌纸碗",
+      "published_date": "2025-04-10",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_6d32ec711b98433ca1dfed9665aae9b3.html",
+      "title": "【河南】河南瑞和环保科技有限公司召回部分纸杯",
+      "published_date": "2025-04-07",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c071a44044674bde8931cc7ea430542d.html",
+      "title": "【安徽】淮南市恒美密胺制品有限公司召回部分密胺餐具",
+      "published_date": "2025-04-02",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_4f96066715db4c57b4c839cee12dd7fa.html",
+      "title": "【湖北】仙桃市新典纸塑制品有限公司召回部分新典冬之梅纸碗",
+      "published_date": "2025-04-01",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_6a943501fc6c4846924a05e65a2aa2f3.html",
+      "title": "【湖北】武汉创栾工贸有限公司召回部分黄鹤楼小饭碗",
+      "published_date": "2025-04-01",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_32a0596b02a34570a4213cd337ad21e8.html",
+      "title": "【湖北】仙桃市新典纸塑制品有限公司召回部分新典二号碗",
+      "published_date": "2025-04-01",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c285d549764d4be990c2a5adc4a29b41.html",
+      "title": "【安徽】定远县鑫磊纸塑包装有限公司召回部分一次性纸碗",
+      "published_date": "2025-04-01",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_ccb7b2d102ed45a2a20c658b854b102e.html",
+      "title": "【安徽】蚌埠市高新区旭冉玻璃加工厂召回矮编织杯",
+      "published_date": "2025-04-01",
+      "source_channel": "food",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_663ae970e5ef42a3a37356e5203bb05a.html",
+      "title": "【四川】四川洁雅纸制品加工有限责任公司召回五福缘三号纸碗",
+      "published_date": "2025-03-31",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_ce54cb9f4a564cf2af9877eb5868025d.html",
+      "title": "【河南】河南省康恩嘉新型材料有限公司召回部分康恩嘉牌一次性碗",
+      "published_date": "2025-03-31",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_4632e493ecb74cba961c2020efda739f.html",
+      "title": "【上海】奔迈商贸（上海）有限责任公司召回部分Stanley 1913牌不锈钢真空保温杯",
+      "published_date": "2025-03-28",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_f7435fb305ec4d9ab2e7a12de46547a3.html",
+      "title": "【河南】南乐县瑞凯丰顺环保科技有限公司召回部分纸碗",
+      "published_date": "2025-03-28",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_06aa1cc3809d4deeb79954222717ca44.html",
+      "title": "【河南】河南吉多多纸业有限公司召回部分吉多多牌高级纸碗",
+      "published_date": "2025-03-25",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_6a259b1e909442bdacb6625e99a862fe.html",
+      "title": "【湖南】湖南展鹏翔科技有限公司召回部分Pochacco帕恰狗可巧古华杯",
+      "published_date": "2025-03-20",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_713e2b59b56642e89358a7fa760ec694.html",
+      "title": "【湖南】醴陵市泰宇瓷业有限公司召回部分锥形杯",
+      "published_date": "2025-03-20",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_5f8767a6274b4f168f3fddf6f10c9a4b.html",
+      "title": "【湖南】湖南省华泰联业陶瓷有限公司召回部分马克杯",
+      "published_date": "2025-03-20",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_11204b9994fd4c449b5d480826380936.html",
+      "title": "【陕西】西安市家永福纸塑容器有限公司召回部分家永福2号纸碗",
+      "published_date": "2025-03-19",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_1a94a14028a74857be92a7eba67c68c4.html",
+      "title": "【陕西】西安市雁塔区龙宝纸杯厂召回泓萱时尚纸杯",
+      "published_date": "2025-03-19",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_696379a84e1940789beba1d6426f0c2b.html",
+      "title": "【山东】临沂市挺力纸塑生活用品厂召回五只小猪牌增厚纸碗",
+      "published_date": "2025-03-19",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_e606216c3c48472cb047b25db47747c3.html",
+      "title": "【浙江】绍兴诸暨市巧洁塑料制品厂召回部分鑫宏梦牌高级大航旅杯",
+      "published_date": "2025-03-11",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_43d725db67784219a9554475378b3c4b.html",
+      "title": "【安徽】宣城市益峰竹木制品有限公司召回部分“益竹峰”牌一次性竹筷",
+      "published_date": "2025-01-24",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_e5582d48324444398747480153474823.html",
+      "title": "【安徽】合肥汇林包装有限公司召回部分锅贴托和饺子托",
+      "published_date": "2025-01-24",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_d9705074282d420b924546a8c5774d53.html",
+      "title": "【上海】似鸟（中国）投资有限公司召回部分NITORI牌圆锥形咖啡滤纸 100枚、无漂白咖啡滤纸 100枚 Y01",
+      "published_date": "2025-01-23",
+      "source_channel": "food",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_b9e8f638e9944154bf4ab7493a9acd7d.html",
+      "title": "【贵州】贵州富强科技包装有限公司召回部分A纸饮杯特厚纸杯",
+      "published_date": "2025-01-14",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2025/art_c830903607544b2682854e5cda66c3c9.html",
+      "title": "【黑龙江】绥滨县鸿发洗涤剂厂召回伴君行餐具洗涤剂",
+      "published_date": "2025-01-14",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_8ab26420947740d5a12351c80c3789cb.html",
+      "title": "【安徽】合肥市恒龙纸制品有限公司召回部分防油蛋糕杯托",
+      "published_date": "2024-12-31",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_5174e8cca6674edbb3493a2007dfa3cd.html",
+      "title": "【安徽】安徽泽宸竹业有限公司召回部分一次性竹筷",
+      "published_date": "2024-12-30",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_b9f9abcf32bf4183b26c31559ec00ed3.html",
+      "title": "【安徽】安徽玖隆密胺制品有限公司召回密胺餐具",
+      "published_date": "2024-12-30",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_4852aae7bf6d4026bb365b91d3300965.html",
+      "title": "【安徽】利辛县幸福竹制品加工厂召回一次性竹筷",
+      "published_date": "2024-12-16",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_3b440d58862c47cc9f387fb732075cf5.html",
+      "title": "【安徽】定远县绿之源纸质餐具有限公司召回部分纸碗",
+      "published_date": "2024-12-16",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_dc4ca6e089c54d69844affb22dbcb2ae.html",
+      "title": "【安徽】安徽科贝新材料有限公司召回部分烤盘纸",
+      "published_date": "2024-12-16",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_6a40dba4f44247498f9a8c2cdbb91d5d.html",
+      "title": "【安徽】凤阳顺发玻璃工艺品有限公司召回喷色玻璃水壶",
+      "published_date": "2024-12-13",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_3fe548baef34496b86c4e6e9acb5ad7b.html",
+      "title": "【贵州】大方县富荣纸碗厂召回部分重庆酸辣粉纸碗",
+      "published_date": "2024-12-09",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_4ca0e266af2241e588b46b7dc0fc954a.html",
+      "title": "【安徽】蚌埠市晶辉玻璃科技股份有限公司召回玻璃杯",
+      "published_date": "2024-11-27",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_280fde0e51334aef9593d4dc6021c4d9.html",
+      "title": "【安徽】芜湖太平洋塑胶有限公司召回部分塑料餐盒",
+      "published_date": "2024-11-27",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_e6e6369ab23847279a6d8aeffff91a86.html",
+      "title": "【江苏】南通创通日用品有限公司召回一次性纸杯",
+      "published_date": "2024-11-27",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_9af5addd16c14a499b53ee383f93c9b8.html",
+      "title": "【安徽】黄山市李竹匠商贸有限公司召回“李竹匠”牌一次性竹筷",
+      "published_date": "2024-11-27",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_d5c69e3ea31c4e4c98afb317e7a34a22.html",
+      "title": "【安徽】安徽省含山民生瓷业有限责任公司召回5″经典玫瑰面碗",
+      "published_date": "2024-11-27",
+      "source_channel": "food",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_9d0665a30e3546378dea0f6fe8bb2cf5.html",
+      "title": "【湖南】炎陵嘉阳纸塑制品厂召回部分福翔牌嘉阳泡茶杯（PP）",
+      "published_date": "2024-11-26",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_dbd705f6c38f4f648582f3091a485940.html",
+      "title": "【湖南】衡阳县东阳纸制品厂召回部分唯一牌二号纸碗",
+      "published_date": "2024-11-26",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_b5a6fd91123749fa9427bad85f9446a8.html",
+      "title": "【北京】北京绿伞科技股份有限公司主动召回部分型号绿伞牌柠檬洗洁精",
+      "published_date": "2024-11-21",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_525f02595896492b9f8791db279e95d3.html",
+      "title": "【新疆】乌鲁木齐市昇达宏鑫塑料制品有限公司召回部分一次性特厚悦享杯",
+      "published_date": "2024-11-13",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_add32190dd1347b0a66f3fd579817c44.html",
+      "title": "【新疆】乌鲁木齐市昇达宏鑫塑料制品有限公司召回部分一次性待客杯",
+      "published_date": "2024-11-13",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_a0d489af37e34f1e91467dab439bbb1a.html",
+      "title": "【新疆】乌鲁木齐市昇达宏鑫塑料制品有限公司召回部分一次性悦享杯",
+      "published_date": "2024-11-13",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_a29cab2c29a84704ac1f7cf74f9d4543.html",
+      "title": "【陕西】陕西金沣泰纸塑制品有限公司召回部分金沣泰金箔纸杯",
+      "published_date": "2024-11-08",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_8540beb168704d88afecc01a7ee60cad.html",
+      "title": "【福建】泉州市科乐日用品有限公司召回部分科乐士牌一次性塑料杯",
+      "published_date": "2024-11-07",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_d15141271164460bbcb81a4f4e5b167f.html",
+      "title": "【陕西】秦汉新城乐客包装有限公司召回部分盛装酸辣粉纸碗",
+      "published_date": "2024-11-06",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_45b4fb4d886c4e96a3e60fbf9a9d77bf.html",
+      "title": "【陕西】西安美源纸塑容器有限公司召回部分美源1号淋膜纸碗",
+      "published_date": "2024-11-06",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_cd3b48176e864c8e894fa5ceba9fc13e.html",
+      "title": "【安徽】郊区贝贝竹制品加工厂召回部分一次性竹筷",
+      "published_date": "2024-11-01",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_d3ba23f4a70547d8b5369419c217941f.html",
+      "title": "【安徽】安徽家得利酒店用品有限公司召回部分餐勺",
+      "published_date": "2024-11-01",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_b070c4bacb0b4222b10c2ac1f30aca2f.html",
+      "title": "【安徽】蚌埠市龙淮玻璃器皿有限公司召回六角把杯",
+      "published_date": "2024-11-01",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_bbc5e7b3c8ab4a288ec04c6be9460ca4.html",
+      "title": "【安徽】黄山鸿永盛日用品经营有限公司召回一次性竹筷",
+      "published_date": "2024-11-01",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_feab8661d93940d789a08ea4f6d6bba9.html",
+      "title": "【宁夏】宁夏宝乐家纸塑制品有限公司召回部分宝乐家牌纸碗",
+      "published_date": "2024-10-15",
+      "source_channel": "food",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_c86c3cd24f2243bbad5c05dc6d77b4c5.html",
+      "title": "【广东】揭阳市揭东区磐东荣盛五金厂召回部分佳荣牌无磁双立人8003砂光饭匙",
+      "published_date": "2024-10-09",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_d9799ac3e62b437c83c286d36b5ccd4b.html",
+      "title": "【广东】揭阳产业园磐东雄光五金制品厂召回部分雄光牌瓜果刨",
+      "published_date": "2024-10-09",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_5afeff89c4d041e48674f41afaf6296e.html",
+      "title": "【宁夏】永宁县仁福纸塑制品有限公司召回部分鑫仁福牌纸碗",
+      "published_date": "2024-09-30",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_065c5aa56c894a02830e9fc82ba8514d.html",
+      "title": "【宁夏】灵武市德福纸杯厂召回部分纸碗",
+      "published_date": "2024-09-30",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_938ca05427a54019a158b560b7323b6d.html",
+      "title": "【宁夏】银川市陈欣荣纸塑制品有限公司召回部分欣荣牌纸碗",
+      "published_date": "2024-09-30",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_40ee5fb042354feda2fa2de10c68d244.html",
+      "title": "【湖南】湖南雅程纸塑包装有限公司召回部分喜庆红纸杯",
+      "published_date": "2024-09-25",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_e875cf898fcb43509c3eda4f26d741bb.html",
+      "title": "【宁夏】宁夏万盛隆达商贸有限公司召回部分万盛牌纸碗",
+      "published_date": "2024-09-20",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_a08ec82edb2e41c3a1b8ca77989d0fe1.html",
+      "title": "【甘肃】静宁县康林纸杯厂召回部分康林纸杯",
+      "published_date": "2024-09-14",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_37f42fc9bd014acfa7f9d781ef16c87a.html",
+      "title": "【重庆】重庆嘉海纸制品有限公司召回一次性纸碗",
+      "published_date": "2024-09-06",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_ffe4ed37c52f4b15b3f41ff1eac90652.html",
+      "title": "【安徽】淮北金达利密胺制品有限公司召回部分金达利牌密胺餐具（盘）",
+      "published_date": "2024-09-03",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_b8855ebf2c414f0280a0bc395177e080.html",
+      "title": "【安徽】利辛县丽歆纸制品有限公司召回淋膜纸碗",
+      "published_date": "2024-09-03",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_2cfc4011d5074b81a095a1d3c25293af.html",
+      "title": "【安徽】利辛县城北镇东兴竹制品厂召回一次性竹筷",
+      "published_date": "2024-09-03",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_66f5cb03f9fe4584b4353c87895d9701.html",
+      "title": "【山西】山西龙骏艾柯环保科技有限公司召回天纯牌一次性餐盒",
+      "published_date": "2024-08-23",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_f0e6b288b76447d9abc33ad1527a41ca.html",
+      "title": "【四川】大邑县蜀光玻璃厂召回（部分）400mL麻老五（调味瓶）",
+      "published_date": "2024-08-02",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_cf15d7c78b114addab781c8f206f7e7d.html",
+      "title": "【山西】山西盈润塑料制品有限公司召回一次性塑料碗",
+      "published_date": "2024-07-27",
+      "source_channel": "food",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_1e24e816560b43efbc799af7ca85b899.html",
+      "title": "【山西】山西华联盛通贸易有限公司召回北格牌不锈钢刀",
+      "published_date": "2024-07-27",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_3da5b406639046649b4268a454caaf56.html",
+      "title": "【湖南】湖南世容纸塑包装有限公司召回部分世容牌8A喜庆杯",
+      "published_date": "2024-07-24",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_31fae387e3a84d80ab0ef2b047d10084.html",
+      "title": "【湖南】湖南世容纸塑包装有限公司召回部分天之蓝牌一次性纸杯",
+      "published_date": "2024-07-24",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_e57305415d6d46aeb1737214b8563489.html",
+      "title": "【安徽】涡阳县陈大镇韩士廷竹制品厂召回一次性竹筷",
+      "published_date": "2024-07-17",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_ffa7c98c4fb248a384ed0f6e14a16cb8.html",
+      "title": "【安徽】涡阳县陈大镇韩萍竹签厂召回一次性竹筷",
+      "published_date": "2024-07-17",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_fbe44667a26c4173aa06b6210f62a48b.html",
+      "title": "【安徽】霍山县佳欣竹制品经营部召回食品用一次性竹签",
+      "published_date": "2024-07-17",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_592816daf4b1435599aa7b5fcd7e74a5.html",
+      "title": "【云南】云南金伦云印实业股份有限公司召回部分纸杯",
+      "published_date": "2024-07-07",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_2d1d81151aa84e8b8088ff6f2e5c74d4.html",
+      "title": "【湖北】武汉安洁馨化工工贸有限公司召回部分速净牌清新柠檬洗洁精",
+      "published_date": "2024-06-25",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_7d450d51cbe442ec85abe3bb21359b5e.html",
+      "title": "【湖南】长沙福之格环保科技发展有限公司召回部分一次性航空杯",
+      "published_date": "2024-06-20",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_56abeea5d11f4328bbdcf97f1ab141ac.html",
+      "title": "【湖南】攸县康怡纸塑包装厂召回部分鑫福来一次性航空杯",
+      "published_date": "2024-06-20",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_9916a494c26a4855a60b98dfdbbfa87f.html",
+      "title": "【湖南】株洲常喜纸塑制品有限公司召回部分特丰牌纸碗",
+      "published_date": "2024-06-20",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_673f5ede014744478d67023926dc2010.html",
+      "title": "【安徽】临泉县山水筷子加工厂召回一次性竹筷",
+      "published_date": "2024-06-17",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_9702a5603a7b449b88a6cb05f7e2f9f3.html",
+      "title": "【湖南】长沙福之格环保科技发展有限公司召回部分企鹅团团牌一次性航旅杯",
+      "published_date": "2024-05-28",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_be7e5f66c5854daa8ad5f7343e1d2f48.html",
+      "title": "【云南】江川区白龙食品包装材料厂召回部分纸碟",
+      "published_date": "2024-05-22",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_0885f1a65a4e44bbab8578ebc15f768d.html",
+      "title": "【广西】南宁市玉龙泡沫制品厂召回部分四排航空杯",
+      "published_date": "2024-05-13",
+      "source_channel": "food",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_0eb1ce8f7ef74baf9941e994f4a2b58b.html",
+      "title": "【广西】南宁市玉龙泡沫制品厂召回部分井甜一次性航空杯",
+      "published_date": "2024-05-13",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_f7fc96c13d294d0a8ed1d7dbd10c1de1.html",
+      "title": "【河南】孟州市行知塑业有限公司召回部分CX牌密胺塑料餐具（密胺餐具）",
+      "published_date": "2024-05-09",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_86244d3f650542428ecae8f8ca9cf5ea.html",
+      "title": "【山西】太原市万柏林区星远雅光百货店召回抗菌钢勺子",
+      "published_date": "2024-04-29",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_63179399ed8940c4a100833e1c9cc252.html",
+      "title": "【安徽】萧县元志竹筷厂召回一次性竹筷",
+      "published_date": "2024-04-23",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_7ef84e88d2134b77bc8e1d18bb040d3f.html",
+      "title": "【湖南】张家界市永定区康源塑料制品厂召回部分靓糧牌幸福塑杯",
+      "published_date": "2024-04-16",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_b635e70da307466c8148e2c878a4d1aa.html",
+      "title": "【湖南】保靖县和顺纸塑制品有限公司召回部分纸碗",
+      "published_date": "2024-03-28",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_48906cd38894474fa78267687f07f8c5.html",
+      "title": "【湖南】吉首市湘湘心纸碗加工厂召回部分纸碗",
+      "published_date": "2024-03-28",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_dd0f694ececc4af0bd7988fa2749ae7a.html",
+      "title": "【安徽】定远县鑫磊纸塑包装有限公司召回部分宗好牌精品纸碗",
+      "published_date": "2024-03-21",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_e2ed86cf93244a80bd26cf8624db0a07.html",
+      "title": "【浙江】台州市奔美家庭用品有限公司召回部分奔美牌削皮器",
+      "published_date": "2024-03-14",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_ed8e198cc6874431a4baf75f4dd452c8.html",
+      "title": "【浙江】浙江双枪竹木有限公司召回部分双枪牌不锈钢线漏",
+      "published_date": "2024-03-14",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_4a48a22745294d03b9eb92b11cbe1614.html",
+      "title": "【河南】郑州市二七区万豪纸杯厂召回部分万豪牌一次性纸杯",
+      "published_date": "2024-02-05",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_7c2eb72f0df64a1fbe0389f36f3d9948.html",
+      "title": "【山西】应县龙华陶瓷有限公司召回龙华陶瓷牌5英寸琉璃碗和8英寸琉璃盘",
+      "published_date": "2024-01-30",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_d373ee7b5c1e4d12ab9e904dc02942d0.html",
+      "title": "【山西】怀仁市明盛源高岭土有限公司召回7英寸斗碗和8英寸饭盘",
+      "published_date": "2024-01-30",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_af7b955a7a174b9c832dab333fa72bae.html",
+      "title": "【江西】九江市瑞丰塑料制品厂召回福美嘉牌一次性塑料杯",
+      "published_date": "2024-01-24",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2024/art_0aaa2610a4454d3586a9bd1d13b1bda3.html",
+      "title": "【山西】应县天美瓷业有限责任公司召回天美牌碗",
+      "published_date": "2024-01-08",
+      "source_channel": "food",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_3dc91f74c1f94187a6308a416114d8f9.html",
+      "title": "【安徽】铜陵市郊区杰顺竹制品厂召回部分一次性竹筷",
+      "published_date": "2023-12-21",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_8caeb3119f35450a8d96bc302c263952.html",
+      "title": "【安徽】淮北金达利密胺制品有限公司召回部分金达利牌密胺餐具（碗）",
+      "published_date": "2023-12-21",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_3b7149a52c244deeb7d49a81a627ffe8.html",
+      "title": "【安徽】霍山县众诚竹业有限公司召回一次性竹筷",
+      "published_date": "2023-12-21",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_f6d3b2afeeba42fc8d0ce2f8d5576a4d.html",
+      "title": "【安徽】芜湖久口袋包装制品有限公司召回部分空气炸锅纸（本色）",
+      "published_date": "2023-12-21",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_ee207ab1c019489a91535cfbfdd4d0c0.html",
+      "title": "【安徽】蚌埠高新区劲松玻璃加工厂召回钻石杯",
+      "published_date": "2023-12-21",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_6fad241bc8f446fbb8b8dbc40350b73e.html",
+      "title": "【安徽】涡阳县陈大镇韩萍竹签厂召回一次性竹筷",
+      "published_date": "2023-12-21",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_eb8ff1fe793e47fca44d3664d035f179.html",
+      "title": "【安徽】涡阳县旦旦竹制品有限公司召回一次性竹筷",
+      "published_date": "2023-12-21",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_65f1f08e643a4628a6d96e3f84fd25b9.html",
+      "title": "【安徽】利辛县超芒日用品有限公司召回云朵杯",
+      "published_date": "2023-12-21",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_94d473f0efff4a6a83973f518b75e186.html",
+      "title": "【宁夏】宁夏宝乐家纸塑制品有限公司召回宝乐家牌喜庆纸杯",
+      "published_date": "2023-12-13",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_e0e303bcbef74be698a0f24a01c335db.html",
+      "title": "【湖北】武汉市鑫绿洲环保有限公司召回部分家美馨牌环保纸杯和喜乐购牌纸杯",
+      "published_date": "2023-12-08",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_2c52c8404ff3407292e0efbcfffd77e8.html",
+      "title": "【内蒙古】金桥开发区超洁纸塑包装厂召回部分超洁牌竹筷",
+      "published_date": "2023-12-07",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_ce7690efd2974b7f8a9d9aa319b85040.html",
+      "title": "【湖南】湖南省维克奇纸塑包装有限公司召回部分维克奇牌冷热两用纸杯（实惠装）",
+      "published_date": "2023-11-28",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_c1e2e59a600b483098d70278aee61011.html",
+      "title": "【江西】南昌市青山湖区新隆塑料制品厂召回新隆牌一次性塑料餐饮杯",
+      "published_date": "2023-11-27",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_1a29f2bbb4494dcebbb20445c39c841b.html",
+      "title": "【湖北】武汉鑫青隆环保科技有限公司召回部分雅欣牌倾悠花语纸碗",
+      "published_date": "2023-11-27",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_b565555f5d714c5799a6942d9c02cea9.html",
+      "title": "【湖北】湖北省兴财源环保科技有限公司召回部分财源青花瓷一次性纸杯",
+      "published_date": "2023-11-27",
+      "source_channel": "food",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_01d1d074cc384a48be8d15383b136713.html",
+      "title": "【湖北】江陵县南陈岭包装有限公司召回部分中华美食一次性纸碗",
+      "published_date": "2023-11-27",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_5f50e13d1a11434dbb6a714a28474e11.html",
+      "title": "【湖北】湖北宏东发工贸有限公司召回部分宏东发牌纸碗",
+      "published_date": "2023-11-27",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_96d5ce945bbf4d7192a0a66957527ae5.html",
+      "title": "【湖北】崇阳县双环塑料制品厂（普通合伙）召回部分家美馨时尚玲珑杯",
+      "published_date": "2023-11-27",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_ba33ff366a5f4ebfba3dd59d8f86a7bf.html",
+      "title": "【河南】温县协盛和纸制品有限责任公司召回部分纸碗",
+      "published_date": "2023-11-27",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_5b6e8144052a4fa8adddd5ed2fc13230.html",
+      "title": "【湖北】湖北爱上家日用品有限公司召回部分缘尚语健康杯和爱上家航空杯",
+      "published_date": "2023-11-27",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_b711d862466e444aa4d682345c8b5e2d.html",
+      "title": "【云南】昆明汇达源纸业有限公司召回达源牌淋膜纸杯（喜庆杯）",
+      "published_date": "2023-11-24",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_3efc89d232c9482fa025b8cd60d75131.html",
+      "title": "【浙江】台州市黄岩海顺塑料厂召回部分伟鸿牌塑杯产品",
+      "published_date": "2023-11-14",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_eb710b7ae1894caca2f06354357985bb.html",
+      "title": "【山西】阳城县旭昇陶瓷科技有限公司召回7英寸盘",
+      "published_date": "2023-11-13",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_243ea015753d4002b0e704cb44f0d96c.html",
+      "title": "【云南】景洪洁牌洗涤剂厂召回部分洁牌洗洁精",
+      "published_date": "2023-11-10",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_36c6ad18a49e4f689ebbb25973b61357.html",
+      "title": "【安徽】涡阳县信和光能（安徽）有限公司召回双层玻璃杯",
+      "published_date": "2023-11-06",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_4f672348912b4d118c13b2bca767310d.html",
+      "title": "【重庆】重庆蓝漂生物科技有限公司召回洗洁精",
+      "published_date": "2023-09-25",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_402670d73e074234add60a0367a03bae.html",
+      "title": "【安徽】涡阳县亚康塑料制品厂召回“亚康”太子杯",
+      "published_date": "2023-09-19",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_e8113138dd2f4065b511d70abde7edc9.html",
+      "title": "【安徽】凤阳县板桥镇薛氏塑料厂召回部分梵洁环保塑杯",
+      "published_date": "2023-09-19",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_53c2094fd1fa4e39a3c31776302c98da.html",
+      "title": "【安徽】利辛县阚疃镇丰薄薄竹品制作坊召回一次性竹筷",
+      "published_date": "2023-09-19",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_547c1c9312594ddd9cd01b255c18a9c8.html",
+      "title": "【山西】山西欧圣包装有限公司召回鑫欧圣牌食品用微波快餐盒",
+      "published_date": "2023-09-06",
+      "source_channel": "food",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_1ac4c63d6fd140a2b1697930d177b014.html",
+      "title": "【山西】山西若宇塑料制品有限公司召回若宇牌一次性塑料餐盒",
+      "published_date": "2023-09-06",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_e927e95c5eb44cf5881f8aced34f0c8e.html",
+      "title": "【山西】山西康雨科技有限公司召回熊猫康康牌一次性塑料餐盒",
+      "published_date": "2023-09-06",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_af170596cf67461b89afe83161ec51dd.html",
+      "title": "【山西】祁县信华玻璃制品有限公司召回玻璃盘",
+      "published_date": "2023-09-06",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_1383c68f9154453d83eef4f3bf907c70.html",
+      "title": "【山西】应县宏达陶瓷股份有限公司召回安维娜牌餐具套装",
+      "published_date": "2023-09-06",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_e05253bcb5fa41fcba544ebb9873fb67.html",
+      "title": "【山西】怀仁县嘉辉陶瓷烤花厂召回嘉辉牌韩式碗",
+      "published_date": "2023-09-06",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_83ea38071d474531b138856752a24c46.html",
+      "title": "【山西】应县欣宇陶瓷有限公司召回福蕾达牌碗盘",
+      "published_date": "2023-09-06",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_923586bea069425ab096f78011ede659.html",
+      "title": "【山西】应县金陶源瓷业有限公司召回金陶源牌碗盘",
+      "published_date": "2023-09-06",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_c5759ae774454e25b9a58a712292829e.html",
+      "title": "【河南】郏县慧宝塑钢型材厂召回部分玉三叶牌密胺塑料餐具（盘）",
+      "published_date": "2023-08-28",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_a7a4388919ba48e49117438fdb3b2356.html",
+      "title": "【安徽】涡阳县皖雄塑料制品有限公司召回“皖雄”高级环保注塑打包盒",
+      "published_date": "2023-08-09",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_a574c23ad1a141a48480cfe3635e76df.html",
+      "title": "【安徽】黄山徽竹轩竹业有限公司召回徽竹轩牌一次性竹筷",
+      "published_date": "2023-08-09",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_aa4c1debd4764ae0a8f93491f6419b52.html",
+      "title": "【安徽】马鞍山市宇顺玻璃制品有限公司召回双层玻璃杯",
+      "published_date": "2023-08-08",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_68c384d0d22e45b7abc5dfbd653b3bda.html",
+      "title": "【山西】山西纽维尔环保科技有限公司召回淀粉基餐盒",
+      "published_date": "2023-07-20",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_2ea18203a9794597aa3f0fab8c07ad63.html",
+      "title": "【山西】山西华阳生物降解科技有限公司召回胜享牌餐盒",
+      "published_date": "2023-07-20",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_af998ab641bc4bbfb4bc9e3083130120.html",
+      "title": "【山西】山西龙骏艾柯环保科技有限公司召回菱纹型打包碗",
+      "published_date": "2023-07-20",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_de5127affecc4440a3a5625ef0d41257.html",
+      "title": "【山西】临汾市尧都区鑫源晋强密胺制品厂召回晋强牌密胺餐具",
+      "published_date": "2023-07-20",
+      "source_channel": "food",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_eb2ec6688ec2415d868faa8f023a1b88.html",
+      "title": "【山西】山西华联盛通贸易有限公司召回北格牌面条机",
+      "published_date": "2023-07-20",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_b7570da15def44eab3fbad8a6e58aa53.html",
+      "title": "【上海】上海满好日用品有限公司召回部分巧心牌巧心热饮杯小号",
+      "published_date": "2023-06-29",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_93498c2dd7ec4412807e28b20712d615.html",
+      "title": "【福建】漳州市龙文区集盛塑料厂召回部分密胺碗",
+      "published_date": "2023-06-28",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_b824a64c74954f6883399042dbd6abec.html",
+      "title": "【湖南】湖南传奇陶瓷有限公司召回部分水果碗（炻瓷）",
+      "published_date": "2023-06-28",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_7d7d9d4755f24b29a09317ded5b06163.html",
+      "title": "【安徽】涡阳县陈大镇韩士廷竹制品厂召回一次性筷子",
+      "published_date": "2023-06-20",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_dcc1cf3fa90b4e05a17c26ffd80c53f4.html",
+      "title": "【安徽】利辛县幸福竹制品加工厂召回一次性竹筷",
+      "published_date": "2023-06-20",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_3d6c7385db0741118c37c466aea2821d.html",
+      "title": "【北京】北京凯利捷纸塑包装有限公司主动召回部分纸吸管、螺旋纹隔热纸杯产品",
+      "published_date": "2023-06-06",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_6b3c63b0113a47aa9cca0747b1a794fa.html",
+      "title": "【福建】福建省恒新家居用品有限公司召回部分密胺餐具",
+      "published_date": "2023-05-23",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/spxgcpzh/art/2026/art_fbcc56d1e5c4499594a9ef51149a195d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "【湖南】醴陵陶润实业发展有限公司召回部分杯子（炻瓷）",
+      "published_date": "2023-05-22",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_d5379fb7167545a4be191420b4ce3b6d.html",
+      "title": "【湖南】醴陵市鹏兴瓷厂召回部分5寸碗（炻瓷）",
+      "published_date": "2023-05-22",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_8c53ce23c8ee41f581d0e2c907d230d8.html",
+      "title": "【湖南】醴陵市升华实业有限公司召回部分竖纹碟（炻瓷）",
+      "published_date": "2023-05-22",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_4821b1cc6c374abea98baef6fe3b2604.html",
+      "title": "【湖南】湖南传奇陶瓷有限公司召回部分小碟（炻瓷）",
+      "published_date": "2023-05-22",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_812e22ae96ef488f99ad17710a1e4b34.html",
+      "title": "【湖北】武汉鑫宇洁工贸有限公司召回部分一次性纸杯",
+      "published_date": "2023-05-11",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_dcdbb3cb0f8c46e598256a3205284972.html",
+      "title": "【湖南】醴陵市泰昌陶瓷有限公司召回部分TC121杯（炻瓷）",
+      "published_date": "2023-04-27",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_048a69f304dc4d2db4f4dd7c5ad78aae.html",
+      "title": "【广东】广州市番禺区新造齐泉筷子工艺厂召回部分瑞达牌和风美耐筷",
+      "published_date": "2023-04-25",
+      "source_channel": "food",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_ac454d2d23ee4423887945c72aed8867.html",
+      "title": "【安徽】利辛县超芒日用品有限公司召回咕嘟大肚杯",
+      "published_date": "2023-04-23",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_2ee995a502a0433786cb26e4563ea174.html",
+      "title": "【安徽】安徽众亿玻璃制品有限公司召回把手杯",
+      "published_date": "2023-04-23",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_b91b374b867841b69fb2676a882d6de8.html",
+      "title": "【山西】山西尊强陶瓷有限公司召回7英寸盘和8英寸斗笠碗",
+      "published_date": "2023-04-04",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_d65c2eb13eb149d58c8a9aeed7384017.html",
+      "title": "【湖南】衡阳恰美纸塑制品有限公司召回部分洽美牌淋膜纸杯",
+      "published_date": "2023-03-29",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_0956835247de499ca0449991f81827f3.html",
+      "title": "【湖南】衡东县圣竹农林综合开发有限公司召回部分江益牌一次性筷子",
+      "published_date": "2023-03-29",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_324eedf0e9324f2182e3e1d100369f45.html",
+      "title": "【上海】宜家（中国）投资有限公司召回部分宜家IKEA牌FRUKTKAKA弗鲁卡卡印式炒锅",
+      "published_date": "2023-03-24",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_52766c4ea8794f4fa2814853a5dbc4d8.html",
+      "title": "【上海】宜家（中国）投资有限公司召回部分宜家IKEA牌KUNGSTIGER坤蒂格4双筷子",
+      "published_date": "2023-03-24",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_807862262a124541a718236e54f4d662.html",
+      "title": "【安徽】六安传华包装制品有限公司召回食品用纸碗",
+      "published_date": "2023-03-16",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_4113414762d949ac9fd4d1afedd8a4ce.html",
+      "title": "【湖北】黄冈鑫华彩纸制品有限公司召回部分一次性纸杯",
+      "published_date": "2023-01-29",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_1fc27e7b736b457787d4171cbd3a9b27.html",
+      "title": "【安徽】安徽诚宇新材料科技有限公司召回诚宇包装牌PP塑杯",
+      "published_date": "2023-01-04",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_bfa4f730cb664a66baf9d258caaaf665.html",
+      "title": "【安徽】霍山诚宇新材料科技有限公司召回一次性餐盒",
+      "published_date": "2023-01-04",
+      "source_channel": "food",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/xfpzh/art/2023/art_3a4a32ad67ce41ae934059bc1dcfb229.html",
+      "title": "【安徽】利辛县瑞丰纸品有限公司召回一次性竹筷",
+      "published_date": "2023-01-04",
+      "source_channel": "food",
+      "catalogue_page": 18
+    }
+  ]
+}

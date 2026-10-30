@@ -1,0 +1,2908 @@
+{
+  "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/index.html",
+  "retrieved_date": "2026-10-22",
+  "filter": "2023-01-01 / 2025-12-31",
+  "total": 388,
+  "pages": [
+    {
+      "page": 1,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-001.json",
+      "sha256": "d6d9bb3b6712b9dd2ec1e7a21af6d1c92db432fe08ed62a62e369ca6bb13d4a8",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+1%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 2,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-002.json",
+      "sha256": "61ec872a9e4b42ba12fbcfcf134295fa656b0dd2b2769f2e425c18b1e0c3ff97",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+2%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 3,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-003.json",
+      "sha256": "908ce34c551a2058a3f8ad474d30314141da36cdf61730fe9cd522c128a57583",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+3%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 4,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-004.json",
+      "sha256": "d4cdce97428426ef8286880b91076cf1cfbe40d2dcffd1c199df0d7e4b090482",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+4%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 5,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-005.json",
+      "sha256": "10ad3d08985080cc8b12b5eb7cfe581e485e43f041e0fb00122f3200da762398",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+5%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 6,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-006.json",
+      "sha256": "9c2c78eda2834620110ac7b1fda07047c831f89c10daea5866fba0e76881b8d7",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+6%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 7,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-007.json",
+      "sha256": "d7510bebe874ac5f0376e5c7e1efd44342bcd946feff1bc069ee1872caa97dc3",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+7%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 8,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-008.json",
+      "sha256": "0a1d78476b6ee35b17787c6fcc893dac461173d7e24303c0f65d48c4c293f3e6",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+8%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 9,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-009.json",
+      "sha256": "81dcee8b58c06415a7d75e3ac41fa5991051102052e47308ab05cf2fb95cdf6b",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+9%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 10,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-010.json",
+      "sha256": "e8119fcd00fedd0e407130f7f51fb898e7b407257b94c3da0c5a20d8a19d62d3",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+10%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 11,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-011.json",
+      "sha256": "1b4c9feb9a89694d10ea0e889d988404b3f3ff4fc6ffbcb97a59f55c045c0216",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+11%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 12,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-012.json",
+      "sha256": "3640efcedef4c2eeb9f616ead44e84f11a3360f58859177de3615772c76d6667",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+12%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 13,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-013.json",
+      "sha256": "128a74d84361a3bd2b0b91915343e7046ecdf31933ca9582240684e5a21cc4fa",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+13%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 14,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-014.json",
+      "sha256": "e5a43381677206f019fce14e251ada57008331cf95f1b870ae16d3934250014c",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+14%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 15,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-015.json",
+      "sha256": "6bd7638a7ecc9b13ab0f3940515ea78fe3ab3eeb58b31f43748127fa2204f912",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+15%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 16,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-016.json",
+      "sha256": "4055853a7d4d98824f12ad0660e0daf12f94ccdbed5acd746ad30024232d1f49",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+16%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 17,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-017.json",
+      "sha256": "022e15e2cdab01d92f39aad863790b9e19bd04b6fb0b147100e2224ce35a2350",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+17%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 18,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-018.json",
+      "sha256": "0e3539ba50bf68351385cd04df152cbbadbe4199c338bd1aeb26b84d1a1d771a",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+18%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 19,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-019.json",
+      "sha256": "41e800c31c5e5dede4d3efeef57f9e734dcd6330d8129a370c315312c57cc8b8",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+19%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 20,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-020.json",
+      "sha256": "b51ea1ec9aa31f2edc281e200804cddfea8708ad0e3930abaca0058ee7598ed9",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+20%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 21,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-021.json",
+      "sha256": "96aaae69c10a3ac68b9c55a8099e6d7f0fbdb1a6b73d86f589185b075cd22d2e",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+21%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 22,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-022.json",
+      "sha256": "5e7e670a595e5dc69a066cd72bb9d8baf63f4ab9782b4ae240684739dff176a2",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+22%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 23,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-023.json",
+      "sha256": "f9822272d50808612289d9bd385b714b2eaaf013c2b7f0bb8e62f26d2205df23",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+23%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 24,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-024.json",
+      "sha256": "2cf951cf0c69f7744922b5e5af99cff51c8a62c55ac671dd12d8f1cd1d09c77d",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+24%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 25,
+      "count": 15,
+      "raw_file": "raw\\multidomain\\cars-list-025.json",
+      "sha256": "1b468c454a57a933e2c2c909f4574538a8c5b02e658742a53f5f93e03db8e418",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+25%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    },
+    {
+      "page": 26,
+      "count": 13,
+      "raw_file": "raw\\multidomain\\cars-list-026.json",
+      "sha256": "c617ac38be0ed088f3616d0e5cd23fc82d9516f45fa4d9f06b05bbd44d9b0f12",
+      "request_url": "https://www.samrdprc.org.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=VCswhVy4jx8aJOSwL9vnk&tplSetId=EUiBCTIffX3miw82HR5TP&pageType=column&tagId=%E5%88%86%E9%A1%B5%E5%88%97%E8%A1%A8&editType=null&pageId=NsQ28ZyGzCeIEovTNfLkj&paramJson=%7B%22pageNo%22%3A+26%2C+%22pageSize%22%3A+15%2C+%22search%22%3A+%22%7B%5C%22deployTime%5C%22%3A+%5C%222023-01-01+-+2025-12-31%5C%22%7D%22%7D"
+    }
+  ],
+  "records": [
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_d9ddd0d8645f41c5aa49887e5983b546.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大众汽车（中国）销售有限公司召回部分进口途锐混合动力系列汽车",
+      "published_date": "2025-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_b86cec2b39a34a3c8d5d48e1e2e23c20.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口汽车",
+      "published_date": "2025-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_af24362aa3474f298b6c7e3d50484faf.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司召回部分进口和国产奥迪汽车",
+      "published_date": "2025-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_45b92de9559b4b04b1209e5ce7c8b84a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "长安福特汽车有限公司召回部分福睿斯汽车",
+      "published_date": "2025-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_df1172670d3b478fb3676e06207d7b99.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风本田汽车有限公司、广汽本田汽车有限公司召回部分国产汽车",
+      "published_date": "2025-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_06af93ab72884fd19c96aa7c46af9c5f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "丰田海南出行有限公司召回部分进口汽车",
+      "published_date": "2025-12-26",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_a2bb449729c3498e9c07d2ab186c57db.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司、斯泰兰蒂斯（上海）汽车有限公司召回部分进口混合动力汽车",
+      "published_date": "2025-12-26",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_6646ca9c39bd4dcdaa254938cdee4a8c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "丰田汽车（中国）投资有限公司召回部分进口雷克萨斯UX汽车",
+      "published_date": "2025-12-15",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_6a03f8b8e2f54a1ca885ebf9f34a25f1.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷尼赛思汽车销售（上海）有限公司召回部分进口捷尼赛思纯电GV60汽车",
+      "published_date": "2025-12-15",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_a6af2ff907c14b80be53d89d93b1b8da.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口吉普自由光汽车",
+      "published_date": "2025-12-15",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_3cfa9569944046f6b7ebddaa6a7b3947.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "丰田汽车（中国）投资有限公司、一汽丰田汽车（成都）有限公司、广汽丰田汽车有限公司、一汽丰田汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2025-12-15",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_9cc07a2ee0b2419f882d76dbb8e87001.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司、华晨宝马汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2025-11-28",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_2752e02000344c89ab1c382276b095e0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "比亚迪汽车工业有限公司、比亚迪汽车有限公司召回部分秦PLUS DM-i汽车",
+      "published_date": "2025-11-28",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_5142d9bad43941fca4888c0864cf561b.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯巴鲁汽车（中国）有限公司召回部分进口SOLTERRA（岚鲲）系列汽车",
+      "published_date": "2025-11-21",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_fed48ada3eda4833994c29e179944178.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司召回部分ID.7 VIZZION汽车",
+      "published_date": "2025-11-14",
+      "source_channel": "cars",
+      "catalogue_page": 1
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_25583d75fbf042a98e2c864c3c1f360a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口林肯汽车",
+      "published_date": "2025-11-14",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_1aec4c0c437d42db8da77018aef72390.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司、华晨宝马汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2025-11-14",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_ad926073ad964cd38d5c3ff8fbff3bc8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京理想汽车有限公司召回部分理想MEGA 2024款电动汽车",
+      "published_date": "2025-10-31",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_193c371299e54555b28bd3b91bb7d977.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大众汽车（中国）销售有限公司召回部分进口宾利汽车",
+      "published_date": "2025-10-31",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_41b25993527e46029d40e93490aaffa3.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司扩大召回部分进口和国产奥迪汽车",
+      "published_date": "2025-10-24",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_048d6f14588248b99f4cad4173949544.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江吉利汽车有限公司召回部分缤瑞汽车",
+      "published_date": "2025-10-17",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_df556d00cf9e4c47b51defec20022565.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "比亚迪汽车工业有限公司召回部分唐、元Pro",
+      "published_date": "2025-10-17",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_3e390118b24f4db38332f8291b1b0415.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上海汽车集团股份有限公司召回部分科莱威纯电动汽车",
+      "published_date": "2025-09-30",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_f2ebca51b4fa40908474d29a6c2ceed0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "光束汽车有限公司召回部分MINI纯电动汽车",
+      "published_date": "2025-09-26",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_f71560d1e33a4d2ebb957f27c60c0bba.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口牧马人4xe混合动力汽车",
+      "published_date": "2025-09-26",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_cefa67592b4c46cabbd14f182170acb5.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大庆沃尔沃汽车制造有限公司、沃尔沃汽车销售（上海）有限公司召回部分国产和进口沃尔沃汽车",
+      "published_date": "2025-09-26",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_bfb640b479e045a0b4bd13a63a5f9fb8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "小米汽车科技有限公司召回部分SU7标准版电动汽车",
+      "published_date": "2025-09-19",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_62dcc20f29d24f0eb243cf4b27cb359a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯巴鲁汽车（中国）有限公司召回进口SOLTERRA（岚鲲）系列汽车",
+      "published_date": "2025-09-19",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_7c75e970930240d295f3ef4461da096c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽丰田汽车有限公司、丰田汽车（中国）投资有限公司、一汽丰田汽车有限公司召回部分国产及进口纯电动汽车",
+      "published_date": "2025-09-19",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_fcf4c8f336b54712899ee7d9c9dfca60.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "奇瑞捷豹路虎汽车有限公司召回部分国产汽车",
+      "published_date": "2025-09-12",
+      "source_channel": "cars",
+      "catalogue_page": 2
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_0eaa1c51e2aa4159bbbf7cb62a995dbc.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "肇庆小鹏新能源投资有限公司召回部分小鹏P7+汽车",
+      "published_date": "2025-09-12",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_5f955bf088684b3ea4f94b0b23863ede.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口汽车",
+      "published_date": "2025-09-12",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_60afed031e654677a5899795ebed62d5.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福建奔驰汽车有限公司召回部分进口唯雅诺和威霆汽车",
+      "published_date": "2025-09-12",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_58cb94fb73704163a658643a8edefcbd.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大众汽车（中国）销售有限公司召回部分进口兰博基尼REVUELTO汽车",
+      "published_date": "2025-09-12",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_79b1f750e38441f7830dca580a507582.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "阿斯顿马丁拉共达（中国）汽车销售有限公司召回部分进口Vanquish系列汽车",
+      "published_date": "2025-09-10",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_82ace46b10364539963ce17501a43084.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口和国产汽车",
+      "published_date": "2025-09-10",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_4260f8d1b3154caf8b2a6581307673ef.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口朱丽叶、斯坦维汽车",
+      "published_date": "2025-08-29",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_d9d1225a78734cfd9b0fda8f48d196ee.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "长城汽车股份有限公司召回部分欧拉黑猫、欧拉白猫纯电动汽车",
+      "published_date": "2025-08-29",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_c80381a1e61d4794936c50273df26cfa.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京现代汽车有限公司召回部分库斯途汽车",
+      "published_date": "2025-08-29",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_904f69f234b6445c9473dd563508059a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口iX、M760Le汽车",
+      "published_date": "2025-08-28",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_87c2f9089ccc4988822e509e7eec36ea.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "曼恩商用车辆贸易（中国）有限公司召回部分进口底盘",
+      "published_date": "2025-08-28",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_8209c10691704a779470cf394545ae64.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口托纳利汽车",
+      "published_date": "2025-08-28",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_347001d02a81461980deb1c8db4f09ab.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口全新大切诺基4xe汽车",
+      "published_date": "2025-08-28",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_a877e134845b40e682060156a0b8436c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "法拉利汽车国际贸易（上海）有限公司召回部分进口Purosangue汽车",
+      "published_date": "2025-08-08",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_db2908c381c749c087a50a82fb32a934.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽丰田汽车（成都）有限公司、丰田汽车（中国）投资有限公司、一汽丰田汽车有限公司召回部分国产及进口汽车",
+      "published_date": "2025-08-08",
+      "source_channel": "cars",
+      "catalogue_page": 3
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_cb8139b2868e4328aab3f3b28d48527f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口全新大切诺基4xe汽车",
+      "published_date": "2025-08-08",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_377fa5e907b44696abcdb93e56c33a3d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽丰田汽车有限公司召回部分凯美瑞、雷凌、凌尚及锋兰达汽车",
+      "published_date": "2025-08-08",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_c02c8e60a2914dc5bdb2ba76fcc69e2b.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司、华晨宝马汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2025-08-08",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_022f6b85dff841e18974eb2de3c9d245.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2025-07-16",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_f74518509d324a0c97046c4e927f807d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风商用车有限公司召回部分东风KR系列货车",
+      "published_date": "2025-07-16",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_4cc32d4be1434561b73f9b659bdb705f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口汽车",
+      "published_date": "2025-07-16",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_b2d33841c76444019c10220a3c8075d5.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "中国重汽集团济南商用车有限公司、中国重汽集团济南卡车股份有限公司召回部分豪沃牌载货汽车",
+      "published_date": "2025-07-16",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_54cff7d22c0f4dbeaa11fdee4be12e15.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北汽福田汽车股份有限公司召回部分仓栅式运输车",
+      "published_date": "2025-07-16",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_7c89b299b8ce4725a01d535387dfc5bd.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "中国第一汽车集团有限公司召回部分解放汽车",
+      "published_date": "2025-07-16",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_f3a3ff88635c48e5af3f53c3ba7c11f4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "安徽江淮汽车集团股份有限公司召回部分载货汽车",
+      "published_date": "2025-07-16",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_6c56005697884ab1bc13277bfc099246.html",
+      "title": "市场监管总局加强商用车召回管理<div>督促东风商用车等10家生产企业实施召回</div>",
+      "published_date": "2025-07-16",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_995c1b5f9d564fb487fcdee9ece50067.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江豪情汽车制造有限公司召回部分国产极星2纯电动汽车",
+      "published_date": "2025-06-27",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_8b2389812ea345c1bf407d75ace03145.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江豪情汽车制造有限公司、大庆沃尔沃汽车制造有限公司和沃尔沃汽车销售（上海）有限公司召回部分国产和进口沃尔沃汽车",
+      "published_date": "2025-06-27",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_a0f47b6d19134c568dbcf08a2e5cc98f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽本田汽车有限公司、东风本田汽车有限公司召回部分国产汽车",
+      "published_date": "2025-06-27",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_8f655900f09646dd8afbceb901056868.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2025-06-20",
+      "source_channel": "cars",
+      "catalogue_page": 4
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_8e2d0ce8c6f042fd8dac5b83068e090a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口A级、CLA和GLA汽车",
+      "published_date": "2025-06-13",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_4e1f6879794946b19372c0f773841ec4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京奔驰汽车有限公司召回部分国产EQC汽车",
+      "published_date": "2025-06-13",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_abe8824a5b24416b886b599568c0777d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口和国产汽车",
+      "published_date": "2025-06-13",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_9a69b552a0cf4b29b875c309cae440ef.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司召回部分速腾汽车",
+      "published_date": "2025-06-13",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_ab9831fc0b9b45b9aaaccc03f086c4d8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "光束汽车有限公司召回部分国产纯电动汽车",
+      "published_date": "2025-05-30",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_87f5eb15d3ad4c2691aa091e244fa157.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口G级汽车",
+      "published_date": "2025-05-30",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_dd97a7b039384f0499d1ed71c6d7d5f0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽本田汽车有限公司召回部分进口讴歌MDX汽车",
+      "published_date": "2025-05-23",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_d4ce493dfaae40e1bb5bf0da98fe6328.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大庆沃尔沃汽车制造有限公司召回部分国产沃尔沃汽车",
+      "published_date": "2025-05-23",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_1d16ca60bd55469aba428bcfdec079cc.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司召回部分国产和进口奥迪汽车",
+      "published_date": "2025-05-23",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_4887b5cd333a4248b5ebd5e8de1dd88f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司、华晨宝马汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2025-05-09",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_84431226a93c4434ab7d912b3ef0761a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "采埃孚销售服务（中国）有限公司召回部分进口前控制臂",
+      "published_date": "2025-05-09",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_ec691fb55c11425194f655a351e2c1a7.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷尼赛思汽车销售（上海）有限公司召回部分进口捷尼赛思汽车",
+      "published_date": "2025-05-09",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_08cd73f7d00d4e6a8245c74d730121b6.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口E级汽车",
+      "published_date": "2025-05-09",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_7d8dbcbe8701471fa68c3020f73538b5.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽丰田汽车（成都）有限公司长春丰越分公司召回部分国产汽车",
+      "published_date": "2025-05-09",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_f0dbbab984894a039749c2e2a587ac4f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京奔驰汽车有限公司召回部分国产E级汽车",
+      "published_date": "2025-05-09",
+      "source_channel": "cars",
+      "catalogue_page": 5
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_01c92e4292204a6eaacb3595658ba5dc.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "现代汽车（中国）投资有限公司召回部分进口艾尼氪 5 N纯电动汽车",
+      "published_date": "2025-04-30",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_398f420475ec4e618e1d327e00d2d8c8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "迈凯伦汽车销售（上海）有限公司召回部分进口汽车",
+      "published_date": "2025-04-30",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_284385c924a141cfb0ecc527f0bcee8a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "山东华耀汽车配件有限公司召回部分仓栅式运输半挂车",
+      "published_date": "2025-04-25",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_2d21f54cedfe40e2a43b0ea0bf253e75.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "金龙联合汽车工业（苏州）有限公司召回部分纯电动客车",
+      "published_date": "2025-04-18",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_7eeee0c3922f47df8e8be7d2c1209a94.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "江苏悦达起亚汽车有限公司召回部分智跑Ace、凯酷、狮铂拓界汽车",
+      "published_date": "2025-04-18",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_0e5d3e5649cb460dbd257c964e722932.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口X3 M40i、X4 M40i汽车",
+      "published_date": "2025-04-18",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_f3ad31c12d1345fb8de2154c43ccfc9c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2025-04-18",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_6b98af80b4874ff883e3f44e7c16982c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜、揽胜运动版系列汽车",
+      "published_date": "2025-04-18",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_97eefdea89e9468bb20e7245493a7c8c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "山东锣响汽车制造有限公司召回部分仓栅式运输半挂车",
+      "published_date": "2025-04-18",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_4dc0b5c0a5b0485f8bdf23ab9e02c53d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京现代汽车有限公司召回部分第十一代索纳塔、全新途胜L汽车",
+      "published_date": "2025-04-18",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_ef11305469b04732896c6f038f5835af.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2025-04-18",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_6051a4b22d1348c497f8fe1f2e28030e.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江豪情汽车制造有限公司、大庆沃尔沃汽车制造有限公司和沃尔沃汽车销售（上海）有限公司召回部分国产和进口沃尔沃汽车",
+      "published_date": "2025-03-28",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_047a140afbf54e93aefc193636ca425a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京奔驰汽车有限公司召回部分国产EQA和EQB汽车",
+      "published_date": "2025-03-28",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_3d682d34e9c3408480eb57a1cf2d1341.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风汽车有限公司召回部分东风日产e-POWER轩逸、超混电驱奇骏汽车",
+      "published_date": "2025-03-28",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_49e1f59c76fb4b5dacc371f9c4ed38ee.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口S级汽车",
+      "published_date": "2025-03-28",
+      "source_channel": "cars",
+      "catalogue_page": 6
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_0617688ed041474e94c66e654888235e.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口林肯领航员、福特探险者汽车",
+      "published_date": "2025-03-28",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_7d960948265a405092ff9506aabd8ce0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "丰田汽车（中国）投资有限公司召回部分进口汽车",
+      "published_date": "2025-03-25",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_8ad67bf31ccc49d0a766e3f5b9f26a69.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "奇瑞捷豹路虎汽车有限公司、捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司召回部分国产及进口汽车",
+      "published_date": "2025-03-14",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_96c33cad02c34a28a5d67468de1993e4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上汽通用汽车有限公司召回部分别克微蓝6及雪佛兰畅巡汽车",
+      "published_date": "2025-03-07",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_a81bcca9a9e1461fa45b884c391ae6c9.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口911系列汽车",
+      "published_date": "2025-02-28",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_7071e01bf04e415f8656a9f26b34dc10.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷豹路虎（宁波）贸易有限公司召回部分进口路虎卫士系列汽车",
+      "published_date": "2025-02-28",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_79659a0e5e09450a9589cac6291c1020.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口朱丽叶、斯坦维汽车",
+      "published_date": "2025-02-28",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_7c133ee083714a578824ade09e034eeb.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京奔驰汽车有限公司召回部分国产GLB汽车",
+      "published_date": "2025-02-21",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_ffd882626381457482ad9c52658769cd.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "光束汽车有限公司召回部分国产纯电动汽车",
+      "published_date": "2025-02-21",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_72d77eef384b487184259da28a683c13.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "现代汽车（中国）投资有限公司召回部分ELANTRA N 2.0T汽车",
+      "published_date": "2025-02-14",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_c18fe84ed6d34b0aa5501f800a670c85.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口大切诺基汽车",
+      "published_date": "2025-02-14",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_abc3d0a5bba34166b68b7d88453d9f2d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷尼赛思汽车销售（上海）有限公司召回部分进口捷尼赛思G70和G70猎型版汽车",
+      "published_date": "2025-02-14",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_32bde95ac64941f9a35daa79f619c473.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "丰田汽车（中国）投资有限公司召回部分进口汽车",
+      "published_date": "2025-02-14",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_4dcc3562542e497b8e0c78d567644ee0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京奔驰汽车有限公司召回部分国产E级汽车",
+      "published_date": "2025-02-08",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_b14036d61b5c4136849872b61d37ce89.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2025-02-08",
+      "source_channel": "cars",
+      "catalogue_page": 7
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_b5dc9d816b0c4877a185d63b7e3f612c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "华晨宝马汽车有限公司召回部分国产宝马汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_49099f41f7fd4f998d6ee4611cd722e5.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上海申龙客车有限公司召回SLK6109USBEVL7系列纯电动客车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_0027c7dbcf6d45d89920bdb3c2943d16.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷尼赛思汽车销售（上海）有限公司召回进口捷尼赛思纯电GV60、G80、GV70汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_344185bfd8244b5da2a8c5830937b749.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上汽通用五菱汽车股份有限公司召回部分宝骏悦也汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_3b44f11846144b4686248703c56bef13.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "比亚迪汽车工业有限公司召回部分方程豹豹5插电式混合动力汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_775560eeb395482291074bd063886924.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "小米汽车科技有限公司召回部分SU7标准版电动汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_794bf2ed3290456e8f7cc7d3d36c5623.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "现代汽车（中国）投资有限公司召回部分进口起亚汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_0dd8fb9d89774bf1837beab82c88d511.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "奇瑞捷豹路虎汽车有限公司召回部分国产捷豹XEL、XFL和路虎发现运动版、揽胜极光系列汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_87643d622617455192eca3008c45c723.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "江苏悦达起亚汽车有限公司召回部分国产和进口汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_03d1f6e7011b4b868ede3fcfb55c64b4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上汽大众汽车有限公司召回部分帕萨特、途观L汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_51aa7ba0aeb5413c8d7a25e3bd873455.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司召回部分进口及国产电动汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_4d19e4589cb14cf9a85d7ac54a615c9f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风本田汽车有限公司、广汽本田汽车有限公司召回部分国产及进口汽车",
+      "published_date": "2025-01-24",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_87eb0b32aaa4429980f8f7612d79f60d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口大切诺基汽车",
+      "published_date": "2024-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_19776919a6fe483f806ad9555b9c073c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司、斯泰兰蒂斯（上海）汽车有限公司召回部分进口混合动力汽车",
+      "published_date": "2024-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_b4c5857783c44c4d92c5ab986c075dff.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司召回部分进口及国产电动汽车",
+      "published_date": "2024-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 8
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_3d2827485090407a855691551e5e8843.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽传祺汽车有限公司召回部分2022款GS8汽车",
+      "published_date": "2024-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_29d5856214384a71a75d9ad427da2ca8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "曼恩商用车辆贸易（中国）有限公司召回部分进口牵引车及进口底盘",
+      "published_date": "2024-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_95795a80cc7849188f37c73b838292cd.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2024-12-31",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_b6fd4f8b71e340d0a783fdd179d5e21e.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口911、718系列汽车",
+      "published_date": "2024-12-20",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_ff5b86f0f107479f9e5013b5a836ce29.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司扩大召回部分进口奥迪E-TRON和E-TRON GT系列汽车",
+      "published_date": "2024-12-20",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_5191584ba26a4ea99e45135d83aa6913.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口林肯飞行家汽车",
+      "published_date": "2024-12-20",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_59bb01a024c24f32923dce27a84cbc60.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司召回部分进口和国产奥迪汽车",
+      "published_date": "2024-12-20",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_1882cce87eda4539b99065c7a647e3cd.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "法拉利汽车国际贸易（上海）有限公司召回部分进口汽车",
+      "published_date": "2024-12-06",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_96f3306c1ef2490b8eab42daf6184828.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京现代汽车有限公司召回部分ix35、胜达汽车",
+      "published_date": "2024-12-06",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_3f6603236a6843618c7b234d45cc26a0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江豪情汽车制造有限公司召回部分极星1插电式混合动力汽车",
+      "published_date": "2024-11-29",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_8ea7722673d946c5a155aa7cd474e697.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江豪情汽车制造有限公司、大庆沃尔沃汽车制造有限公司和沃尔沃汽车销售（上海）有限公司召回部分国产和进口沃尔沃汽车",
+      "published_date": "2024-11-29",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_1e78c9a9bff14e06b603adafa859208b.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口S级汽车",
+      "published_date": "2024-11-29",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_2f4ffc0472494ab889f2a94f8a5a9109.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口和国产汽车",
+      "published_date": "2024-11-29",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0530f34d25294c73b9cdbc9aeb85797d.html",
+      "title": "现代汽车（中国）投资有限公司召回部分进口现代汽车",
+      "published_date": "2024-11-29",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_51f0af2270c94f7587644a9c755813f9.html",
+      "title": "广汽丰田汽车有限公司、一汽丰田汽车有限公司召回部分国产汽车",
+      "published_date": "2024-11-29",
+      "source_channel": "cars",
+      "catalogue_page": 9
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_2d12f45e3ebb4c2abf412a42fb643ae8.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2024-11-22",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_cf171b71da664efabcdef9d5bcf57abb.html",
+      "title": "捷豹路虎（中国）投资有限公司召回部分进口路虎发现、揽胜运动汽车",
+      "published_date": "2024-11-22",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_c84729b5017b42c3b5f762db26f5e44b.html",
+      "title": "大众汽车（中国）销售有限公司召回部分进口甲壳虫系列汽车",
+      "published_date": "2024-11-22",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_613cc0984922480ca3b0b4c1de150fa7.html",
+      "title": "宝马（中国）汽车贸易有限公司、华晨宝马汽车有限公司及光束汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2024-11-22",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_bf6343eb4a7241c4af84d57b232a5f35.html",
+      "title": "宁波意州挂车有限公司召回部分NYZ9400TJZ型集装箱运输半挂车",
+      "published_date": "2024-11-15",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_99f242504f454142a7b431016e2dd26e.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口911、718系列汽车",
+      "published_date": "2024-11-15",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_73a2a7925daf4230a65d4e5c9bb10ada.html",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口大捷龙汽车",
+      "published_date": "2024-11-15",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d50c6ac02aaa4c7ba915e073bd7d7b8f.html",
+      "title": "保时捷（中国）汽车销售有限公司召回进口Taycan系列电动汽车",
+      "published_date": "2024-11-15",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d280371e2ec84afab8b3048e46f77c0d.html",
+      "title": "东风本田汽车有限公司、广汽本田汽车有限公司召回部分国产混合动力汽车",
+      "published_date": "2024-11-01",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_cf608845ad85437fb67b7b2c8b721377.html",
+      "title": "浙江豪情汽车制造有限公司召回部分国产沃尔沃XC40汽车",
+      "published_date": "2024-10-18",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_b62709300639467c8c90a1d8a95fce26.html",
+      "title": "迈凯伦汽车销售（上海）有限公司召回进口GT汽车",
+      "published_date": "2024-10-18",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_5855a2c361fa4d9abfc0454c3834e248.html",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "published_date": "2024-10-18",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0afeb7f7cf404d9ba2428a6d618a8102.html",
+      "title": "阿斯顿马丁拉共达（中国）汽车销售有限公司扩大召回部分进口汽车",
+      "published_date": "2024-10-12",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_3ce8595fc1fb42bf988a79f01dd91aae.html",
+      "title": "现代汽车（中国）投资有限公司召回进口现代劳恩斯酷派汽车",
+      "published_date": "2024-10-12",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6184f27c87734a76a9923f900d22fab9.html",
+      "title": "比亚迪汽车工业有限公司、比亚迪汽车有限公司召回部分国产海豚、元PLUS电动汽车",
+      "published_date": "2024-09-29",
+      "source_channel": "cars",
+      "catalogue_page": 10
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_adc87de1bac34f3f813f646c8c1e8998.html",
+      "title": "宝马（中国）汽车贸易有限公司扩大召回部分进口汽车",
+      "published_date": "2024-09-29",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_1e3bf5f7474a4d63961d4b4f5d031234.html",
+      "title": "领克汽车销售有限公司召回部分领克08汽车",
+      "published_date": "2024-09-29",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_5f4a95b8f42b4eb7a7419b6d70b1d227.html",
+      "title": "精灵汽车销售（南宁）有限公司召回部分国产纯电动汽车",
+      "published_date": "2024-09-29",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_e89e77817a3f4e778da254e10f0f4098.html",
+      "title": "广汽丰田汽车有限公司、一汽丰田汽车有限公司召回部分国产汽车",
+      "published_date": "2024-09-29",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6ddf56144c13461eb17b77bc2da5b079.html",
+      "title": "捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司扩大召回部分进口汽车",
+      "published_date": "2024-09-20",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_b3466558d0c6481ba428ea3c7846ea25.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2024-09-20",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_51de6acc42e246549fc0faf4da8fefae.html",
+      "title": "一汽-大众汽车有限公司召回部分进口奥迪E-TRON系列汽车",
+      "published_date": "2024-09-14",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0b5bc52324f44aa283075923c8ffb4e4.html",
+      "title": "北京奔驰汽车有限公司召回部分国产C级汽车",
+      "published_date": "2024-09-14",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_add2de0699e54732b3e23db2dcdb2bd1.html",
+      "title": "宝马（中国）汽车贸易有限公司、华晨宝马汽车有限公司及光束汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2024-09-11",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0441e9f7734f43168a5abebf24133e7f.html",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口X3、X3M汽车",
+      "published_date": "2024-09-11",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_65c0b4508b7647ea89c7b8cce2f59224.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口GLB SUV汽车",
+      "published_date": "2024-08-30",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_b0e117b68ea440d381350cccdedbe195.html",
+      "title": "克莱斯勒（中国）汽车销售有限公司扩大召回部分进口大切诺基汽车",
+      "published_date": "2024-08-30",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_da2fd5a5d5044335b65481b5398cab9e.html",
+      "title": "特斯拉汽车（北京）有限公司再次召回部分进口Model X电动汽车",
+      "published_date": "2024-08-30",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6ddff532da38427a8213c24f3df395cf.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Carrera GT系列汽车",
+      "published_date": "2024-08-23",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6ed996b75aec4869bba572d6ff2834e8.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2024-08-23",
+      "source_channel": "cars",
+      "catalogue_page": 11
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_4f0f4ec353074b548617824fcf7fc652.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2024-08-16",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_a938d5945b8f4ec4a3c170d9e83b801d.html",
+      "title": "沃尔沃（中国）投资有限公司召回部分进口FH牵引车",
+      "published_date": "2024-08-16",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0da94f49e6cb48c3a41179c94fb87119.html",
+      "title": "一汽-大众汽车有限公司召回部分进口奥迪E-TRON GT系列汽车",
+      "published_date": "2024-08-16",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_919044769d994ce9a8f7c361b894d083.html",
+      "title": "捷尼赛思汽车销售（上海）有限公司召回部分进口捷尼赛思G80和GV80系列汽车",
+      "published_date": "2024-08-16",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_06ebb6215c684fbf9446e08ddf1b9de9.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口E级、AMG GT汽车",
+      "published_date": "2024-08-16",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_469b6048a46048c2afe21b5deb4306e0.html",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "published_date": "2024-08-16",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_1a35b14997ec47c88d0c1827decec975.html",
+      "title": "捷豹路虎（中国）投资有限公司扩大召回部分进口捷豹I-PACE系列纯电汽车",
+      "published_date": "2024-08-09",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d40eb33567394de1bd06fce967986332.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口A级汽车",
+      "published_date": "2024-08-06",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_dc3ab166129b4cb5b9e9b08b13faf278.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Cayenne系列汽车",
+      "published_date": "2024-08-06",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_a07ff7aa0af347f4b46e8e1f28c0d5df.html",
+      "title": "特斯拉汽车（北京）有限公司、特斯拉（上海）有限公司召回部分进口Model S、Model X及国产Model 3、Model Y电动汽车",
+      "published_date": "2024-08-06",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_3ab315ba9df04822809f7d484418a0b7.html",
+      "title": "福特汽车（中国）有限公司召回部分进口全新F-150猛禽汽车",
+      "published_date": "2024-07-19",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_9aa2aaec1b554307aa857a7aa5c101af.html",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口全新大切诺基4xe、角斗士汽车",
+      "published_date": "2024-07-19",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_8a91ff35a65d4a3d93c12409500159b1.html",
+      "title": "北汽蓝谷麦格纳汽车有限公司召回部分阿尔法T和阿尔法S纯电动汽车",
+      "published_date": "2024-07-19",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6c7d69ed20dd4a9db2e3dfaef8200ecf.html",
+      "title": "标致雪铁龙（上海）管理有限公司召回部分谛艾仕DS 7系列汽车",
+      "published_date": "2024-07-19",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_74d57b54a0124e6d961b211b7fce0e48.html",
+      "title": "江苏悦达起亚汽车有限公司召回部分进口起亚纯电动EV6汽车",
+      "published_date": "2024-07-12",
+      "source_channel": "cars",
+      "catalogue_page": 12
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_35b5f39d3dc34d8fa837a19ca6cf22fb.html",
+      "title": "北京福田戴姆勒汽车有限公司召回部分仓栅式运输车",
+      "published_date": "2024-07-12",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_29fd76efa7864eb0988355a70bebf891.html",
+      "title": "奇瑞捷豹路虎汽车有限公司召回部分国产捷豹XEL、XFL汽车",
+      "published_date": "2024-07-12",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_47ede86ad8234e33acc6b475a9b1438d.html",
+      "title": "丰田汽车（中国）投资有限公司召回部分进口雷克萨斯RX汽车",
+      "published_date": "2024-07-12",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_66c82befc5984e3e99722cce0b3a7a54.html",
+      "title": "广汽丰田汽车有限公司召回部分汉兰达汽车",
+      "published_date": "2024-07-12",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_883b809defcd49488b3223316e458ec5.html",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口全新大切诺基4xe汽车",
+      "published_date": "2024-07-05",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_9c7cf705c7c847d495d8b6752f899128.html",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口牧马人4xe插电式混合动力汽车",
+      "published_date": "2024-07-05",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_651da1eef2e64affbf846f9dc7fa8fc6.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Taycan系列电动汽车",
+      "published_date": "2024-07-05",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_5e785d8869444485b2171142b6c3b447.html",
+      "title": "神龙汽车有限公司召回东风雪铁龙世嘉汽车",
+      "published_date": "2024-07-05",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_ba8a048fc6e140f6a51074eed924ce9e.html",
+      "title": "斯巴鲁汽车（中国）有限公司召回部分进口SOLTERRA（岚鲲）系列汽车",
+      "published_date": "2024-06-28",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_9b8d148c3f6744ef89609b6139a2a946.html",
+      "title": "丰田海南出行有限公司召回部分进口雷克萨斯LX600汽车",
+      "published_date": "2024-06-28",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6cae148c45a04fd297b91d84b045a2a9.html",
+      "title": "日产（中国）投资有限公司召回部分进口英菲尼迪Q50、Q70汽车",
+      "published_date": "2024-06-28",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_c58e60acfbfe4b879f1ae275668d8511.html",
+      "title": "大众汽车（中国）销售有限公司召回部分进口兰博基尼Urus系列汽车",
+      "published_date": "2024-06-28",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_91002b8723dc4029bc3867548d67c8a1.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2024-06-21",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_04877980f42044a8b7eec1e2b666d9f4.html",
+      "title": "捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司召回部分进口汽车",
+      "published_date": "2024-06-21",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_a1ac75df91e049bb9bb9c9509f9c701d.html",
+      "title": "奇瑞汽车股份有限公司召回部分奇瑞瑞虎5x汽车",
+      "published_date": "2024-06-21",
+      "source_channel": "cars",
+      "catalogue_page": 13
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d093941243a84aa58fe58204fda2712d.html",
+      "title": "丰田汽车（中国）投资有限公司、广汽丰田汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2024-06-21",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_c3a3f91b00814f269a89c0ceca9ae62a.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口718系列汽车",
+      "published_date": "2024-06-14",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_e0acd1f3edce4cf4a21a8334800f2ad0.html",
+      "title": "一汽-大众汽车有限公司召回部分进口奥迪电动汽车",
+      "published_date": "2024-06-14",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d539711e961c47ee8c0972801ec459f5.html",
+      "title": "特斯拉汽车（北京）有限公司召回部分进口Model 3、Model S和Model X电动汽车",
+      "published_date": "2024-06-14",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0b57752b05e945bfbba8da3bf48acd52.html",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口大切诺基汽车",
+      "published_date": "2024-06-14",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_e17bf3bf656447959b3611150ecbff03.html",
+      "title": "东风汽车有限公司召回部分东风日产艾睿雅电动汽车",
+      "published_date": "2024-06-07",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_319cbe92eec54cacb5faa60e03e802ec.html",
+      "title": "江苏悦达起亚汽车有限公司召回全新一代K3插电混动汽车",
+      "published_date": "2024-06-07",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_5a4e227da07649d29be68d16243646fb.html",
+      "title": "现代汽车（中国）投资有限公司召回进口起亚极睿混动汽车",
+      "published_date": "2024-06-07",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_3b3f10409a63476ca608d205168efb22.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2024-06-07",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_8643f5a0bbf9493c979ffa6a9bf37f93.html",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司扩大召回部分进口朱丽叶汽车",
+      "published_date": "2024-05-31",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d06792df3d0342dc9fb2fddb6e8ef401.html",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口朱丽叶、斯坦维汽车",
+      "published_date": "2024-05-31",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_513f5352be684c1da40ed2fdf9bfac26.html",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口X5M、X6M、X7、XM汽车",
+      "published_date": "2024-05-31",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6c72575428134425b56f5deaa1d1b0e7.html",
+      "title": "长安马自达汽车有限公司召回部分国产Mazda CX-50汽车",
+      "published_date": "2024-05-31",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d2f2eb1b52804c2aa61e58dca75888e2.html",
+      "title": "福特汽车（中国）有限公司召回部分进口第六代Mustang汽车",
+      "published_date": "2024-05-24",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_2fc620e2c31544c4aacfe957c1e4107e.html",
+      "title": "重庆长安汽车股份有限公司召回部分第二代CS55PLUS汽车",
+      "published_date": "2024-05-17",
+      "source_channel": "cars",
+      "catalogue_page": 14
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_eb7bd927baa14cedaef52dc93e5c5299.html",
+      "title": "安徽江淮汽车集团股份有限公司召回部分江淮iEVA50纯电动汽车",
+      "published_date": "2024-05-17",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_00e34847ae384eeabb47b9cb6d95782d.html",
+      "title": "捷豹路虎（中国）投资有限公司召回部分进口捷豹I-PACE系列纯电汽车",
+      "published_date": "2024-05-11",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_87c46c96314b4348a1b2aac999a594fb.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Taycan系列电动汽车",
+      "published_date": "2024-05-11",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_34c7386508b742019fa3e23dd1e357dc.html",
+      "title": "福特汽车（中国）有限公司召回部分进口林肯MKZ、国产林肯航海家汽车",
+      "published_date": "2024-05-11",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_4aa4126482664e5eaddbf92efd42cd77.html",
+      "title": "长安福特汽车有限公司召回部分锐界L、玛斯丹牌Mach-E汽车",
+      "published_date": "2024-05-11",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_79ef746c798d4f28ab0e03c50554e8c7.html",
+      "title": "阿斯顿马丁拉共达（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2024-04-30",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_51e870c3a8344e12bf53525db29d670a.html",
+      "title": "比亚迪汽车有限公司召回部分海鸥电动汽车",
+      "published_date": "2024-04-30",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_32dc869b201f48bcbdff82921217b2d1.html",
+      "title": "捷尼赛思汽车销售（上海）有限公司召回部分进口捷尼赛思纯电GV60、G80、GV70汽车",
+      "published_date": "2024-04-26",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_b1ff4fdd0bba4bbe82adfbe82f23b941.html",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口全新大切诺基4xe汽车",
+      "published_date": "2024-04-26",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d2a6688869a24d5c8443d90735865340.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2024-04-12",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0b7b21a03cfe4078993c9341a1e299fa.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Panamera系列汽车",
+      "published_date": "2024-04-03",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_f2f189e74b13459fa853919bfb1da667.html",
+      "title": "克莱斯勒（中国）汽车销售有限公司再次召回部分进口自由光汽车",
+      "published_date": "2024-04-03",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_a528f76910714b7ca47faf91cd4bc4df.html",
+      "title": "东风汽车有限公司召回部分日产新逍客、奇骏汽车及英菲尼迪Q50L、QX50汽车",
+      "published_date": "2024-04-03",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6cab8f531bb948d286e4efa486bf5db6.html",
+      "title": "极星汽车销售有限公司召回部分极星4纯电动汽车",
+      "published_date": "2024-03-29",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_5b2fd105cd394d7697467ee8aeaf3e67.html",
+      "title": "东风汽车股份有限公司召回部分DFA6800EBEV3纯电动城市客车",
+      "published_date": "2024-03-29",
+      "source_channel": "cars",
+      "catalogue_page": 15
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_5101e80f7877427ab4394a94b92c5024.html",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "published_date": "2024-03-29",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_eae9c0b4eb654e28a214eb6bf2b1283b.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分国产及进口汽车",
+      "published_date": "2024-03-29",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_8224740e30b34ff892a68e126180aa9f.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口911系列汽车",
+      "published_date": "2024-03-22",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_bafcc7743f1e4daf9bff9a68cb52dcb0.html",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口牧马人4xe混合动力汽车",
+      "published_date": "2024-03-22",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6648313ea8e54de3981bf00a91f7a94d.html",
+      "title": "克莱斯勒（中国）汽车销售有限公司、斯泰兰蒂斯（上海）汽车有限公司召回部分进口混合动力汽车",
+      "published_date": "2024-03-22",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_e599039e40e046cc95f92b966fe5e0b9.html",
+      "title": "丰田海南出行有限公司召回部分进口雷克萨斯LX600汽车",
+      "published_date": "2024-03-15",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d3a7850da73d4eb789b21e1fb3b126d2.html",
+      "title": "斯巴鲁汽车（中国）有限公司召回部分进口森林人系列汽车",
+      "published_date": "2024-03-15",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_74b58980a09d4d76b9f9e756f447e542.html",
+      "title": "湖州东方科技装备有限公司等13家汽车生产者扩大召回部分汽车",
+      "published_date": "2024-03-15",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_2bd160d93e684f85b4b0e9c56283e9dd.html",
+      "title": "江西江铃汽车集团改装车股份有限公司等20家汽车生产者扩大召回部分汽车",
+      "published_date": "2024-03-15",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_8948f8f7cfb9405e82238684aee3e89c.html",
+      "title": "一汽-大众汽车有限公司召回部分进口奥迪e-tron电动汽车",
+      "published_date": "2024-03-08",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_cb3f5ff601664b7387a0cf58f8d4c319.html",
+      "title": "东风汽车集团有限公司召回部分风神E70汽车",
+      "published_date": "2024-03-08",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6c1bdf59f5f245d092cbe95aa9d92499.html",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口宝马汽车",
+      "published_date": "2024-03-01",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_eb4388ddfa9f4160853c8b41c542906c.html",
+      "title": "广汽本田汽车有限公司召回部分进口Acura NSX汽车",
+      "published_date": "2024-03-01",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_04e3606073394a289f39b918f24f32d2.html",
+      "title": "宝马（中国）汽车贸易有限公司召回部分劳斯莱斯汽车",
+      "published_date": "2024-02-23",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_3a59b3c6699d4c5c8c7313266db13ed0.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口GLE SUV汽车",
+      "published_date": "2024-02-23",
+      "source_channel": "cars",
+      "catalogue_page": 16
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_5f25ab38930441b68551b36166210485.html",
+      "title": "一汽-大众汽车有限公司召回部分进口和国产奥迪汽车",
+      "published_date": "2024-02-23",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_271198f52af347f7adf7ff061c5edc15.html",
+      "title": "特斯拉汽车（北京）有限公司、特斯拉（上海）有限公司召回部分进口Model S、Model X和国产Model 3电动汽车",
+      "published_date": "2024-02-23",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_382c45f2cc0d4f50bcbd26e3da1b331e.html",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口汽车",
+      "published_date": "2024-02-02",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_2f9e3e3925f64e458bad84d201408748.html",
+      "title": "浙江豪情汽车制造有限公司召回部分国产沃尔沃XC40汽车",
+      "published_date": "2024-02-02",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0f4224df1bb6496bb682fad0fb03fcd8.html",
+      "title": "长安福特汽车有限公司召回部分2020和2022年款探险者汽车",
+      "published_date": "2024-02-02",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_d02423eb5d214cb6961832189faf1be2.html",
+      "title": "丰田汽车（中国）投资有限公司召回部分进口雷克萨斯ES200汽车",
+      "published_date": "2024-02-02",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_480c976274e947dd8548aeef4acd1bb2.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司、福建奔驰汽车有限公司扩大召回部分进口及国产汽车",
+      "published_date": "2024-02-02",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_1925ad09db3e4a208f808e6613fcea0c.html",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Boxster系列汽车",
+      "published_date": "2024-01-19",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_6fd53323b1e34e5c818fcb6bcc999302.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司扩大召回部分进口及国产汽车",
+      "published_date": "2024-01-19",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_38a2f4dd7a0443e5af2cf2c1adb8f14b.html",
+      "title": "南京汽车集团有限公司召回部分依维柯Turbo Daily汽车",
+      "published_date": "2024-01-19",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_423cee6219514cb88eabd5e412ed2509.html",
+      "title": "中国重汽集团济南卡车股份有限公司召回部分豪沃牌牵引汽车",
+      "published_date": "2024-01-11",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_c99717e99e134a65892ebff8d5d475f5.html",
+      "title": "沃尔沃汽车销售（上海）有限公司召回部分进口XC90汽车",
+      "published_date": "2024-01-11",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_7397597da832456b8c12187bcc71211f.html",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口GLE SUV汽车",
+      "published_date": "2024-01-11",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_80b2c06ae446439aa9c2c63b728a13ba.html",
+      "title": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜运动版系列汽车",
+      "published_date": "2024-01-11",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_827661bf504542b68efc213fbafaa763.html",
+      "title": "广汽本田汽车有限公司、东风本田汽车有限公司召回部分国产混合动力汽车",
+      "published_date": "2024-01-11",
+      "source_channel": "cars",
+      "catalogue_page": 17
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_31db3f636e884af5bd2b717f32f0684c.html",
+      "title": "克莱斯勒（中国）汽车销售有限公司再次召回部分进口道奇酷威汽车",
+      "published_date": "2024-01-05",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_b8dd7bbc422f4ebfa5ee68f22124b650.html",
+      "title": "本田技研工业（中国）投资有限公司、广汽本田汽车有限公司、东风本田汽车有限公司召回部分国产及进口汽车",
+      "published_date": "2024-01-05",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2024/art_0d05812b2c544eb1a8ad0845e99373fe.html",
+      "title": "特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司召回部分进口及国产电动汽车",
+      "published_date": "2024-01-05",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_881a6b1f79e54416acba150550185346.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯巴鲁汽车（中国）有限公司扩大召回部分进口傲虎、森林人系列汽车",
+      "published_date": "2023-12-27",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2e42abc6dcbe4f8e8d9e5552e8790a0a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽丰田汽车有限公司、丰田汽车（中国）投资有限公司、一汽丰田汽车有限公司、一汽丰田汽车（成都）有限公司长春丰越分公司召回部分国产及进口汽车",
+      "published_date": "2023-12-27",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_7a8a79034a6846f0997225d3ddbe7992.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口GLE SUV混动汽车",
+      "published_date": "2023-12-27",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_59734f79ec744e67b458e8f5a791bb1d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "四川省客车制造有限责任公司召回部分峨嵋牌纯电动城市客车",
+      "published_date": "2023-12-21",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_af3dd957dafe4b85b380e6c114d9e7c6.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽丰田汽车有限公司召回部分bZ3电动汽车",
+      "published_date": "2023-12-21",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_5aed27100952450ab0b079112347f617.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "现代汽车（中国）投资有限公司召回部分进口起亚霸锐汽车",
+      "published_date": "2023-12-13",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_3d367a8f8bb445029384db13a59ff674.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口大捷龙汽车",
+      "published_date": "2023-12-13",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_e4340b7ead3b48d2a62cd51fe32eff03.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "迈凯伦汽车销售（上海）有限公司召回部分进口Artura汽车",
+      "published_date": "2023-12-13",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_98a56018166d446398a1b69e9b4b216c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口Mustang车型",
+      "published_date": "2023-12-01",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_385f792dbb27400faf4c02f155af5e8a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口7系汽车",
+      "published_date": "2023-12-01",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_05b4afa9fe2a426489b95c53a94d725c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风汽车集团有限公司召回部分东风EX1和EX1 PRO电动汽车",
+      "published_date": "2023-12-01",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_76df551d73f74e7ebb71bc3ea0a2a200.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽丰田汽车有限公司召回部分汉兰达汽车",
+      "published_date": "2023-12-01",
+      "source_channel": "cars",
+      "catalogue_page": 18
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_22134b82cf3f43d4b6c0dc4f98bddd39.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽丰田汽车有限公司、丰田汽车（中国）投资有限公司召回部分国产及进口汽车",
+      "published_date": "2023-12-01",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_b1d805f38d6b4929939e83c33b5fd836.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽丰田汽车有限公司、广汽丰田汽车有限公司、丰田汽车（中国）投资有限公司召回部分国产及进口汽车",
+      "published_date": "2023-12-01",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_cd97b31ba4294472a9a320c7ba7faede.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "特斯拉汽车（北京）有限公司召回部分进口Model X电动汽车",
+      "published_date": "2023-11-24",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_895d77a52b9c4883ab692e0bc75bb467.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京奔驰汽车有限公司召回部分国产A级和C级汽车",
+      "published_date": "2023-11-24",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_932ff29715494bee8631a61c63441ad6.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯巴鲁汽车（中国）有限公司召回部分进口CROSSTREK、傲虎、森林人系列汽车",
+      "published_date": "2023-11-24",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_d750e4a54bb74840a5b7f040ba37aaed.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "法拉利汽车国际贸易（上海）有限公司召回部分进口SF90系列汽车",
+      "published_date": "2023-11-10",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_48c4121441d04f44815bc216e5b466cb.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司召回部分进口奥迪汽车",
+      "published_date": "2023-11-10",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_fbab86c001644b73b71ce6aab522eccc.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大众汽车（中国）销售有限公司召回部分进口宾利添越W12汽车",
+      "published_date": "2023-11-10",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_69f69b515ab54899a1f19875af040335.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "山西成功汽车制造有限公司召回部分太行成功牌纯电动封闭货车",
+      "published_date": "2023-11-10",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_47bf9b1ccc0c4118a22e7fef7123dc5d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上汽通用汽车有限公司召回部分别克、雪佛兰、凯迪拉克汽车",
+      "published_date": "2023-11-10",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_da05f8b30b194ca8acb3addb9c81c78b.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "中国第一汽车集团有限公司召回部分解放品牌货车",
+      "published_date": "2023-10-30",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_66c81f6d32eb42b7976a1b3ad6ae64aa.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "中车时代电动汽车股份有限公司召回部分混合电动及纯电动城市客车",
+      "published_date": "2023-10-30",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_8bbba0790bee43bc8bf6b1e1499ba1cb.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯巴鲁汽车（中国）有限公司召回部分进口森林人、傲虎、BRZ系列汽车",
+      "published_date": "2023-10-30",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_407855a471054718b01010c77a2d2671.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口汽车",
+      "published_date": "2023-10-30",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_d1493a86ff92474a97311305186592e6.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "沃尔沃汽车销售（上海）有限公司召回部分进口V60汽车",
+      "published_date": "2023-10-20",
+      "source_channel": "cars",
+      "catalogue_page": 19
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_32253f1778754044b398f1e3eb9d3081.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司召回部分劳斯莱斯汽车",
+      "published_date": "2023-10-20",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_5830f4f24473461eb4d66069a1c990bc.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风汽车有限公司召回部分日产艾睿雅电动汽车",
+      "published_date": "2023-10-20",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_84f5917751c0426da2ffe64a56bfa5e5.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "特斯拉汽车（北京）有限公司召回部分进口Model X电动汽车",
+      "published_date": "2023-10-20",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_45eaffbb950e422eb10cd1cffc38de0b.html",
+      "title": "北京奔驰汽车有限公司召回部分国产E级、GLC SUV汽车",
+      "published_date": "2023-10-20",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_45e29929ffad412bac402f61dd872a96.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "江苏悦达起亚汽车有限公司召回部分狮铂拓界、第四代嘉华汽车",
+      "published_date": "2023-10-13",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_df4355dd6a2746d7a34aad1378c4fbac.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京现代汽车有限公司召回部分胜达、库斯途、索纳塔、途胜L汽车",
+      "published_date": "2023-10-13",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_296547a4bf3f4cbf9177b6b42bcc78c6.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "玛莎拉蒂（中国）贸易有限公司召回部分进口MC20 Cielo汽车",
+      "published_date": "2023-10-11",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_81ea12cd7f5d40d6a7a189c16afa75bb.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "迈凯伦汽车销售（上海）有限公司召回部分进口600LT汽车",
+      "published_date": "2023-10-11",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_1e3269dba5274e55a0df8628e5ab8040.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "湖州东方科技装备有限公司等12家汽车生产者召回部分汽车",
+      "published_date": "2023-10-11",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_7904c2af4b0d48919b890f00284517a9.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Taycan系列汽车",
+      "published_date": "2023-10-11",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_3af9098ee42344588ebb7b1c8c545e08.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口宝马汽车",
+      "published_date": "2023-09-22",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_21567484d07b4a338708e07aa5c46c89.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯巴鲁汽车（中国）有限公司召回部分进口CROSSTREK系列汽车",
+      "published_date": "2023-09-22",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_62b797a2776c49039837f697ec76b905.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯巴鲁汽车（中国）有限公司召回部分进口BRZ系列汽车",
+      "published_date": "2023-09-22",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2a1b2bd0598248aeb852fc5ee35da8b3.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "江西江铃汽车集团改装车股份有限公司等20家汽车生产者召回部分汽车",
+      "published_date": "2023-09-22",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_527713ca404046d1870be18603dd02c8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司扩大召回部分进口奥迪汽车",
+      "published_date": "2023-09-07",
+      "source_channel": "cars",
+      "catalogue_page": 20
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_119d63b12d1b4f9c9a104d0beb1e1a65.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口朱丽叶、斯坦维汽车",
+      "published_date": "2023-09-07",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_a59cc1093ec84565b3d37396df2dc243.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口宝马汽车",
+      "published_date": "2023-09-07",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_3c9dfb23f1c24a4cb6d238534117cd2b.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷豹路虎（中国）投资有限公司召回部分进口I-PACE纯电动汽车",
+      "published_date": "2023-09-07",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_be42b98381b249e4af0f4ac1677a1a8a.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "长安福特汽车有限公司召回部分2018-2019年款蒙迪欧插电混动版汽车",
+      "published_date": "2023-09-07",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_347e78d3daa44462bed8c0e4c1f51753.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司 召回部分进口及国产汽车",
+      "published_date": "2023-09-07",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_108dcb96f7684b429135121e37d3ed84.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风汽车有限公司召回部分日产奇骏、新逍客、第七代天籁汽车",
+      "published_date": "2023-09-07",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_c76b010b0c974387ae1ac461b01c33fa.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江豪情汽车制造有限公司召回部分国产沃尔沃汽车",
+      "published_date": "2023-08-18",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_69ce4b7688044c73a2dcde50f2932e68.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷豹路虎（中国）投资有限公司召回部分进口揽胜、揽胜运动系列汽车",
+      "published_date": "2023-08-18",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_917b6aaa14a944d19d4330ba91df0b34.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "奇瑞汽车股份有限公司召回部分奇瑞eQ1电动汽车",
+      "published_date": "2023-08-18",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_bf3919ec834a427ebcef48d734ccbc2e.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江豪情汽车制造有限公司召回部分帝豪GL汽车",
+      "published_date": "2023-08-18",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_d2af37fa6eac45a3af15bc2542231b4c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司、福建奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2023-08-18",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_821e48e64ff440bcbb6d5700595641ad.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "奇瑞商用车（安徽）有限公司召回部分捷途X70 PLUS汽车",
+      "published_date": "2023-08-18",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_6c58ed75f6f84d648fffbdf265484d7d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "published_date": "2023-08-11",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_73e38d3dc26c42199a7eaa1cfef094c1.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Macan、Panamera系列汽车",
+      "published_date": "2023-08-11",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_6d303d1f54184f378c4b8d972e9356cc.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "成都大运汽车集团有限公司召回部分4×2纯电动厢式运输车",
+      "published_date": "2023-08-11",
+      "source_channel": "cars",
+      "catalogue_page": 21
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_b08b9cd419d349ea89059944e2fbf460.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风商用车有限公司召回部分东风品牌D560系列货车",
+      "published_date": "2023-08-11",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_b1523f1468264247971d690901bd557e.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分林肯大陆、林肯领航员、林肯MKC汽车",
+      "published_date": "2023-08-11",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_a33b07962fd848d4abda3f4cf8c51846.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "特斯拉汽车（北京）有限公司召回部分进口Model S和Model X电动汽车",
+      "published_date": "2023-08-04",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_a11b890dcab0492ea9a881a11deaca37.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽丰田汽车有限公司、一汽丰田汽车（成都）有限公司长春丰越分公司、丰田汽车（中国）投资有限公司召回部分国产及进口汽车",
+      "published_date": "2023-08-04",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_571e90b721ef431bb37e294afaf29f0f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2023-08-04",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_6a554d872d224d0fb00a21c09e584494.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上汽大众汽车有限公司召回部分2020-2022年款波罗Plus 1.5L、途铠1.5L汽车",
+      "published_date": "2023-08-04",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_a41957554af440998d8f8cbc0f9573fe.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口S级和EQS汽车",
+      "published_date": "2023-07-19",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_404a857d4baa48bf8be46b8bd5d9f047.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽丰田汽车有限公司召回部分bZ3汽车",
+      "published_date": "2023-07-19",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_c2f43954a5194b3990147a5c5dd354f6.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "标致雪铁龙（上海）管理有限公司再次召回部分进口谛艾仕DS 3纯电动汽车",
+      "published_date": "2023-07-19",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_15716f8c2aa548d698727af95c1996a6.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "阿斯顿马丁拉共达（中国）汽车销售有限公司召回部分进口DBX系列汽车",
+      "published_date": "2023-07-19",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_9274d64cef4c43a990c533e036fb57c9.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口7系汽车",
+      "published_date": "2023-07-07",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_e75b1fc98ad44c9c9f64597cf5f55cf9.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "丰田汽车（中国）投资有限公司召回部分进口雷克萨斯NX 260、NX 350h、NX 400h+汽车",
+      "published_date": "2023-07-07",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2cdc95bc16c04114ab3de7d197a47e91.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜、捷豹I-PACE系列汽车",
+      "published_date": "2023-07-07",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_44c3574f423441d9b59b74f3e020dda4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风本田汽车有限公司、广汽本田汽车有限公司召回部分国产思域、型格、致在混合动力版汽车",
+      "published_date": "2023-07-07",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_ac2411a71f1b4474a92cf5d26d1f095e.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风汽车有限公司召回部分东风日产全新劲客汽车",
+      "published_date": "2023-07-07",
+      "source_channel": "cars",
+      "catalogue_page": 22
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_0cef9e56ecbe4fe9bbfcfe238f93c7b8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "江铃汽车股份有限公司召回部分江铃福特领睿汽车",
+      "published_date": "2023-06-30",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_bb5bcf9543fb44a08743aa02c1f0e4f3.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大众汽车（中国）销售有限公司扩大召回部分进口宾利添越系列汽车",
+      "published_date": "2023-06-30",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_a1cbbda70773410589427893dbad27d4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口G级汽车",
+      "published_date": "2023-06-30",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_9dd64df69cc047f4a2264e8b22739ec4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "江苏悦达起亚汽车有限公司召回部分第四代嘉华汽车",
+      "published_date": "2023-06-30",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_72284481993e4de196e29656cc099851.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司召回部分进口揽胜、揽胜运动、卫士系列汽车",
+      "published_date": "2023-06-21",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_b841d85e2ee347caa7f22b872ee58d24.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上汽通用汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2023-06-21",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_49f8761971934be084dde36b51417606.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口全新大切诺基4xe汽车",
+      "published_date": "2023-06-21",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_e90b18e82e624f1f943993030ec67313.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口911系列汽车",
+      "published_date": "2023-06-16",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2dfd335cad5042e489029402c6b92735.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "法拉利汽车国际贸易（上海）有限公司召回部分进口296 GTB汽车",
+      "published_date": "2023-06-16",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_917ced4f064f401a8125c37fd3af4fe7.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大众汽车（中国）销售有限公司召回部分进口宾利飞驰系列汽车",
+      "published_date": "2023-06-16",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_0ab49736549f4c7fbc02dea754eeb855.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马电动汽车",
+      "published_date": "2023-06-02",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2bb6c1d3e3154b46ac708720d6f92342.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口牧马人汽车",
+      "published_date": "2023-06-02",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_45abd1fe606f49af85cbd985bb6d66d9.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷尼赛思汽车销售（上海）有限公司召回部分进口捷尼赛思汽车",
+      "published_date": "2023-06-02",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_147d8df21f974308b9a61ee0857ccdf8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "成都广通汽车有限公司召回部分CAT6858CRBEV型纯电动城市客车",
+      "published_date": "2023-05-26",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_cedcab7a8676407ab7011bbeeec6b49b.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司扩大召回部分进口牧马人4XE混合动力汽车",
+      "published_date": "2023-05-26",
+      "source_channel": "cars",
+      "catalogue_page": 23
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_54f253bd29994513adf9c205a21afd3f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口S级汽车",
+      "published_date": "2023-05-26",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_c6a251dbca504881a1b1b07949926f71.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司召回部分进口揽胜插电式混合动力、卫士插电式混合动力等系列汽车",
+      "published_date": "2023-05-26",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_65f5850087c7409283a3ddb7bb7a0fc1.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "现代汽车（中国）投资有限公司召回部分进口起亚索兰托、现代新胜达汽车",
+      "published_date": "2023-05-26",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_88cf6f38e6bc424488279e7ce3f0d2f0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "捷尼赛思汽车销售（上海）有限公司召回部分进口捷尼赛思GV60汽车",
+      "published_date": "2023-05-12",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_4536b63b4810498db906e7e34b937c7e.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "奇瑞汽车股份有限公司召回部分奇瑞瑞虎8 PRO汽车",
+      "published_date": "2023-05-12",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_cc2a61a2866b45d3a6030e22d1ce96a8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "特斯拉汽车（北京）有限公司、特斯拉（上海）有限公司召回部分进口及国产Model 3、Model Y汽车",
+      "published_date": "2023-05-12",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2cf1f9da2ad74ecab1a177e9001b6742.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "宝马（中国）汽车贸易有限公司召回部分进口X4汽车",
+      "published_date": "2023-05-10",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_baf9933bc16c4731af9f0f767e115ce6.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口CLA汽车",
+      "published_date": "2023-05-10",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2c69ef2c369846d18e3e7f3388a24880.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "山东盛润汽车有限公司召回部分易燃液体运输半挂车",
+      "published_date": "2023-04-26",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_85bb966c4f0442ab85d981a3c4aee861.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "东风汽车股份有限公司召回部分多利卡货车",
+      "published_date": "2023-04-26",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_891eaed352d44ccf947c413d28eece1c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大众汽车（中国）销售有限公司召回部分进口宾利欧陆系列汽车",
+      "published_date": "2023-04-26",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2765267b962d44ccb3c8f0043ba2a382.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大庆沃尔沃汽车制造有限公司、浙江豪情汽车制造有限公司召回部分国产沃尔沃汽车",
+      "published_date": "2023-04-26",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_ac6e51af822041e9bcd035aed102c5ad.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司扩大召回部分进口GLE SUV、GLS SUV汽车",
+      "published_date": "2023-04-26",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_ccde99ea1dae437298b08ee56b155b1c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "南京汽车集团有限公司召回部分NJ6496ACMZ型多用途乘用车",
+      "published_date": "2023-04-19",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_07b5ad0249fa40e182e7f796a30b3e6e.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口汽车",
+      "published_date": "2023-04-14",
+      "source_channel": "cars",
+      "catalogue_page": 24
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_afe67189dc744434b1693da4b48d8b10.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽本田汽车有限公司、东风本田汽车有限公司召回部分国产雅阁、INSPIRE汽油版汽车",
+      "published_date": "2023-04-07",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2c32938bc4f24e17b5d512fea1de9c3d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "published_date": "2023-03-29",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_a77e30ab56ed4b559c95cfd6637e1bae.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口牧马人4XE混合动力汽车",
+      "published_date": "2023-03-29",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_d77f0524af1e42f8a7e7178785b390a4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "特斯拉汽车（北京）有限公司扩大召回部分进口Model S电动汽车",
+      "published_date": "2023-03-24",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_3aa9797b27a24e9499286335bbb687ee.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "日产（中国）投资有限公司召回部分进口日产贵士汽车",
+      "published_date": "2023-03-24",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_262f72dcd9244bb2969de9145c17b710.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2023-03-24",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2e62ad84a51a45c4a0051ca33a1ee8a5.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "中国重汽集团济南商用车有限公司召回部分厢式运输车",
+      "published_date": "2023-03-01",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_aa2e4522a30c4a88afce856ff7f872a3.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "丰田汽车（中国）投资有限公司、一汽丰田汽车有限公司、广汽丰田汽车有限公司召回部分国产及进口汽车",
+      "published_date": "2023-03-01",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_af69c7469a11443b8106f60fa03ad56b.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口Panamera系列汽车",
+      "published_date": "2023-03-01",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_a10e13a971bb438ab7e8fb441f6cfaa8.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "重庆铃耀汽车有限公司召回铃木维特拉1.4T、锋驭1.4T、骁途1.4T汽车",
+      "published_date": "2023-03-01",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_1875a9dff8f74ee29390768c5b8cf2c0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口全新F-150猛禽汽车",
+      "published_date": "2023-02-24",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_557b8563dac44828bc7a4c3ce7ad5e99.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "广汽三菱汽车有限公司召回部分欧蓝德汽车",
+      "published_date": "2023-02-24",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_3a7474027f5f4c0d8b494f192f88d96f.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "published_date": "2023-02-24",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_7001a299974b4511ab5688bc3da79198.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司扩大召回部分进口和国产汽车",
+      "published_date": "2023-02-23",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_523e556b2df24e0ebe344fb5ce81b576.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "沃尔沃汽车销售（上海）有限公司召回部分进口V60、V90CC、XC90汽车",
+      "published_date": "2023-02-20",
+      "source_channel": "cars",
+      "catalogue_page": 25
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_4b1323344f1144698104d1dbefea9261.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "克莱斯勒（中国）汽车销售有限公司召回部分进口牧马人4XE混合动力汽车",
+      "published_date": "2023-02-20",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_0f7a9eeb90b649babcfa134965a97a67.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "丰田汽车（中国）投资有限公司召回部分进口雷克萨斯GS、IS、RC、RC F汽车",
+      "published_date": "2023-02-20",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_d450d3084acf4795bcee20bc7a315621.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "浙江豪情汽车制造有限公司召回部分极星1插电式混合动力汽车",
+      "published_date": "2023-02-10",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_51782f22e379411a879b58d51ed27ebe.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口及国产汽车",
+      "published_date": "2023-02-10",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_f8f82936de274e038b76cfe0299cb12d.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "一汽-大众汽车有限公司扩大召回部分进口奥迪汽车",
+      "published_date": "2023-02-10",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_babcfc41d6cb4151a761e37d7e6b7256.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "戴姆勒卡客车（中国）有限公司召回部分进口Actros 963系列汽车",
+      "published_date": "2023-01-17",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_6fbb12fc942f4739890597aca144afa0.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "沃尔沃汽车销售（上海）有限公司召回部分进口XC90、V90CC汽车",
+      "published_date": "2023-01-17",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_63e2a1e558284e7994ce01e22315d4ad.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "大众汽车（中国）销售有限公司召回部分进口甲壳虫系列汽车",
+      "published_date": "2023-01-17",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_efb2c5a68608418dbddac0375ea08ed3.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "北京汽车股份有限公司召回部分绅宝D50汽车",
+      "published_date": "2023-01-17",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_2522e6468e334101abdc52e4cd6ab9d4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "华晨宝马汽车有限公司召回部分5系汽车",
+      "published_date": "2023-01-17",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_52c6ee8091484e3b87e4f58fff5e4518.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "保时捷（中国）汽车销售有限公司召回部分进口911系列汽车",
+      "published_date": "2023-01-06",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_8bb8af5dc58948dc8e1a77e167eed07c.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "上海蔚来汽车有限公司召回部分蔚来ET5电动汽车",
+      "published_date": "2023-01-06",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    },
+    {
+      "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2023/art_a9835ffc6847409a94649d09bb031fd4.html?type=nFZcuWzfh2c41ylKrWj7k",
+      "title": "福特汽车（中国）有限公司召回部分进口福特F-150、林肯领航员、林肯航海家汽车",
+      "published_date": "2023-01-06",
+      "source_channel": "cars",
+      "catalogue_page": 26
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "id":  "art_55e9291d9234400981b1304a01b33fac",
+    "text":  "A045R002L A065R009L A065R009L 一 T 2 ADP-65JH BBA ADP-90CD BBA ADS-75SB BBDA HP 一 A0301 R3 B5LF PA-1121-04TJ PA 一 1300 一 04TP PA 一 1450 一 82 TP PA 一 1650 一 22TJ PA 一 1650 一 82 TP PA 一 1750 一 29TJ PA 一 1750 一 82TP PA 一 1900 一 36TJ PA 一 1900 一 82 TP",
+    "sha256":  "ee7877fdbe35d4a33ed9bb653c10119b08e30a1199c634c9e94efa80041cf340",
+    "method":  "Windows local zh-Hans OCR; unreviewed transcription",
+    "image":  "raw\\review-images\\scope-499-0.png",
+    "lines":  [
+                  "A045R002L",
+                  "A065R009L",
+                  "A065R009L 一 T 2",
+                  "ADP-65JH BBA",
+                  "ADP-90CD BBA",
+                  "ADS-75SB BBDA",
+                  "HP 一 A0301 R3 B5LF",
+                  "PA-1121-04TJ",
+                  "PA 一 1300 一 04TP",
+                  "PA 一 1450 一 82 TP",
+                  "PA 一 1650 一 22TJ",
+                  "PA 一 1650 一 82 TP",
+                  "PA 一 1750 一 29TJ",
+                  "PA 一 1750 一 82TP",
+                  "PA 一 1900 一 36TJ",
+                  "PA 一 1900 一 82 TP"
+              ]
+}

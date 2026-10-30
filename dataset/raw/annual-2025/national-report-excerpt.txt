@@ -1,0 +1,13 @@
+Source URL: https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/zlfzs/art/2026/art_a4a1efff07594041879134480a4aba4b.html
+Title: 市场监管总局关于2025年全国汽车和消费品召回情况的通告
+Document: 2026年第2号
+Published: 2026-03-19
+Retrieved: 2026-10-21
+Method: Web tool text extraction; selected statistical facts transcribed from section 二、消费品召回实施情况. This file is not a complete HTML snapshot.
+
+全国消费品召回次数：1081次；较上年下降1.7%。
+涉及产品数量：823.6万件；较上年增长81.3%。
+统计年度：2025年。
+
+官方年度“实施召回次数”与召回中心网站某一栏目按发布日期列出的“公告条数”不等同。未经事件逐一对应，不能用342/1081作为覆盖率。
+Direct HTML retrieval returned HTTP 403; no access restriction bypass was attempted.

@@ -1,0 +1,37 @@
+[
+  {
+    "source_url": "https://www.samrdprc.org.cn/zhxx/jdczh/jdczh/art/2025/art_6c56005697884ab1bc13277bfc099246.html",
+    "title": "市场监管总局加强商用车召回管理<div>督促东风商用车等10家生产企业实施召回</div>",
+    "published_date": "2025-07-16",
+    "source_channel": "cars",
+    "catalogue_page": 4,
+    "raw_file": "raw\\multidomain\\art_6c56005697884ab1bc13277bfc099246.html",
+    "sha256": "1265c77019b227e077d2bf723ea5d2d4583afe22b72cf520377f76b74fbcdc26",
+    "retrieved_date": "2026-10-22",
+    "id": "art_6c56005697884ab1bc13277bfc099246",
+    "exclude_reason": "多企业召回汇总新闻，非独立召回公告；10家企业、56个车型、1675辆不能作为新的独立召回重复累计。",
+    "review_stages": {
+      "category": "非独立公告：不适用",
+      "risk": "非独立公告：不适用",
+      "scope": "已核对汇总新闻性质",
+      "transcription": "不适用：HTML文本"
+    },
+    "review_disposition": "out_of_scope_summary",
+    "review_evidence": {
+      "source_sha256": "1265c77019b227e077d2bf723ea5d2d4583afe22b72cf520377f76b74fbcdc26",
+      "disposition": "out_of_scope_summary",
+      "reason": "多企业召回汇总新闻，非独立召回公告；10家企业、56个车型、1675辆不能作为新的独立召回重复累计。",
+      "images": [],
+      "ocr": [],
+      "review_stages": {
+        "category": "非独立公告：不适用",
+        "risk": "非独立公告：不适用",
+        "scope": "已核对汇总新闻性质",
+        "transcription": "不适用：HTML文本"
+      },
+      "method": "Codex阅读全文核对",
+      "source_text": "近期，国家市场监督管理总局依据《缺陷汽车产品召回管理条例》对10家商用车生产企业启动缺陷调查，督促实施召回，消除车辆安全隐患。\n召回活动涉及东风商用车有限公司、北汽福田汽车股份有限公司、金龙联合汽车工业（苏州）有限公司、一汽解放汽车有限公司、一汽解放青岛汽车有限公司、安徽江淮汽车集团股份有限公司、中国重汽集团济南商用车有限公司、中国重汽集团济南卡车股份有限公司、山东华耀汽车配件有限公司和山东锣响汽车制造有限公司等10家商用车生产企业，共56款车型，1675辆车。缺陷问题主要表现为防护装置、顶棚杆、车身反光标识和驾驶员离席提示功能等不符合国家强制性安全标准要求，存在安全隐患。上述召回对于消除商用车安全隐患，从源头降低交通事故风险，守护人民群众安全出行具有重要意义。\n下一步，国家市场监督管理总局将持续加强与公安部协同配合，推动健全信息共享机制，共筑车辆安全防线，切实维护人民群众生命财产安全和道路交通安全。",
+      "reviewed_at": "2026-10-23"
+    }
+  }
+]

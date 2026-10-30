@@ -1,0 +1,2 @@
+# Preserve exact downloaded bytes so provenance hashes survive Windows checkouts.
+dataset/raw/annual-2025/** -text

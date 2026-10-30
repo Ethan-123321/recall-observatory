@@ -1,0 +1,45 @@
+{
+  "baseline_commit": "61ad7ba",
+  "changes": [
+    {
+      "id": "art_2eaa74cf65a04792a51d89af9d34ed5d",
+      "before": "可进行部分条件比对",
+      "after": "可进行确定性条件比对"
+    },
+    {
+      "id": "art_04cf1ad378bd4b809e2ff2816ff730ac",
+      "before": "可进行部分条件比对",
+      "after": "可进行确定性条件比对"
+    },
+    {
+      "id": "art_7317ecbd59014b4e8883acabb301d559",
+      "before": "可进行部分条件比对",
+      "after": "可进行确定性条件比对"
+    },
+    {
+      "id": "art_b88ca345fb1b42ee950b0b0d2b4ed854",
+      "before": "仅支持检索与原文查阅",
+      "after": "可进行部分条件比对"
+    },
+    {
+      "id": "art_5071ca8664e44de1a84b45a8c2784365",
+      "before": "可进行部分条件比对",
+      "after": "可进行确定性条件比对"
+    },
+    {
+      "id": "art_f8a7287419f249a0af4dfafcf111d1af",
+      "before": "可进行部分条件比对",
+      "after": "可进行确定性条件比对"
+    },
+    {
+      "id": "art_752ed1ae3cbd4539938edcd0f64f427e",
+      "before": "可进行部分条件比对",
+      "after": "可进行确定性条件比对"
+    },
+    {
+      "id": "art_a825835afced49bf8ce7d2e881b4d1b1",
+      "before": "可进行部分条件比对",
+      "after": "可进行确定性条件比对"
+    }
+  ]
+}

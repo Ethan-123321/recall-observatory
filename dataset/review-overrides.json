@@ -1,0 +1,92 @@
+{
+  "t20250514_113496": {
+    "quantity": 50200,
+    "quantity_unit": "个",
+    "review_note": "数量原文50200个（按个销售），括号为计量说明。"
+  },
+  "t20250514_113494": {
+    "quantity": 617,
+    "quantity_unit": "台",
+    "review_note": "三个产品披露数量分别为222、35、360台，合计617；不按型号拆行以免错配日期。"
+  },
+  "t20250403_113210": {
+    "quantity": 175,
+    "quantity_unit": null,
+    "review_note": "四个型号数量30+50+35+60=175，原数量字段未列单位，保持空值。"
+  },
+  "t20250403_113209": {
+    "quantity": 188,
+    "quantity_unit": "件",
+    "review_note": "原文已列合计188件，与50+48+40+50一致；不可再加一次总计。"
+  },
+  "t20250402_113184": {
+    "quantity": 60,
+    "quantity_unit": null,
+    "review_note": "两个产品各30，合计60；原数量字段未列单位。"
+  },
+  "t20250224_113020": {
+    "quantity": 20,
+    "quantity_unit": "个",
+    "review_note": "两个型号各10个，合计20；型号中的15W、28W等数字不是数量。"
+  },
+  "t20250818_114034": {
+    "quantity": 25,
+    "quantity_unit": "台",
+    "review_note": "SG107MAX为20台，SG107MAX2为5台，合计25台。"
+  },
+  "t20260401_115307": {
+    "quantity": 140,
+    "quantity_unit": "具",
+    "review_note": "三个型号列分别40、80、20具，合计140具。"
+  },
+  "t20260323_115280": {
+    "quantity": 340,
+    "quantity_unit": "个",
+    "review_note": "两型号240个、100个，共340个。"
+  },
+  "t20260211_115183": {
+    "quantity": 500,
+    "quantity_unit": "袋",
+    "review_note": "500袋，每袋10枚；不混合包装与单品数量。"
+  },
+  "t20260309_115222": {
+    "quantity": 360,
+    "quantity_unit": "只",
+    "review_note": "原文5件（360只），按明确单品数量360只统计，原文保留。"
+  },
+  "t20260109_114964": {
+    "quantity": 11900,
+    "quantity_unit": "盒",
+    "review_note": "11900盒，每盒25支；按盒统计，不另加支数。"
+  },
+  "t20251120_114588": {
+    "quantity": 15960,
+    "quantity_unit": "包",
+    "review_note": "15960包，每包10只，不重复累加单品。"
+  },
+  "t20251120_114587": {
+    "quantity": 89400,
+    "quantity_unit": "包",
+    "review_note": "33000包+56400包=89400包，每包10只；不将型号序号计入数量。"
+  },
+  "t20251125_114603": {
+    "quantity": 88000,
+    "quantity_unit": "包",
+    "review_note": "88000包，每包10只，按包统计。"
+  },
+  "t20251201_114643": {
+    "quantity": 76,
+    "quantity_unit": "件",
+    "review_note": "总量76件，分项49+27，不能再加一次总量。"
+  },
+  "t20251103_114425": {
+    "quantity": 61,
+    "quantity_unit": "双",
+    "review_note": "三个款号对应6、50、5双，共61双。"
+  },
+  "t20260604_115619": {
+    "quantity": 20,
+    "quantity_unit": "台",
+    "review_note": "20台包含2台抽样，非22台，也不擅自减为18台。"
+  }
+}
