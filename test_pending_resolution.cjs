@@ -4,7 +4,7 @@ assert.deepEqual(v.dateSpec('2021年4月5日-9日').ranges,[['2021-04-05','2021-
 assert.equal(v.dateSpec('2021年4月9日-5日'),null);
 assert.equal(v.dateSpec('2021年2月28日-30日'),null);
 const notebook=rows.find(r=>r.id==='art_2eaa74cf65a04792a51d89af9d34ed5d');
-assert.equal(v.check(notebook,{model:'Z0207D',production:'2025-05-16'}).state,'matched');
+assert.equal(v.check(notebook,{model:'Z0207D',production:'2025-05-16'}).state,'pending');
 assert.equal(v.check(notebook,{model:'Z0207D',production:'2025-05-17'}).state,'outside','must not use another model date');
 const lamp=rows.find(r=>r.id==='art_04cf1ad378bd4b809e2ff2816ff730ac');
 assert.equal(v.check(lamp,{model:'DN-CHLED-TD-0504-1 5W',production:'2021-03-16',batch:'DN20210315'}).state,'matched');

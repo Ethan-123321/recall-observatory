@@ -1,0 +1,7942 @@
+{
+  "captured_at": "2026-11-01T08:12:10.779Z",
+  "source_sha256": "30c8d8330d93cc40e02219fb01a00f8d3bb587841175eb1f6ab45c50f1ebef8b",
+  "policy_version": "quality-v3",
+  "rule_version": "scope-v4",
+  "summary": {
+    "count": 1303,
+    "policy_version": "quality-v3",
+    "by_capability": {
+      "仅支持检索与原文查阅": 197,
+      "可进行确定性条件比对": 306,
+      "可进行部分条件比对": 800
+    },
+    "by_domain": {
+      "一般消费品": 916,
+      "汽车": 387
+    },
+    "by_year": {
+      "2023": 378,
+      "2024": 468,
+      "2025": 457
+    },
+    "by_source": {
+      "www.samrdprc.org.cn": 962,
+      "东莞市市场监督管理局网站": 7,
+      "中山市市场监督管理局网站": 19,
+      "佛山市市场监督管理局网站": 61,
+      "北京市市场监督管理局网站": 25,
+      "广东省市场监督管理局网站": 1,
+      "揭阳市人民政府门户网站": 4,
+      "汕头市市场监督管理局网站": 45,
+      "江苏省缺陷产品管理技术中心网站": 127,
+      "江门市人民政府门户网站": 1,
+      "海南省检验检测研究院": 1,
+      "湖南省市场监督管理局网站": 18,
+      "湛江市市场监督管理局": 9,
+      "福建省市场监督管理局网站": 23
+    },
+    "fields": {
+      "producer": {
+        "可直接使用": 198,
+        "原文有信息，尚未整理": 1105,
+        "公告未披露": 0,
+        "原文存在歧义或冲突": 0,
+        "不适用": 0,
+        "待审计": 0
+      },
+      "brand": {
+        "可直接使用": 0,
+        "原文有信息，尚未整理": 641,
+        "公告未披露": 4,
+        "原文存在歧义或冲突": 0,
+        "不适用": 0,
+        "待审计": 658
+      },
+      "product_name": {
+        "可直接使用": 539,
+        "原文有信息，尚未整理": 764,
+        "公告未披露": 0,
+        "原文存在歧义或冲突": 0,
+        "不适用": 0,
+        "待审计": 0
+      },
+      "model_raw": {
+        "可直接使用": 627,
+        "原文有信息，尚未整理": 662,
+        "公告未披露": 0,
+        "原文存在歧义或冲突": 6,
+        "不适用": 0,
+        "待审计": 8
+      },
+      "production_dates_raw": {
+        "可直接使用": 851,
+        "原文有信息，尚未整理": 447,
+        "公告未披露": 0,
+        "原文存在歧义或冲突": 5,
+        "不适用": 0,
+        "待审计": 0
+      },
+      "batch_raw": {
+        "可直接使用": 483,
+        "原文有信息，尚未整理": 371,
+        "公告未披露": 4,
+        "原文存在歧义或冲突": 6,
+        "不适用": 47,
+        "待审计": 392
+      },
+      "defect_raw": {
+        "可直接使用": 539,
+        "原文有信息，尚未整理": 764,
+        "公告未披露": 0,
+        "原文存在歧义或冲突": 0,
+        "不适用": 0,
+        "待审计": 0
+      },
+      "consequence_raw": {
+        "可直接使用": 535,
+        "原文有信息，尚未整理": 381,
+        "公告未披露": 4,
+        "原文存在歧义或冲突": 0,
+        "不适用": 0,
+        "待审计": 383
+      },
+      "remedy_raw": {
+        "可直接使用": 198,
+        "原文有信息，尚未整理": 1094,
+        "公告未披露": 0,
+        "原文存在歧义或冲突": 0,
+        "不适用": 0,
+        "待审计": 11
+      },
+      "contact_raw": {
+        "可直接使用": 717,
+        "原文有信息，尚未整理": 0,
+        "公告未披露": 0,
+        "原文存在歧义或冲突": 0,
+        "不适用": 0,
+        "待审计": 586
+      }
+    }
+  },
+  "records": [
+    {
+      "id": "art_f1e340542d8d4a689fe00e2e4f1563da",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f1b059721c8d46f294ac43879046f5fe",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_df1172670d3b478fb3676e06207d7b99",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 4
+    },
+    {
+      "id": "art_de3576bce4424a0d8b9d525a424bfef9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d9ddd0d8645f41c5aa49887e5983b546",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b86cec2b39a34a3c8d5d48e1e2e23c20",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_af24362aa3474f298b6c7e3d50484faf",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_69b85ae6ac6a42cb86cba29d2a9f3361",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5e795330577848978072b67d4186f5d1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5450c51d412f40de99454171d33ec52e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_45b92de9559b4b04b1209e5ce7c8b84a",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_44321e5408c84916a1b01a1ef6ec4241",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_43f5622f2f98456e9dcf31570bcde379",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_13f5c9286177402695e1defb29e5735b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_09422c15906d499eb1d40421bea5608c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ddba783a815a4315adf5b1f4e04176e2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b4b492dc8515430482e28af48d5b5607",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ae5d3e14214849fe83fab754cb2d1840",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_46b2d63b721b477991c42b2ff69d8dc0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3ed9c727304e4e73bcc6c7534b0a429a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_37f06da95de848aa85be064c086a79e4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_28d419b48460454f8fc61d89c6101709",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ffdbf237b47c448f8270703c597e71c6",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_794b1de9efdc47d7af2dc6ab7a92c138",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_631a258c6e324535afb8386c9bcdee2e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_3a78811f0e6240a5bc02f8ad03f545af",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_161ce63bef5e4173b7215bc2ab204d5b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a2bb449729c3498e9c07d2ab186c57db",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 4
+    },
+    {
+      "id": "art_06af93ab72884fd19c96aa7c46af9c5f",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_916e90cea1e747ac9bf70dcbea272ca3",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e4963346b0ad4eb283c648d1a8ba4be0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9673da476ec04eddb43de0e337e963d7",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a3c2d297d92f46ceaa427049470ae11f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_638c6f836f4a4a9381500fefb6483ba8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_32227f42492a48b1a22a56dbb7eded75",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e9a62e1adc3b4c42a3a14454de796230",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 2
+    },
+    {
+      "id": "art_ce3c7b533fe945d79a20182ccdb3fad1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_c2ca00b8e8f84d44b30bf57b2c10aeb2",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_44a911c5ba7d494da23788fbf6a42773",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2c4b9d68905c4ff2b7e1f251f9b67a3b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ce66d11df2ef4867a1255ebf487e5a52",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a1b274ec0006499fa7d1ca5104d3a859",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9b33d62db0cc4647af7c5a994f2aa69c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7776d63105cb4bfea0798ebd0a89928f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4059bd33a8f74fbcb9b4b22a5dfd3913",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_07dcdbd116be43c7ad4df28f93dcc931",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_75cad3e4399d46e7bd00d185ed0d927e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_72baf6b7392e410b89347de9afc8ef4c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5476d225197f4ecc8f0d7a56889d1c07",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b1e4e679498e4d1c843850b7856747e3",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a6af2ff907c14b80be53d89d93b1b8da",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6a03f8b8e2f54a1ca885ebf9f34a25f1",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6646ca9c39bd4dcdaa254938cdee4a8c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3cfa9569944046f6b7ebddaa6a7b3947",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 9
+    },
+    {
+      "id": "art_2eaa74cf65a04792a51d89af9d34ed5d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 5
+    },
+    {
+      "id": "art_fefa37b15b284dd687747ae71dcb683b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b04e8434d42e4442bca93ed2ec88dbc8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_db681c14700845f8b2e65fad213ec80f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ccbb8c628742432faa8189cf1bed4d32",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c143d05530a942eca1dcfe4aea6deef1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d1b4e902000f4193b8021ae220589929",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9050f290f08e4f2486b580354565d941",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1b7a29e457614a25b27e43c4f6d62881",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f7f78f56d7374211ab0b3b6c4196fb5c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e166546828574f82b17b2a291c8062c0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_633c64b971274a2f9bacdf2fd4274c22",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_51c5050197734dae9db6e9c209993c34",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4c2a3a583b3642b39f6a5641fe172da2",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d9e6ce8de77e40f3a39c38589304ba40",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9cc07a2ee0b2419f882d76dbb8e87001",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3fb1d49c89104acd8431154e3976e5a4",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2752e02000344c89ab1c382276b095e0",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e8c0e491d86045e0b8213f66e9b389dc",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_877dd9efc32043e3a5de6f90eaf0c93c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e1c89e9f3e594c0f947539b2ed51017a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d9fe7c4d66174172ae53bed471043fb9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c578e238fd524027b5e5544ab2382f33",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d948be5ee0524088a7502327d64a75f2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b2617beafd034cff971600050dbf1585",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_703b9f70b086480bbf4a9a43dbcbe7ad",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_eb446e5c0541459b8961dbacc78fc8e2",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5142d9bad43941fca4888c0864cf561b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_79ec3a57bbad4352b7caf3157f64a67e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2d14208a7d784b48b0e40c8232318a18",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_59ac978187274921b9d81bf28bae5851",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_155a7b37645e4a9ba6748b50743d151d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fed48ada3eda4833994c29e179944178",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f74a52c07a2142018294b7738f683849",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ea9186b1f05f4e66a223ee476bdb10df",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e72292ca7b9141b5ab86f6fa110cc7b0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8109a221773d4f49b64030ca19ac3246",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7fe9f9b2ad3d49efa62cd9139757fb74",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4058ffc96d0f45debfbdf57d75c4dab2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_25583d75fbf042a98e2c864c3c1f360a",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1aec4c0c437d42db8da77018aef72390",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_93e283bf1916402790385730dc79463a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_52f9eeb638f84c0880c16692f932ba3e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cfd6004aacf54f36ba657df7153b18fb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_75365b2ce4dd418183ca72355f31c917",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_408a3cc7b39849bfaf6a7409f6605e4f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ec135f8595a740b58a089debbdd43f41",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_361cbb3df4ee4f6d853afe602f4dab4e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_0ce2408baec8496db8767f046c0228a5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c28a71a4d8db4490bdc90a6b0bfcd36a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1d6c334326924f549a3449ff142c180b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f485b6a9e7694e2ea528a1260a542a7a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f2c86089b2f14aa7b6ac1a72d673e506",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_913f01883c7d44e9a6d519c8e1427156",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_620b5d3a3282408c91fb1aca94f4e5dd",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_0568ffff1d564c469fcddd432676027c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ef15ca0507464c4e8cca749b522fc88a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ad926073ad964cd38d5c3ff8fbff3bc8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_693021edb99046b3bab2278fad5a35b0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5c32ae6c116f492a94309de89435cefb",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_51aee7073b3f40439fe67376b3dcdf47",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_193c371299e54555b28bd3b91bb7d977",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a5aa8e05902c4c01bf4c57e06b7af43a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_757c7ba465d449ab82d69330245c2dbe",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b879be86b3db4d66b5082e5c1b944fdc",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a9ade9a90f664f3092d80fb94bb1bd90",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_41b25993527e46029d40e93490aaffa3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_53c132f106344e968442e33ddedd416b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6fd30f585b1b4345a68bbec3b9869020",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_421e2ab020a64c6cb2ffb191f52012e5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_21a03a6278fd45168e80863147e538c8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_df556d00cf9e4c47b51defec20022565",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_b822413b621e48c9a2f5a205a02e0cdd",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_048d6f14588248b99f4cad4173949544",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7911b53cafc24d02bf20105b4fd2e83b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_380284b73b054ffdb684b906ac0af656",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5ca4ae3828954b8c8d456ed27aad9b30",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cd76bf1d284e468f830f56c11b89363d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5b0ce35cd80249189d161f435829b311",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_4d7e742e9c6f4343a4560d5d6bde6531",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_3c1d978a95d0490d8faf995b224f508f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_02105c16c31d4110945ef5d2886b5122",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_73dde698d6444032b23fcb984d27368e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_94bb3369fe6e40bbaaf9d311116cade1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3e390118b24f4db38332f8291b1b0415",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_dea04919b8ef46bf938cbd25718d92fd",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d51a8f183106469ba1cafb0ba43ec47f",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ca05674e81524b659f7024e5a49fa858",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a69e72f40a124179ba5933338fcd1f74",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_95c225f4badd464f8ee3933cead2e8d9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8bb9326d6bc343838352f1a6daed0e39",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_670b7d517a8949509fd54f76cbac53c9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1d745184b5ba4df1b1d0036006263555",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f71560d1e33a4d2ebb957f27c60c0bba",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_f2ebca51b4fa40908474d29a6c2ceed0",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cefa67592b4c46cabbd14f182170acb5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bdc20d79c2404296b949bd8038071af2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d47d3ca8599346fa8e74bd8173864f54",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_bfb640b479e045a0b4bd13a63a5f9fb8",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7c75e970930240d295f3ef4461da096c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 7
+    },
+    {
+      "id": "art_62dcc20f29d24f0eb243cf4b27cb359a",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6496b62412d8409ebb0ffd0a7a626a1c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_dfa40e98749945c3873621d77e9a85df",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4c96abe7a0b2469f82c26df2cca7fd86",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_29cf7f41f1f4434f955ada4b66867997",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_32a4a2fc6ea4415ca1f4c313060249d4",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_18a98819cf154cccad11aa2ae95d09a7",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_fcf4c8f336b54712899ee7d9c9dfca60",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_60afed031e654677a5899795ebed62d5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5f955bf088684b3ea4f94b0b23863ede",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 5
+    },
+    {
+      "id": "art_58cb94fb73704163a658643a8edefcbd",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0eaa1c51e2aa4159bbbf7cb62a995dbc",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_bf2cb9534d864733a87eaeb32197078c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a47965e08186497eabbea6c8e54f5166",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a2dbc3edb5bc4e51bd02b7c0dbe84832",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_82ace46b10364539963ce17501a43084",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_79b1f750e38441f7830dca580a507582",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7c586e3466804a7da60d256c28410030",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_69122927b0584ec0905b9a94438e7166",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a01477343e7145f5abaa615facc11185",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7795d037435a437fb4572db63382bec9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_97c1f7df674846278e537111c2306c0e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_eeb40f40b11044639ecd4cd703674e0f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d9d1225a78734cfd9b0fda8f48d196ee",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_c80381a1e61d4794936c50273df26cfa",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7add3c1a24074e148f06148d418c526f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_73eb0562f31b4449819d77419fb40f7b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4260f8d1b3154caf8b2a6581307673ef",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_904f69f234b6445c9473dd563508059a",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_87c2f9089ccc4988822e509e7eec36ea",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8209c10691704a779470cf394545ae64",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_347001d02a81461980deb1c8db4f09ab",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b2ec6d3653d24a6bb646ab1ce9e5d4de",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_aa2be67c021e473d94fa31e6aa87adcd",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_52339c0a9863424da71c47eec795901d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_22aea8bb65e349f7bfaecbff6151dd04",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_17c9a699902e49cb801c71036095268a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_185ae51ac93248cdbecea9ccb66ee6db",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_40f2a9e48e514c69a35af1b5f8f7a74c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_db2908c381c749c087a50a82fb32a934",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cb8139b2868e4328aab3f3b28d48527f",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c02c8e60a2914dc5bdb2ba76fcc69e2b",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a877e134845b40e682060156a0b8436c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_377fa5e907b44696abcdb93e56c33a3d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_163944edb8bd4410b6beedbcfb95e81b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_956c669c7b934b4c9a7c07e92e82b4a3",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_42b680d8edf94c82afdce4c50fba280f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2c27e419e46a4d43a2ba40be34733059",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_930734f65c5349678a54e00424b5a472",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fdd9a2227db14a22aee1494621bdace7",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8e5ed5ad7a664dc1a56182363b069788",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c72752b5edb1408dbf3bbbf4708ce93f",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0db7a93aba184bc1b1e2a21f46908158",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_fff8c1ca21ee48c8845cf96b78deb2c1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_df5acf5e979748278ccf91b0b6197e5d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d4c4d6570d8b47cc9d3450f24960e582",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3025953e222749b09ab150244b3cb550",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_13d492c64ab743eca6bddd3d5d62b4dd",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_02a6ffa9f9a148cab2d984b367d4a61e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_4f44003dc4434b5b968cf02f5da7d890",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_17685bea48574775a65c60cf716a976b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_fe2b7cb91068437fa0e87bd23f46ba49",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_de3143807b9042b3a1361186ba969750",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d878563321a14d2fb0753c5117754626",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bc3f432306ea4d2a81c5da03ac788524",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_058746825ef94506b2176f4195c2f10a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_49d7fe64d86e4527a7e8b80e8ecb1537",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_990e82de92074401ae974210daa9678e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_61bdf5a9581144f88e5439ee9d1af54b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5ca03f488a4c4dabb07d1372abb08d0c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f74518509d324a0c97046c4e927f807d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f3a3ff88635c48e5af3f53c3ba7c11f4",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 4
+    },
+    {
+      "id": "art_b2d33841c76444019c10220a3c8075d5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7c89b299b8ce4725a01d535387dfc5bd",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_54cff7d22c0f4dbeaa11fdee4be12e15",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4cc32d4be1434561b73f9b659bdb705f",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 4
+    },
+    {
+      "id": "art_022f6b85dff841e18974eb2de3c9d245",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f3235565addd401585b101ce4ea50e56",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_db3fb0ac4e124c5a81f27c3017abc318",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7948dadbc7a6455ca303a22441325e2d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8005768368d4412dab84d8fcae969a37",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e1a4bb40c092483e98498be072c35490",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bf8521fe94df42fb8dc8f7a52913afa0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e685bc5942b74dc48b41650f38d44eb2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bacffdf6cd3f4171b4b95ec51e3743c1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7a8e13de302748a1a00368800b81c2b6",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7a66d64230b947e8b68e37e1ede1350d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_71321de973fc4c128db438146b5e6217",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bb571e09238f4d7b9e4f67311e0ab615",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a0f47b6d19134c568dbcf08a2e5cc98f",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_995c1b5f9d564fb487fcdee9ece50067",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8b2389812ea345c1bf407d75ace03145",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7cd9ef8f7dac44c1959cb5407e43e85d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5678d430b6b34b359643892a1186c21b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_19657d5ae6b243b28fda287cfa4b7b14",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_05333e6b2c7f434f8b68449a753d231d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_59f29b8bf1d84251902aa54bc6e6148d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_dc9e466ee6b94385a6f3194fa8df189f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d77aa4eafff74fdf8f640d05ce926251",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7bb8c45cea7348e58e2f7ef3a4114173",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_31401ac19ceb420d8b83e702e9a890cf",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_8f655900f09646dd8afbceb901056868",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e0ead44ab4924fba9fa8904c0afa5d4e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_af2f4eccd9174c0eaf2ec4aa381236cb",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_44778e431ab948689270030d1a9ecfc3",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_099230c78c5542bf9333da58cc40fd1a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_abe8824a5b24416b886b599568c0777d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9a69b552a0cf4b29b875c309cae440ef",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8e2d0ce8c6f042fd8dac5b83068e090a",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_80a861e0886b42adb90f7092176c6504",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4e1f6879794946b19372c0f773841ec4",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2865d80558904a4eae10dee306f023ff",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_c7eff381925842a6b9ae25349dc9c1b0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a081691650164d469c86c9d061d7f866",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_97a45e21c0514d65908627dbd7c4cbea",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f90d5b4be7fe41b8a961582ea4dc1ec7",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e035571cdfc944cb95a79fbf1d612ba5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c4221ec9d73a40de8d51096bd4bd014d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_09abf7d7f18648c5889f9d0242fa0326",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_00743a717842437dbf19cafde2ab9321",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2529c2db67d54c0f9fea3ad2b5bc0267",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_16e28401427a45848813c5e3112fcd4c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ab9831fc0b9b45b9aaaccc03f086c4d8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_87f5eb15d3ad4c2691aa091e244fa157",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7a1b9ae022034ca0b6d87e7e67334cac",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_62f54dcc96f94a1dad857a7a6ea07831",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_dd97a7b039384f0499d1ed71c6d7d5f0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d4ce493dfaae40e1bb5bf0da98fe6328",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1d16ca60bd55469aba428bcfdec079cc",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7ff321adc29942dea2d28488d4c061c4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_dca9469a09a2460e8eb098339ad5531b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_fe83a6cec7b94570874f99932c5578cf",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fc30e43ad4cb48b5a1f6dc1070a610c1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f0dbbab984894a039749c2e2a587ac4f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f0876301aa95486c8b5c0219182bc3e1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ec691fb55c11425194f655a351e2c1a7",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_dd49a43963124961b2f21dbf22af7821",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c9b8ce829357407991efb0963bbbea79",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_84431226a93c4434ab7d912b3ef0761a",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7d8dbcbe8701471fa68c3020f73538b5",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_64e69f1a8c5748bd8587154446ae5803",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_51b37d99c94d40f38e14b2baa997cb16",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4887b5cd333a4248b5ebd5e8de1dd88f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_08cd73f7d00d4e6a8245c74d730121b6",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f7dfde16bb0b419bba5728038165eb9c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e69f98b6ad6948aabfe89a62edcdb82d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_dd4eff3191c8474cb41e7d0486713724",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_398f420475ec4e618e1d327e00d2d8c8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_01c92e4292204a6eaacb3595658ba5dc",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c32ccea5f9a84e8a8e87786c6658d03f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9db27ee0ffd14123b113f2510d40cbd8",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9b855807b0cd44e39517ea02e6dfe09b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8417865bb6a645c2b2e265b2cdd438e8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_559d59dd492b400eb7e1d104c7b9d558",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_13289cd521974129a984cbf70b47d5f0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ce1dfdce05674e248eedbc24335e971c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a0ba6dafdb6346ba81d0ef1ac62f17db",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_717e0c5ee77c4e8485d86060f1b14176",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_640dcc3a49bb460f97969f2d37ecac1d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4f44fc40fbd94ea58fdd6c36f1725200",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_284385c924a141cfb0ecc527f0bcee8a",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_db1c7f0f456f4eda9d97392b114f061c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8304077901af42b3a5811bc5efa15f50",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4f9fe791790f4c3eba1a30300805864a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_1da0f858c6de47e0a3b9d56af2106533",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 2
+    },
+    {
+      "id": "art_04cf1ad378bd4b809e2ff2816ff730ac",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_f3ad31c12d1345fb8de2154c43ccfc9c",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ef11305469b04732896c6f038f5835af",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a7fc1d97107f41a983e1a3c3dfd3f998",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_97eefdea89e9468bb20e7245493a7c8c",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7eeee0c3922f47df8e8be7d2c1209a94",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_77e0aa7f13b141a58d657f546f2bdb76",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6b98af80b4874ff883e3f44e7c16982c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4dc0b5c0a5b0485f8bdf23ab9e02c53d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_2d21f54cedfe40e2a43b0ea0bf253e75",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0e5d3e5649cb460dbd257c964e722932",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8b8d971f278447e89b6be4331e945973",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a058f0be782a45918f3920488dc9dbf6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_737e1e67f4b04dc89c7e915f40edaad0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ee299df13cba4ca8a40546975eabdd60",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c8ed6b8a69e8463a8e06b605b24555f7",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_c63657bda02d4a44861e83dbaed27d4d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9d44b3ba2bf0453e9ccf73224127d803",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_8ac032f965414075a0544c53de645eaa",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7d3b83f691674f14b9e9e101868624e4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_77006229eec14fe68504694b92eeb1da",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_73f9466dfca444438be37b31db0adbec",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7317ecbd59014b4e8883acabb301d559",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_6d67644453624ba6829b2bf8199e974b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_55790527fdfd402b8504ec9b3e9e262c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_39ba21885504482c898b8b4d71f4f9d5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_26b10e4babf64e6d8b163154a355fa54",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d9ef2405e5314404bfa56a0e9f076c28",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_0ddc78c0db7f4f54b16693d13f5f146d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e0110689937f49379822dabea9f570ae",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5a3c6f504d0c409fb7d991261f9c8fbe",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d8a72bd53cca477bafeeba78fe78b115",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d07676c238a944e19cab67006589febd",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c7fe66873f904bcf84e72da7b68ca9cd",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9ed0582926a345688ce449efb786ea8d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_826d67b412494706b0ed2a4bcdae775c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_167f87a21ec34a3ab1dcab2cc17ff4c5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_faa0b28711494ce9a1a870d6c48b3487",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_f4fe421e182c4e42a7e9b0aba738c96d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 4
+    },
+    {
+      "id": "art_e442de28326143928649ddd9ee6e7ba5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ccf5a141c0644e72bd03c4164b4fa5cf",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_aa313aafc42d43a580905b8c65b3ad95",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_8cdf749420fa4602a617b4e27e3f1709",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_89589ebc91514783bb19ccb633d96513",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7f287c75f36c4600b003a19acc9cd592",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 4
+    },
+    {
+      "id": "art_60f88f04eb044739b2ef3b9b419f3116",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6051a4b22d1348c497f8fe1f2e28030e",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4d5564c29bde4d15b76589646a887d64",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_49e1f59c76fb4b5dacc371f9c4ed38ee",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3d682d34e9c3408480eb57a1cf2d1341",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0617688ed041474e94c66e654888235e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_047a140afbf54e93aefc193636ca425a",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_02883cb9cbd24ccd9b5f370fd8112164",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0222839b21194be5bfa947845a944b5d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7d960948265a405092ff9506aabd8ce0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_136a86630c19437eaf7d8815a07c4d49",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b28131c7a4d0474595c32bf5641a7a50",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0825b269ca974dd69b224578a6cd1eb0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2049c2d0d06c4bd9b25481a767e2e25c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 2
+    },
+    {
+      "id": "art_213622ba6fa04cc18d2974443846c716",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e1d3e3e7123943cf9892c5cf392bb13c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_dd798617d2744456b6e221783743c673",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_daf04dcef6aa4281b2711b83ad774625",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a7317608af1543db8805142c58dabff9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8ad67bf31ccc49d0a766e3f5b9f26a69",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 26
+    },
+    {
+      "id": "art_68a17548d926438c910b0125ebedb2fc",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_57b0d13e605f410f8628d0520a23fb7f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_4af8ee211546437195353b0a4113e620",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_280411cbe0554b1791251299bec3dc09",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_189e336c683545f39365b84e42a61491",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_12f9b47a289948fb9fc2ee611c5dc018",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_4f9a123907fe40ff80f995f264616d43",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_96c33cad02c34a28a5d67468de1993e4",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a980a7c5643943289cf3bb4bdecce0df",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_31845594fb0247779444f1096a088fbb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_f0bb477b46c04c5a9554c3690b5be3fe",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5471968c38504a3293f8cdb48c6f0aa1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2bb7cfaf17e94ba789e564631589ad69",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a81bcca9a9e1461fa45b884c391ae6c9",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_79659a0e5e09450a9589cac6291c1020",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7071e01bf04e415f8656a9f26b34dc10",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d58523baa3524540aa66fea76fc63682",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ffd882626381457482ad9c52658769cd",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_db35f5471205459bb9fb9cdbe1930f17",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b88ca345fb1b42ee950b0b0d2b4ed854",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 2
+    },
+    {
+      "id": "art_b6561bfb374d48c286fc48278ec59e61",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a537cd22c3e549d8ba8c0c91191cf7dd",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7c133ee083714a578824ade09e034eeb",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_63004083fe1e4cc1ab8917776a8b2539",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0e245ce481e64533890c27240ae94d45",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ed177816a19c417eaaf8f284590ae5b9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d9ce3730ab30497ca1eba28f9e4fe740",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bc9060f886744c4d9a1ea65909d760d2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bb9d5abad1e648ed878d1e8b035c9d33",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bb4a491592a545fbbd26112c86430106",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b0b4db2558bb4e5c9c09354e12dd4bdf",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8ffc91ddafbb43f3a6e5261a4ca07d73",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_56a95aa9e86a4af699d1dfabcdcd5ab9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_530f3c9035ef4c5fa9a80f352543a2a9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_376da8b8207a40f5b33553de8c8e075e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c18fe84ed6d34b0aa5501f800a670c85",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_abc3d0a5bba34166b68b7d88453d9f2d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_72d77eef384b487184259da28a683c13",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4eae2d012f7848ad9447d6d1b46a6804",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_32bde95ac64941f9a35daa79f619c473",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_402d25c7ddb54d24970aa6e73e271519",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0a74eeda7b5845988a15c17ded9201ff",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b14036d61b5c4136849872b61d37ce89",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4dcc3562542e497b8e0c78d567644ee0",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8e81a62830374cc0ae83d6dcfd2527a8",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_13fbeb5ffb0648e9ac901c6e4fadb76f",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_05d7f6beed0e43f690c11494788dc255",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b5dc9d816b0c4877a185d63b7e3f612c",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_87643d622617455192eca3008c45c723",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 4
+    },
+    {
+      "id": "art_794bf2ed3290456e8f7cc7d3d36c5623",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_775560eeb395482291074bd063886924",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_51aa7ba0aeb5413c8d7a25e3bd873455",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4d19e4589cb14cf9a85d7ac54a615c9f",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_49099f41f7fd4f998d6ee4611cd722e5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3b44f11846144b4686248703c56bef13",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_344185bfd8244b5da2a8c5830937b749",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0dd8fb9d89774bf1837beab82c88d511",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_03d1f6e7011b4b868ede3fcfb55c64b4",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_0027c7dbcf6d45d89920bdb3c2943d16",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b34301a58b41434a91bd1a5fb8634789",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b2a5c11826724865acf088f8e5995b7a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_91ea2f3d5f12484aa7c3fc3b038d1b9b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_02eb9aa8c5ab4b6099c0b773f33dc775",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5071ca8664e44de1a84b45a8c2784365",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_dcf15824643c432a8a5a78841f219899",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cebd40cc7d0848c081f9404782f54c52",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a32f2276a5754f2e8bf08b33fda593eb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_8f1a91e9374d46fcaadd43c28c232876",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_82b462418459456f9529f0e909a7eb5d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6c0912bc23f84c368de2afe21db8ce09",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_194c110f58ad462ea3ef824540cd5ec5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b6cae20e63c04815a9da54fea4a3895c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b0f60d9107a64858a4caf7604d9cd8be",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ed7d25c1134c4091911a05c2df3227af",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_dd825ee7deb14b0eb9476a213004796d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b4c5857783c44c4d92c5ab986c075dff",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_95795a80cc7849188f37c73b838292cd",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9227c4cb984e45aa9b6ab2874c767579",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9087e61120874c15943a8735bfb0c3e3",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_87eb0b32aaa4429980f8f7612d79f60d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_851fc277d33948b78de8ae1135054fd4",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_735d7c4f1a8845a5b17db7d775dcfe8d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3d2827485090407a855691551e5e8843",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_29d5856214384a71a75d9ad427da2ca8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_19776919a6fe483f806ad9555b9c073c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_139dcfe217924099b71c91df2d2da6c0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0a7cdd0f14354a288722ff30a899e792",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_fca118e5c2774de8aa3521bd9a8cfad0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_f8238e4072dc499580b4cbeff6136879",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_90031e5c2ba04280a89c15cf615d839d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7618eb468caf4eaa96720d6202de8417",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5213dd9925b9486eaa70dc267c1fbe64",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_10a6bddb9ea7446dbaaac66df3d68c35",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f9734cb6683e4882a20e80334835d0ea",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d62f2130b6b94c1ab92081d2bcd85627",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bcfadef1614b4d868758afc5f91dd3f5",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b7e5a79fa7e840ff87ff3123e4ddaa44",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b14013e111174e8b85f62c1675555250",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6ff878e1211e4ed485c46654907e7d14",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_69ab73f0c66d4b9f9d28cd9717c40a08",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_58fa46239db04f79803e024fd9b647f2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2fe162b2cff84ae0add3f428c2813308",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f53aeb83d4024853b4a911409132efb7",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8509c524c7e245d4ab3c1e63b78eec31",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_829d7bd0d86d438f99043f071f2e5307",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7c4075b2febf47138a378027f0a475d4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_201f444f85034f70b57b8c89b6dd35cd",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ff5b86f0f107479f9e5013b5a836ce29",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b6fd4f8b71e340d0a783fdd179d5e21e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_59bb01a024c24f32923dce27a84cbc60",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_5191584ba26a4ea99e45135d83aa6913",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ddbca52bec904f35814004763df55796",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_cb99c61ec5f9448c89f6f071981b9a21",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a3fe944aa0eb4d4a8c350f75d1e347c4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_99ff231ee6f04b83b1f8a70e31c4d3c5",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_90c6aa03ec6347b6ba4354b0053544c1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8a933af7c60d4e9284ed9b9a3a147dfe",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_81dc9d2cf0e64086b97aa6bdc0b60f8a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_34544708bfb4433fac2845e4005b95db",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_13ceb12f4d554430a2323ecfe5803889",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f94ec5a29bf9470cac4e99c25235fea9",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f4da2426da7247a29c694da77729505b",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cdd58c4861a6418ea03142d9ca7a9dd4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_cc863c89150a4ce2841fb928814303c5",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ad9206f1f1284a51a7687f5e1dc47891",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_98a0d884efd04e29acb9120f346006b9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9368488d9b844a10b28a1768b21ed22d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_810225ed408d44cbbccb1bb430e59288",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_44b62116d5a04d9fbf16e1f0480d7a80",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3d820f85cc6c4c8790340348b940c487",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ab564827ef6846ad887d2aa2ebe46dd3",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_96f3306c1ef2490b8eab42daf6184828",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_1882cce87eda4539b99065c7a647e3cd",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4342388d6e10437dbd084776fead0f06",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_356007d17b35483e8723d1b62f0c8ea6",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8ea7722673d946c5a155aa7cd474e697",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_57d2880d669a48129c7d05c0409453a8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_51f0af2270c94f7587644a9c755813f9",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 9
+    },
+    {
+      "id": "art_3f6603236a6843618c7b234d45cc26a0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3a306b92c79641bb8b6736a1e2556394",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2f4ffc0472494ab889f2a94f8a5a9109",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1e78c9a9bff14e06b603adafa859208b",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0530f34d25294c73b9cdbc9aeb85797d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ef94ccbf10074882b4fddc824c60c11f",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7c30d6a5329a4a39b032b4f07fc487f7",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e7c438a8938c4cce8dd825140f5d0953",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e433d0f94db349829b5f13dd96398331",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d12e3bd2909941cabdf73607ed044cf5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cbd4bb3fbb614c7b8125b3c50a3376e5",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9ccb5c9abb804012bd4ef17965331caf",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9719b7041c0344ffb2242040b195709c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_71eddb12660e479694b4a892ae20a52b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_63d054b67fca4eebbe3681720c3a5031",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2aae03884eb84f36b854bca5db64dd9c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_234c7881529e4fc2ae74e29852ddaec5",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_001f0b69748d41a18dc07c54e1978438",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cf171b71da664efabcdef9d5bcf57abb",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c84729b5017b42c3b5f762db26f5e44b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_613cc0984922480ca3b0b4c1de150fa7",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2d12f45e3ebb4c2abf412a42fb643ae8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1bf6829ec4874a9496d2a82258f22fd8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e3d8a14bac214ea6937be86b323ad67a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d5faaef7c5aa48fbb52fde87eed3a1fa",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9ed1c7759493492da13a853723474fb0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_87d7d090651248708dac6182787265e6",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_27e16467d47144e68405c0889863201a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a7a51dc825704039a3efc23526ae9f70",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1c91b117b43242b2aaf41caf602968bf",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_055731634457485f8d1bc6afa2ab5a06",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c7cee919c6eb45dbb345f5ee1086ae15",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d50c6ac02aaa4c7ba915e073bd7d7b8f",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_bf6343eb4a7241c4af84d57b232a5f35",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_99f242504f454142a7b431016e2dd26e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_73a2a7925daf4230a65d4e5c9bb10ada",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ead6288c71fb4f65b0693c096d9823a0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e8002f19cef64c45bd71a643abf8fddc",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cb2c42d761c4422fbceb9953c4f1e45d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c56067fbb50e44c7b7b0a6428de00abb",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ac4075bd7a864563aeaa807f7431adca",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5d31e3fe70fe4f70ab9bffb6cef003d3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_51839c0590794ca29ae1b5ccbfcff27c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_49ea876551a2487bb6dc58b56ceaa3e3",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_23f550e67064441da639b2e3e95bf22e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_90bc90117a13451b946f5b5302685820",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_34fa7b769231405e85bb1ba2aadc7e5c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_11655407f3a5404f93e57835d1447393",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f9a5f19123e44541b5239811e73d13a9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_dcc62f83822448adbad324ced16e0be8",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c76db796e2ba45b0b0e4b121c2463d04",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_be1ca3cb76e2470c992dca66c708c9c1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6879ccfabe0e4b9887ff3a2be43e84da",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_66a58fb2062d4ea6ab866ed4983bb127",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5f33006b9cf245b5ba728ceded41ff37",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_57f4ea1d50134c7da32d2017b4d5a82f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_50f776fd8aca4ae88a1165acd30d03b4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_440a1d502573420b8b55d356ab4c0e84",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3db08785d3704de988a888a3187f5922",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_23e56a207f66461cb973f4107273dadb",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_085d3ce617fa41caa36f9dfd1b9dfe2a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_eb51ced944224e81ac96d2460c0f03af",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_585c75f437bf445ca353d8195e7165a1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_3348ef862fe74992961758bfccf44d61",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_df8970a685884b3e9116a6babfdf4335",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_73c340b76da44ab7a3957debbf3f4e22",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2c0539657a0c444f9df82baee423ffbb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2282f0126ffa4416b6b6fc4627ab0694",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d280371e2ec84afab8b3048e46f77c0d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_6b18d93a97a14033b9f5743b1436af04",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0096684c565f4e3e94d58958175be96d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_fbeab655390446efbbd39f0ff84fd452",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e1cded1645164647ae3a234ef15feeb2",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cf2e7fa3b94f43feab9bdc450cc98d37",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b2bab7af637b4de5aeed363d36023ae3",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_816224252d8e4046b1c4d25ab57a6950",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_372dfcd20818430ea87b03025a6ddc82",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_16e8aa565b094cfeb33731d204b03213",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_13ebe00c00194d92af3681a28ce7879a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_09392da25daa4f6dbe36050f95d19b06",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_06699a992da14a89937eef68cce186b9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_be9e052963184b3786f9f85e06c9407e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3b26930e00f94406918c61491bd9b2ec",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0d8a4c2ae96c4585b19ecd9855718621",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_cf608845ad85437fb67b7b2c8b721377",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b62709300639467c8c90a1d8a95fce26",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5855a2c361fa4d9abfc0454c3834e248",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_67e781dae85845329316e0abf59476fb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_63b9d88f3be8411abaf74ecda0ac46b7",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7db7aacea58e41338735df2fa9017e0b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4681bb3777104b6eb45f338be5ad87ca",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_852bb0f6139d4ecb89a1b88f6e59a3ba",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5ff0404699e248a498151020d450d5c7",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_36c56c79f9294734b2157e1dd73ba9cb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_320055ffd47a4284b64f369501c3c4f4",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3ce8595fc1fb42bf988a79f01dd91aae",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0afeb7f7cf404d9ba2428a6d618a8102",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_fbffe4bea99147238d5a263665bbd7ed",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_effbceb596fd4f2dad869beb80f81a9f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_4a8e4e266e0940ec87adf1e592091544",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_365562dc7e2747d2854fe25148201736",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d3f2e3c730db4184a8cb20ad5fa1a567",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b1405eb31dd84975b83a1cb344973a3b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_94f85826904a48c7b58665f2abc4e544",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_70078ee766da4407b559743bc338f5af",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_30882cadf4f84626a7e5d0a965b66617",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_20797726518d4e5ea2d8f323bc5be146",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_119c596a93724804af4f79b519060297",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ef3cb00417474d50a3054a28f5028f6c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ffdb76cd962f4fa88232d9ec350a8e39",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e89e77817a3f4e778da254e10f0f4098",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_adc87de1bac34f3f813f646c8c1e8998",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6184f27c87734a76a9923f900d22fab9",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_5f4a95b8f42b4eb7a7419b6d70b1d227",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_1f4c577ddeec47fa9d7733cdccbd368b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1e3bf5f7474a4d63961d4b4f5d031234",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c0883ab7dd3c43f88d44cea62c429b38",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b3466558d0c6481ba428ea3c7846ea25",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6ddf56144c13461eb17b77bc2da5b079",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_e242cd6030194690bb8d4120d8c445c5",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_84cc4c356720410faae8744cd9958cd9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7b3367b5c9a24c58a35906c9d1d34925",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5ca9bd2057f44bb38409a58d6009dc93",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3435fe9c9703453a8119e436dcdda899",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1ff57469266f4bd6806e88b78f4685ff",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_51de6acc42e246549fc0faf4da8fefae",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0b5bc52324f44aa283075923c8ffb4e4",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_add2de0699e54732b3e23db2dcdb2bd1",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0441e9f7734f43168a5abebf24133e7f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_eebec596125d4b349cbcc41371b2411a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e60c9a8bad5b42758a26d4208622b607",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e1bc46d98383492482474a71bdac2120",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6a47ad2623334406867375d5c0fb0ad8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5bfd18f3e23d482a9a129514501fda09",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_35aecc9fe14846cd9f821a561fcf0a02",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1f7f486ba0f5427d9c13f2dbed0597dd",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ca5faada6b00411599a85aa08c697170",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c096957f43ea40b4bfb52349db6f6f87",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_bfbe05887798472aa02302f3f4b00b63",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ad063fe826e24af597dc54dedeec7d07",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_839391822dc54a7e8e30f4d1828a8a52",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5efb2977c4d6447b9b1a0387ee55fb33",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_576abd2e6371481aa94247c37382bb42",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4ab3ad61d3e9413aa7f9331cea80ef01",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1200a9657810464e92934b930f7c1262",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f3d633d7b85440e9aae6909f1064f17f",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e4ce746ce5fa4031a290f60c787f0eab",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_da2fd5a5d5044335b65481b5398cab9e",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b0e117b68ea440d381350cccdedbe195",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_65c0b4508b7647ea89c7b8cce2f59224",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_26c82e012e1249d181fb3c03c3f5b1b8",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f0faf41be1d547388c9fe1667a419d4e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2f88a064aa9141829f944b2c11cf9902",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_982898cbc0a24b38a9086c157651e45a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6ed996b75aec4869bba572d6ff2834e8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6ddff532da38427a8213c24f3df395cf",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f7bfc04f57b645599abcd78f2cd1ff59",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a2a67991c75149358514d2d8d53598ea",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7219b877184544a8b9cceb8f4f08664e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5edbed754ccb405ea6af68b1a345b3ba",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0b1e8904751848bc90fcbb7d22a61264",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a938d5945b8f4ec4a3c170d9e83b801d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_919044769d994ce9a8f7c361b894d083",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4f0f4ec353074b548617824fcf7fc652",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_469b6048a46048c2afe21b5deb4306e0",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0da94f49e6cb48c3a41179c94fb87119",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_06ebb6215c684fbf9446e08ddf1b9de9",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e614b224bc964af8aa4aa8feefd38d6a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7ee90c348ce441ad8098a76188124cbb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e6fb78ce68f04f6097580ceb3e84c5c1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c26e30175b644ef3bf47822f594d14b5",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b27f08f1b3e541f08159a1b0a37cc075",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a1e800fbfa924e27bf11742c1cde879c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6d231a29eee2402ba1d520f98a965408",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_484e2854652c449bb4860573ed603bab",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0c1cfd5ba2ec4db498492760be31d233",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_1a35b14997ec47c88d0c1827decec975",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9314ac58fd264330af5b856ba5056be9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_dcb32a3899dd4b1cbd4bd7cb942f8017",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_92c888ca10fa45dd97316ce16262b027",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7d909f975de44756ab646736fe65e63b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6aeffe82485f4601a2707aec6f7e751e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6abdd88d87c24f0f983371ba0d1e956c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5ae8c545e3dd46f6b11fcab2c741cb81",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0dc2b8d4450649c89d061b88a57b7023",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_dc3ab166129b4cb5b9e9b08b13faf278",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d40eb33567394de1bd06fce967986332",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a07ff7aa0af347f4b46e8e1f28c0d5df",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cf034bc965494103ac8ee0dbec8c7905",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e793805f1672405da44931f3644b9281",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_dd5cf8e236514083baf9714fb70f14bf",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cfc71dce933345b2abd211aa24823241",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c2458dfd96b444dc9e32931b8be19af2",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_574617275d0f42609d0b70eeee69f211",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_42f264076f8145c18ae55fdd7fe3ffea",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_bd72ca1bbb3a495ca23f445357bdaf00",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9aa2aaec1b554307aa857a7aa5c101af",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_953651e794944ec89d716061ed0678a3",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_8a91ff35a65d4a3d93c12409500159b1",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6c7d69ed20dd4a9db2e3dfaef8200ecf",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_66120b2856684f179068ad3e6e43d3b8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_3ab315ba9df04822809f7d484418a0b7",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2b983b6c400b44209379d4f903a2b883",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_94f1716c50984880b9bd7122fd2a064d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5c5fc1054a134b7082af864fa6d9d549",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ae717be1ee964befbe50d27467667e86",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_74d57b54a0124e6d961b211b7fce0e48",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_66c82befc5984e3e99722cce0b3a7a54",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_47ede86ad8234e33acc6b475a9b1438d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_35b5f39d3dc34d8fa837a19ca6cf22fb",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_29fd76efa7864eb0988355a70bebf891",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ec7c874a83854c7aaf52be0470a74625",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b417e97889d64d0f86812b57b82b3cd6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_675e97eb77ae4d7085765e0430063e88",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5ee2cbe14b61492791e66fa46e761eba",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_438e1d93e53e47a0ba965e2874af51c5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_936fd78cc0c048b5b974b6d24f6266f6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_75b7b5bd87cf40c89f6b5703cbf213c6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_9c7cf705c7c847d495d8b6752f899128",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_883b809defcd49488b3223316e458ec5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_651da1eef2e64affbf846f9dc7fa8fc6",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5e785d8869444485b2171142b6c3b447",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c58e60acfbfe4b879f1ae275668d8511",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ba8a048fc6e140f6a51074eed924ce9e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_9b8d148c3f6744ef89609b6139a2a946",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6cae148c45a04fd297b91d84b045a2a9",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_0b41397413f14b1ea5ef92d0ec051de0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a8cf912d08094b618d9d298840bc0fdb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9e9d2bc892c94f4bace98f714d61400f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_9d3a2130cfea49cda3a14a92c6750edb",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_47e187e0a9054fb3bc16919157568a23",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_43a7e976a4fe4a54af7bf19adaecc7cb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fddc1c6ce7234c06ade029720ad2abc7",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_dc296fec4e0f42b6a605af7d09cf28d0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_49acba0d7182483886c8343ddddc9f62",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e62d2d6a5aa04ca68e7ec55fc9837068",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_6aa8f67893a54df0b7a381fd7fe2199c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4876ec90d8c0471abb9a34ffad244263",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ec3a888e4062420bb942d988b74355ec",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d093941243a84aa58fe58204fda2712d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_bef4dda6d5504e4c8c96077413148c2a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a1ac75df91e049bb9bb9c9509f9c701d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_94209eeb290b4f3c9a3cdc6d1438b47b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_91002b8723dc4029bc3867548d67c8a1",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_04877980f42044a8b7eec1e2b666d9f4",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_651ce739eadb4b6388f899e9f36b7bfa",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_621d06997e3341bba0244586be8d5a55",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0c3d39763da847d3880a036adc4e3616",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e0acd1f3edce4cf4a21a8334800f2ad0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d539711e961c47ee8c0972801ec459f5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c3a3f91b00814f269a89c0ceca9ae62a",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0b57752b05e945bfbba8da3bf48acd52",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_17526954172b4f5f8bdfcb050cab2bc5",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e17bf3bf656447959b3611150ecbff03",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5a4e227da07649d29be68d16243646fb",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3b3f10409a63476ca608d205168efb22",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_319cbe92eec54cacb5faa60e03e802ec",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_525ff40e2f45454e8e8df9cc3da5aabc",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f8a7287419f249a0af4dfafcf111d1af",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_752ed1ae3cbd4539938edcd0f64f427e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d06792df3d0342dc9fb2fddb6e8ef401",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8643f5a0bbf9493c979ffa6a9bf37f93",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6c72575428134425b56f5deaa1d1b0e7",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_513f5352be684c1da40ed2fdf9bfac26",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d2f2eb1b52804c2aa61e58dca75888e2",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4a3fe67e2dfd4bd188768b4b2215c72b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_46e5890fa15f42fc9674048032074680",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_eb7bd927baa14cedaef52dc93e5c5299",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2fc620e2c31544c4aacfe957c1e4107e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_03d010c1499b4ccaa151c2c473c1a0a2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f37bb191480145cc843cf9695dc4cd02",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8290d23c3fcc49188493c73068b312af",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_87c46c96314b4348a1b2aac999a594fb",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4aa4126482664e5eaddbf92efd42cd77",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_34c7386508b742019fa3e23dd1e357dc",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_00e34847ae384eeabb47b9cb6d95782d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9d7f5674aa3f43b6baef4cc2861079d2",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_79ef746c798d4f28ab0e03c50554e8c7",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 5
+    },
+    {
+      "id": "art_51e870c3a8344e12bf53525db29d670a",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f0cce8133f0b4a6c950f34176c5d43ac",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b1ff4fdd0bba4bbe82adfbe82f23b941",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_32dc869b201f48bcbdff82921217b2d1",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e476fc8f32ce40e8b9f83c2875bdc1f3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_dbff4c8d360045b287bd5a053679f06d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d7220bc5403c4e3494edecc769564dd0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b76819792e194c3a97e23f97a0590595",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b683bb63cfb54093996063ff272ca657",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b20c34079dbb47708ca7dfabe2ee9fb0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a97e8172d4c8445abe406c9deb34004c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a825835afced49bf8ce7d2e881b4d1b1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9acd9e44b2f54c62af146303aceded3c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_96bbeb24e6c247f5a298c09008b6344b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_9513ea4a0b8b47f89e28ef743d987959",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_850b50fd8a414001bb2660016ba1f9e0",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_78352f8cd8ad46f7b6282acfb75221b1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6edb5cb4140e4756a480dced4f9f5059",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d2a6688869a24d5c8443d90735865340",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7767979c396340139bcc16c3e052417b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f6ee90d1e72e456cb2e1a89717b167f7",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_f3666cd957cb4e26847f5baa75ec441a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d16829bf31f543909c20166334225bce",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c6ef0e20f0ce4f788e15519d60e9f5c7",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9a635250f55f4dd79aa97995cc9e0ab9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7ce53e26085d4219bb05a5315a2598bd",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_66b9418131f9415793443994aead2765",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5504caa90bff4a7dbab3ab9fbc07ad44",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_51fcc902c55d4d3c8ae3906f571750bc",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0b3c45f7433e4c01ae805faa3ebd4988",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f2f189e74b13459fa853919bfb1da667",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a528f76910714b7ca47faf91cd4bc4df",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 5
+    },
+    {
+      "id": "art_0b7b21a03cfe4078993c9341a1e299fa",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0aa408a04fcc4e4db421a0499dac4a87",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_eae9c0b4eb654e28a214eb6bf2b1283b",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6cab8f531bb948d286e4efa486bf5db6",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5b2fd105cd394d7697467ee8aeaf3e67",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5101e80f7877427ab4394a94b92c5024",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_369152d3e5f54b0c911e0a35bcfe9af6",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ba3cae1b19c64045a1336e078d9f640e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_381022d5bbed4f98a6d64e7d3963e795",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bafcc7743f1e4daf9bff9a68cb52dcb0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_8224740e30b34ff892a68e126180aa9f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6648313ea8e54de3981bf00a91f7a94d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_7754ebac794f4f4dbe408697fcfa6f10",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4e569e208afa44a98d8c88d5f126b37b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e599039e40e046cc95f92b966fe5e0b9",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d3a7850da73d4eb789b21e1fb3b126d2",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_74b58980a09d4d76b9f9e756f447e542",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2bd160d93e684f85b4b0e9c56283e9dd",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5bf8beb64e3a4c73bd1964dcaa776562",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cb3f5ff601664b7387a0cf58f8d4c319",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8948f8f7cfb9405e82238684aee3e89c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_eb4388ddfa9f4160853c8b41c542906c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6c1bdf59f5f245d092cbe95aa9d92499",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fe5f50d6d6524263bc54c4f7509d2912",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d47860693e08486d8204aa45aff99138",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ceb751475a6a48a0be0253ef6d97e009",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_aae2e485b3fa4654a9e386d82f8dbbc4",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8faf8fb9aa5848f99c02064d9b8b5ddb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7b09614dd860441bbb88d9a30b41ecec",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5d6b33a909714dc8bced46635a0a3747",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_554958951975425facee14bf8baa1568",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2a387cab79544185ada2e7cb63215b6e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_0f7b4527d5a24a4491d61899e5959197",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_09be4b2267c0468b9b7e89167ad9ea4e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_02a889b6ddc24d6e979d7048f617348a",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_60f64c11905549a6b14a4ee1d2b4bd3e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5f25ab38930441b68551b36166210485",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3a59b3c6699d4c5c8c7313266db13ed0",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2c87ed47924b48638a002ce12f1b6ca3",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_271198f52af347f7adf7ff061c5edc15",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_04e3606073394a289f39b918f24f32d2",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_55e9291d9234400981b1304a01b33fac",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d02423eb5d214cb6961832189faf1be2",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_480c976274e947dd8548aeef4acd1bb2",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_382c45f2cc0d4f50bcbd26e3da1b331e",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2f9e3e3925f64e458bad84d201408748",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0f4224df1bb6496bb682fad0fb03fcd8",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4bef51d7b20d450db799df925d22254c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_105c0eeabe0d4dbcb2bc1c992b05c8b5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e762e6420afb4b00a02b8d2fbc806523",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c1a9f17803ae46d1900dda32f97a1c8f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_63abff22a1584404a6da253d5cd65f95",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bffecc588afa44d3ae03036d16858131",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_57285252c5bc43c9b49e0ae768257705",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_100ef88d6c6f4830b56c5c56803eef3a",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c69b750209764ff1a8a381d9c53acc5d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_256a7fb96b8e448e9672149133e09a8a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9600e01da181456ea4faac0adf152a13",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6fd53323b1e34e5c818fcb6bcc999302",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_666485d06dce45cfa4bbff39eee7c88f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_38a2f4dd7a0443e5af2cf2c1adb8f14b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1925ad09db3e4a208f808e6613fcea0c",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_447dec37490f43c39cb5b053afdc8270",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2549ba9a59f84dbdba61c932fe488927",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f1dba5cd7e034262b248b9776f8b54a1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d83a23cb83e6495abce46681f68f3c26",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bfcf2a1419f548d9b8b76bcca30e5987",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b1a202f9cd5849758ed73bc9b0b64760",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b115e45d536b4c6a97a6a1bcb44a831d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9a6fee5d22f94c43959fb092eb2a7571",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8d2ecce95a0c42009b050da5e5819fdb",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_704fb5f550d14ca3ba5d51302bf104f1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_50d96b4b63d4447f844742a6f6c37188",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4f3d59c2e18d4e24b2cd22f4bb157305",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_4b81734a7f704cfeac9ded8bdd19e8f7",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_25d3ab674d524afc8a2ed02ab9de3e97",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1d0914dc61a041368286abdaece81680",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1351422bbfc841ca943549d6f7a1a187",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_096608b888234277ad332e42e79f8391",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_06182b9045c54f8f9b15033256e75f25",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0ac1e2e564034985a7274ff86ab001e4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_c99717e99e134a65892ebff8d5d475f5",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_827661bf504542b68efc213fbafaa763",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_80b2c06ae446439aa9c2c63b728a13ba",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7397597da832456b8c12187bcc71211f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6e22062b53c94c2fad50b0c8ef655c5e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_423cee6219514cb88eabd5e412ed2509",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b8dd7bbc422f4ebfa5ee68f22124b650",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 4
+    },
+    {
+      "id": "art_31db3f636e884af5bd2b717f32f0684c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0d05812b2c544eb1a8ad0845e99373fe",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7d02ba77d49a48eebe33602e638e59d2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3b58a04181c94e81934a746d9201b4b8",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_220007c3a60344fc966e2775cde4843c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_881a6b1f79e54416acba150550185346",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7a8a79034a6846f0997225d3ddbe7992",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2e42abc6dcbe4f8e8d9e5552e8790a0a",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 5
+    },
+    {
+      "id": "art_5e33a58636b841faab84c788d829c0bf",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_af3dd957dafe4b85b380e6c114d9e7c6",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_59734f79ec744e67b458e8f5a791bb1d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4e16f8cee7754e6db5de6a00598da900",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_27f5572cc92f4fd7a5f66a5f73ff5fbc",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e4340b7ead3b48d2a62cd51fe32eff03",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5aed27100952450ab0b079112347f617",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3d367a8f8bb445029384db13a59ff674",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_04b475f6af0245a2861ba88d2e648c49",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2d6a8dbd7d1a4c50b6d0031e430c014c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2b17fb51b21c4804953dc83875b9d680",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b1d805f38d6b4929939e83c33b5fd836",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_98a56018166d446398a1b69e9b4b216c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_76df551d73f74e7ebb71bc3ea0a2a200",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_385f792dbb27400faf4c02f155af5e8a",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_22134b82cf3f43d4b6c0dc4f98bddd39",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_05b4afa9fe2a426489b95c53a94d725c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e87462257f08461aae25ed52fdbf8b37",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cd97b31ba4294472a9a320c7ba7faede",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_932ff29715494bee8631a61c63441ad6",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_895d77a52b9c4883ab692e0bc75bb467",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4588e89e16af4eb2b04c07a2d3651720",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ed2ac37ae7544758a240d62bb2b30177",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_31daf3f1b6ae4692941051c231f58ed1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6605df1cd3fd4fa790129a21b4c4327f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_fbab86c001644b73b71ce6aab522eccc",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d750e4a54bb74840a5b7f040ba37aaed",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_69f69b515ab54899a1f19875af040335",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_48c4121441d04f44815bc216e5b466cb",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_47bf9b1ccc0c4118a22e7fef7123dc5d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fbdca32863264d71baba012881441db5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_94ace1d0f4d14f56865735baf527c4be",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_da05f8b30b194ca8acb3addb9c81c78b",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8bbba0790bee43bc8bf6b1e1499ba1cb",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_66c81f6d32eb42b7976a1b3ad6ae64aa",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_407855a471054718b01010c77a2d2671",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d1493a86ff92474a97311305186592e6",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c18127fd61dc47fb950afb9c935778e4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_84f5917751c0426da2ffe64a56bfa5e5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5830f4f24473461eb4d66069a1c990bc",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_45eaffbb950e422eb10cd1cffc38de0b",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_32253f1778754044b398f1e3eb9d3081",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_96f16d03edde420594dd02fe59da037a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_6ac97094cb6a44278b66927563d7f51d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8ad66563e8d6439d8d4e8ffa88638816",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4840b706407249ed8ffec542bf30954d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a7fd02bd50b74ce694cd48932f5d3dfb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_93820eeb6d26484abd4b4c20febc7f33",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4c48e8969fc043a9928176dd10584b97",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_f309b7c03c8a4a588c8ef98506edc0fe",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ec12de337d08431fa4f14dc90f4b76d3",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c1f293cc88564b1488034d6d99e12b13",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_91d280e63837406787c08dd98025ed46",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8132fb0f972447b4bc142d07928f31c7",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3bdc31203f974e338e03e056e3136957",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_df4355dd6a2746d7a34aad1378c4fbac",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_45e29929ffad412bac402f61dd872a96",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cf70db266b8b4528b7815233157f479c",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_aff940af25e043ccafd645cb69554679",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_92a38fe15eef42008069b6f66ce8bcf4",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_81ea12cd7f5d40d6a7a189c16afa75bb",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7904c2af4b0d48919b890f00284517a9",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_296547a4bf3f4cbf9177b6b42bcc78c6",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1e3269dba5274e55a0df8628e5ab8040",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fae48402d74247b78e8c7592768d6966",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_edeeac1a353c45ceb37e67e405b61c51",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c25dbe7e7d1e441189d2e46c0a7dcb83",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_a9c7b008228d4865888d0be82d4f68c2",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a7d80a6fbd5941b78ab30cc5e8192fa9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9f241757560f49d883a1a20bdb24f4f0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2b7007925bb447bdb077151ef43d20c4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_003c66c6825e43d78d5692737ec427b3",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_6d6e23d935b843d696e26978c41ca1ba",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_62b797a2776c49039837f697ec76b905",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3af9098ee42344588ebb7b1c8c545e08",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2a1b2bd0598248aeb852fc5ee35da8b3",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_21567484d07b4a338708e07aa5c46c89",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e405f843a68c41308a9e2cea4a1f2818",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_f6ba48cca2254a29a097fcde8c3ceba1",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d6259d98213e4e8f8f2590d84c5ec8a9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_d5edadaadbd2412f863a1b79606fea67",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_92903faff87f47d68434a39e34674306",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4d8836343863438cb956407d7c64d8b6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2c4fda6720bf41bb9cd086c90c737756",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b8a9f37083004d76ad837279da91728f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_72d23d830c124a7a8f13b3d5fc8f6cf8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_67296d70d3454c9ebf8466029c7e261e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_670419b8f0f3480b8b43c46a6364045f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5ae8ef995a2243c692a210b527867ffe",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_4d2fde698a3a42c08bd99b5a7aeabd04",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_319a4a28cd864d428ffebce17ceb7d04",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2e40c27ebc274f14a47f2ca94ff4a069",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_22c8fd74a2904c53be9d8edb5d0fb351",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a849dc0b08344cbb93f969812f9650fb",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4ca36f102fde4ba08d485ba11f740397",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_be42b98381b249e4af0f4ac1677a1a8a",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a59cc1093ec84565b3d37396df2dc243",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_527713ca404046d1870be18603dd02c8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3c9dfb23f1c24a4cb6d238534117cd2b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_36e9e9aaa69f4dcf85b0ed685535b03e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_347e78d3daa44462bed8c0e4c1f51753",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1eed11655c9349e78816791cf3d4e530",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_119d63b12d1b4f9c9a104d0beb1e1a65",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_108dcb96f7684b429135121e37d3ed84",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c26740a94f1e4c73ab1b97b4199e7a9a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7b9eafaf05d749988d7e98309491724f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_76936472aa3e4ff8b743e558d3dd10fb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1ef1465f2fed4e52b0df069e10b70859",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1e1bf0875e514b03beb9a4c8f7edb233",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1d99836fefd745569a3b7a34aaafa303",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_14b3620a918e4740afa07e997f114449",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ec5aef94765b460c979e6758228fb216",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d6acbc8e5bea45b1b69d7be4c8721c35",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d30eff6ce4e64f4891dd29371b576bae",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_aefed1e2e4944fadbf122079453fcc26",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_adb295b1281442b3b89a1606339e4300",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_aa93c77298cd46808de2b050ba70d47b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a5f825944f824c339edeffcd531abc78",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4f5d9cdfd1384a1a81b71d0e0dcc5920",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_13d2cac2b1f44b6b8e578459d44b9e05",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_dc31cf270b2f498a927c579ed737e665",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8c4ab1b618bf41a0927f569ba5b2bed8",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c6822c4455ea4657a27e07ba2ff0ba04",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c3b7175745db4b0cb6edb63875e5de8d",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_82fe719475fe4a7cad9d269fe1edc267",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5dbbc1c3a4c6486fae0bd2dcc8b3cc20",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d2af37fa6eac45a3af15bc2542231b4c",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c76b010b0c974387ae1ac461b01c33fa",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_bf3919ec834a427ebcef48d734ccbc2e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_917b6aaa14a944d19d4330ba91df0b34",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_821e48e64ff440bcbb6d5700595641ad",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_69ce4b7688044c73a2dcde50f2932e68",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_82b4e82f62074a1ea80e986933bd9a0a",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b1523f1468264247971d690901bd557e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_b08b9cd419d349ea89059944e2fbf460",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_73e38d3dc26c42199a7eaa1cfef094c1",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6d303d1f54184f378c4b8d972e9356cc",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_6c58ed75f6f84d648fffbdf265484d7d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fd2eeb92fec04ba59c5454cc1b9f1365",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c2b35733ef6d49c6bf54b02fe20e0beb",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a33b07962fd848d4abda3f4cf8c51846",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a11b890dcab0492ea9a881a11deaca37",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_6a554d872d224d0fb00a21c09e584494",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_611a4debe1cf4594905d90a5855f2b87",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_571e90b721ef431bb37e294afaf29f0f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cbb5fb13f09143269be819a468243fe3",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9c456edb93b44830b66a3df62a88c3b4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_66a79443ee3542bc935e52608ce32e9e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_52d5a88925b2460290548d21d96145ab",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_97b3e49b419b482b9f2a4b48ee51cbad",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5dc14c77823a4908acedb9907baafa74",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_c0360f5dc41140fb8d6a13d66827b0b1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_3d09fdf498414fc486e207ccd5df394b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_c2f43954a5194b3990147a5c5dd354f6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a41957554af440998d8f8cbc0f9573fe",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_404a857d4baa48bf8be46b8bd5d9f047",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_15716f8c2aa548d698727af95c1996a6",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9945c0ac5db048c1b6609b4e396dea4f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_3fa5114973074f78916d5f00a846cb63",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_86589abe166c419aacada9e7200cbf29",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_38deb63c4e3e43cfa07c2938ebf19102",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_00aba1b6511d470bae5d51f6e3999f11",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4079d2d4f8354ec38f3f37a31e343339",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1523e5bef6d74bf3a06587ebc63592ef",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_046ea6d4d9914a809752f70603c413c4",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_fb7eda8e6afd41c6990ed5b19e014978",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fad139110a48404baa7fdf9c0b8fa421",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e75b1fc98ad44c9c9f64597cf5f55cf9",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_da6de7310edf4b749ccbbce52d7a7ace",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ac2411a71f1b4474a92cf5d26d1f095e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_9fbe122219d14a568efec127f41636ef",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9274d64cef4c43a990c533e036fb57c9",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_901565e8d64b4427b96078316f3e011e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_573831902d2145a788f4807553db5042",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_45767092fa654aadb623470f613c8e3b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_44c3574f423441d9b59b74f3e020dda4",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_3d26a0c5c84a40f59fc604aa42170656",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_2cdc95bc16c04114ab3de7d197a47e91",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_79e99ab48d1d49b5a01c28a1e9a78fab",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_45a5d16c140d44ca8dfee58d3738c129",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_bb5bcf9543fb44a08743aa02c1f0e4f3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a1cbbda70773410589427893dbad27d4",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9dd64df69cc047f4a2264e8b22739ec4",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0cef9e56ecbe4fe9bbfcfe238f93c7b8",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cd69f5365c35490099761fa094a0f298",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_af7d5f1172a24f4ba56ec59e76bef32f",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ab64e2847a25431bab65ef2680338b98",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_40a731b06e4744448d87993edcc129cf",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3cdd3b7d08e24653bd0c71d2452ecd05",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_06002d825dc74247b3b9f3c41e24ec75",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_bffc2cadfd5c43c3b3af2a652cb04f4b",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b841d85e2ee347caa7f22b872ee58d24",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_b53cc93e974544839bd4080c0e45a93f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_72284481993e4de196e29656cc099851",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_49f8761971934be084dde36b51417606",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_68ee047f6191463db5dd905b0596b4c4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e90b18e82e624f1f943993030ec67313",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_917ced4f064f401a8125c37fd3af4fe7",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2dfd335cad5042e489029402c6b92735",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7c8e2a4b1a8e467097fa9a67495cc63e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2bc8b6063269474b99c59ec572f22da8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d921c74ee5a24ebc8da4a5f08a8f9874",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5623469b7eb44f4eb50d5df636ffb5d7",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_902c3a7f80724f67bd3bced01e5c6099",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e4618c9de7c94e8daf669d75a2b783c1",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_45abd1fe606f49af85cbd985bb6d66d9",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2bb6c1d3e3154b46ac708720d6f92342",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_0ab49736549f4c7fbc02dea754eeb855",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cedcab7a8676407ab7011bbeeec6b49b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_c6a251dbca504881a1b1b07949926f71",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_65f5850087c7409283a3ddb7bb7a0fc1",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_54f253bd29994513adf9c205a21afd3f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_147d8df21f974308b9a61ee0857ccdf8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8a11953eef364daea082b5514347d897",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_25f7f03959334e80a543197700db5ac3",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_caecacb7d68b4fa28a62baad776c7b84",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_f201ca6d14d840a6aec9e45e24a47d0a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f1e2c6c9aa774509ad23ea1cdeeadedc",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e042e1f233f140ccac707a49c0b2d166",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_cc2a61a2866b45d3a6030e22d1ce96a8",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_88cf6f38e6bc424488279e7ce3f0d2f0",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_585cffbe590644c38ab4611d66e6c5fc",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4536b63b4810498db906e7e34b937c7e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_401de716241143de9be851448acb652e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_328d2791f6c744ee86a57c45ea96b703",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2010f00df00742f6ade8acb6ab7f4315",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0e4c663ec1184d7fb4976bea10e26d29",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_baf9933bc16c4731af9f0f767e115ce6",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2cf1f9da2ad74ecab1a177e9001b6742",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d672ce2dbbc24c7888b6765ea7738fa8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_104efb1b522a4559ae333cc71f5d16c1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ac6e51af822041e9bcd035aed102c5ad",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_891eaed352d44ccf947c413d28eece1c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_85bb966c4f0442ab85d981a3c4aee861",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2c69ef2c369846d18e3e7f3388a24880",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2765267b962d44ccb3c8f0043ba2a382",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 5
+    },
+    {
+      "id": "art_f0d9d767d21c413fbdfa3cb2f3e64976",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_c059ff2e9f534589a99e67f5d9a38602",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b2bcf6640b7240488e30b39afa76c4df",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a094e4d8dcae411687e92de4a3976c03",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7f4f26af8e2b47ccb9f265c61cb74c89",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_6314698839c54a7db31044d836050edd",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_53e6a0358adf4a5eac0e44480bb4b15d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_533b6281b9604b20a319260928ac3872",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_39ed0aa78aee448cbd6eae9018bf7fb6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_7510edb8796d4ddfadbeccbdf0cf7ae2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ccde99ea1dae437298b08ee56b155b1c",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4db3528a8e834e2aae37bd1452cfc0bf",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_07b5ad0249fa40e182e7f796a30b3e6e",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_fb6a424e4c00442c99ea66deb30adaf0",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_afe67189dc744434b1693da4b48d8b10",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_fe48d19cdc954b46ba23df9a0a6af025",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_fe251fe0260c4e149b765ac36d71c1ef",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e82aca85face4d10985ffc1e90335f04",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_db777c1b1289486f9d38ef7d107dd462",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d8ac801fdb0744fc87291619dc21cd53",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c3fd12353c4341ac8a1a268e0813599b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_be10b28084f14a40a55cf4e20ad07a88",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b79054dc7f1a4d22a218ee18be28643c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ae5f046c8d5d4a1bac740c160bf48cc3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_accff2a909704f26a7ac89e2728b2b84",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ac0dcd6e6c1041f3a48d108ae454f1c6",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6ffdfbfd9f5545aba8dc323a5e780520",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2844bb1a5803429791e3f88ab74c0634",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_27565f21c6a04218bb025a6843923415",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_25c6cfaeef2846aebed415afcd6193b3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1301d2c6ae60400caef3fd7559b79341",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c4bf0604ea5e41c19743ed5079ae3c12",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_ecb9fa9a92ce4790bcaa17ef69b83b84",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e0556561138f41529e6d7cb2f07db20e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cc7069f4205b4ddb9755134e2db517b2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_c84f19adb96445dd88d0322368b2fb6e",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_c755ef073d5d46eb93a436cc415b4d9b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_b84dd73051c0477ba47ca13c905b144a",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b0230a610d674411bb91e78148e81d53",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9c2e2f6873d14f84b0ebd2218ee3b078",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_9058ca4d3e814666aaeed4007ed66065",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_85a608a97616404397c07759401555be",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_82fa079479ee481d96d381ed2ca78f97",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_7bae113a23a740ec894b51638d3d2f51",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_71ce51946a7f468687f23c8fea13ae19",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_63562ee1df1a4bc1bd31da0c74f569c2",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_5e4f4e640ead490fb343a5bb8468cac6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_4f7e3a47e7ef481caea5bb3417e1a8ca",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_0b4cfe5ad36245ef9b0a4724077547ff",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_0aa1019862cd443ba142d9f9fd2dd040",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_03caeeda05f544c4ae6ec866cbea82dd",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a77e30ab56ed4b559c95cfd6637e1bae",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_2c32938bc4f24e17b5d512fea1de9c3d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f35cd9df4cf9495384ce05a354ddc92c",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_eb2ff15eec734418bdd6ae44b5ebb4a1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_d77f0524af1e42f8a7e7178785b390a4",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_bdd942963cf947d19753f573b260b353",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_b89902dcd2a84b32a6768e42e91280d1",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_af8b4a56b64a450bb8ab1b11de448e5b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_af49b40387404733a92e11a09e84cf76",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_acba18d577384e75af3f21e83cd12f04",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_8ad4ff678bf7402683ab29e6e3d419fa",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_76ea856704c340258673a0c8c205ea9d",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_52c59e61e13d4348bed42904d952e6e9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_510a691941af4a55b9e71e1b8dadf889",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_3aa9797b27a24e9499286335bbb687ee",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_262f72dcd9244bb2969de9145c17b710",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_262c41c4dfc5439596d88451cfbd0fa7",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1e4776252971487b86be268609871b0b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_15142500ef924389acfa305287b46791",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f6059617bd964268af6424d448536db6",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_ee776aab76a542c991eadbe1e647cb77",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e660ae681d3841a88cd06e3bf0b21d5d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e2517f12f8a04231b041fad6b335477d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d10a23f21da54dabb3e71e3daea202f3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_cd61b8ed41424ab0afa671cc08dc8b94",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_b56768b45ed54dd1a9dc65c8704525e9",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_ab167e02502b470e9a8aa82ec3aab00a",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a4775fb07fbc45959fb3d8a7b283ce94",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_88f2e763520b42c3b73132bbbf2619d0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7bcd841c7f7f4f7bb1258b96b731e6e8",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_78f57d5964fa4078a4fa7ea09581d8d6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_74ad3c5b9a8c4ec6b768968bfddf459b",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5d56ae4fa93a47baad5ba84b4577dfba",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_4804d5042f0c47ac835559c58a8ce5b5",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2c57805fedb54a61953d41f9ada4d1e0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_1f2529a0e1bb4f5ab6851570914efa86",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_06f59b94aa724f61b70062ae92405729",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a472e53ff2a746a79ac77901d1deab1e",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f7eeb1daf63242c2b1796c1719aa52d9",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_4aded6aa47d140fc9c620c770a7d050e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2f7d8d30e63b480dbc7c8f22c28c53be",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_f796740b614f47aea5eaf33a6b4f4bf6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_50dccb5bb6fa456b834c6d684fbdfc6f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2b4e27df431043a38ca4910b2ba0468e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_af69c7469a11443b8106f60fa03ad56b",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_aa2e4522a30c4a88afce856ff7f872a3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_a10e13a971bb438ab7e8fb441f6cfaa8",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_2f5a69db80644663a001dceb88217f8f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2e62ad84a51a45c4a0051ca33a1ee8a5",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_557b8563dac44828bc7a4c3ce7ad5e99",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3a7474027f5f4c0d8b494f192f88d96f",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_1875a9dff8f74ee29390768c5b8cf2c0",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_e17ae1ef9f2b493db46816631fcfd0d5",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_a41d235ba49346099497478f66105060",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_7001a299974b4511ab5688bc3da79198",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_5c408f09931a46549dc8980da0bae0d5",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_523e556b2df24e0ebe344fb5ce81b576",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_4b1323344f1144698104d1dbefea9261",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 2
+    },
+    {
+      "id": "art_0f7a9eeb90b649babcfa134965a97a67",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 4
+    },
+    {
+      "id": "art_0206a63cda484843b7111f1efff707b6",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_804c32dbe824476cad209ab0761b4c0d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_5e559e76c0144c8ab7cfaa2f57159e5d",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_40e4998c2ce34d46b58f9b999c310367",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_21bbb4c33b924228bf9cb85866ed7ad4",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_f8f82936de274e038b76cfe0299cb12d",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_d450d3084acf4795bcee20bc7a315621",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_51782f22e379411a879b58d51ed27ebe",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_efb2c5a68608418dbddac0375ea08ed3",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_babcfc41d6cb4151a761e37d7e6b7256",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8f58a640ac69460ba61e75cce950984e",
+      "capability": "可进行确定性条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_6fbb12fc942f4739890597aca144afa0",
+      "capability": "仅支持检索与原文查阅",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_63e2a1e558284e7994ce01e22315d4ad",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_34a3d0d824ea457d987bffaf40e91498",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_2522e6468e334101abdc52e4cd6ab9d4",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_eb3559b0c7434fbdb769afc171ab51c2",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e24a6b3e46a04b3b9f1ad0cbe09b11d8",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_af6f173e75db42b499220195add9ba86",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8bc81fa3a9d8406ba902982a8640ff43",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_16f996be223b4a669318e23a843a614f",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 1
+    },
+    {
+      "id": "art_e80b1c595f944b9bbc6acaaad32921cc",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_e49bfbb9f91c4ec29df66fa2101ab7d6",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_a9835ffc6847409a94649d09bb031fd4",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 3
+    },
+    {
+      "id": "art_9438c5d40f1a41c399ff4635e973ca03",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_8bb8af5dc58948dc8e1a77e167eed07c",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_54f44911cd98494d81443c003cddcc25",
+      "capability": "可进行部分条件比对",
+      "executable": false,
+      "groups": 0
+    },
+    {
+      "id": "art_52c6ee8091484e3b87e4f58fff5e4518",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_523dcbaf28e1494d81033941aefe8e75",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    },
+    {
+      "id": "art_3fc3bcd35a9f4136abf2d95cb0ae4cbe",
+      "capability": "可进行部分条件比对",
+      "executable": true,
+      "groups": 1
+    }
+  ]
+}

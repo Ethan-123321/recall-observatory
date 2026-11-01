@@ -1,7 +1,7 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm'),crypto=require('node:crypto');
 const q=require('./dist/quality.js'),v=require('./dist/verify.js');
 const source=fs.readFileSync('./dataset/recalls-2023-2025.json'),notices=JSON.parse(source),rows=notices.map(r=>q.audit(r,v)),summary=q.summary(rows);
-assert.equal(rows.length,1308);
+assert.equal(rows.length,require('./dataset/capability-baseline-20261101.json').records.length);assert.ok(notices.every(r=>['一般消费品','汽车'].includes(r.domain)));
 for(const r of rows){
  assert.ok(q.capabilities.includes(r.capability));assert.ok(r.reasons.length);
  for(const f of Object.values(r.fields)){

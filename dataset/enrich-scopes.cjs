@@ -26,8 +26,8 @@ function enrich(r){
  }
  const review=r.scope_review,groups=r.scope_details?.groups;
  const bound=review?.source_sha256===r.sha256&&review?.status==='范围条件AI辅助复核';
- const risky=/冲突|笔误|倒置|缺失|未明确|未逐项|不完整|无法|排除|除外/;
- if(r.domain==='一般消费品'&&bound&&groups?.length&&!risky.test([review.note,r.scope_details.status,...(r.quality_flags||[])].join(' '))){
+ const risky=/型号[:：].*型号[:：]|冲突|笔误|倒置|缺失|未明确|未逐项|不完整|无法|排除|除外/;
+ if(r.domain==='一般消费品'&&bound&&groups?.length&&!risky.test([review.note,r.scope_details.status,...groups.map(g=>g.quantity_raw||''),...(r.quality_flags||[])].join(' '))){
   // Keep each reviewed row intact; do not create any model/date cross product.
   if(groups.every(g=>v.models(g.model)?.length===1&&v.dateSpec(g.source_dates)&&v.batches(g.batch_raw)&&[g.model,g.source_dates,g.batch_raw].every(x=>typeof x==='string'&&review.evidence.includes(x)))){
    r.scope_rules={method,source_sha256:r.sha256,complete:true,groups:groups.map((g,i)=>({...g,group_id:r.id+':normalized'+(i+1),required:{model:true,production:true,batch:true},evidence:[g.model,g.source_dates,g.batch_raw].join('；')})),note:'逐组保留已有复核对应关系；组内三项同时满足，未解除批次条件，也未跨组拼接。'};

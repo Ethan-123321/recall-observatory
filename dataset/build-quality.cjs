@@ -8,6 +8,7 @@ function build(){
  const summary={...q.summary(rows),source_sha256:crypto.createHash('sha256').update(source).digest('hex'),generated_at:new Date().toISOString(),audit_status:'基于既有证据的自动预审，待审计与歧义项尚未完成全量原文复核'};
  const write=(name,data)=>fs.writeFileSync(path.join(__dirname,name),JSON.stringify(data,null,2)+'\n');
  write('capability-ledger.json',rows);write('audit-summary.json',summary);
+ require('./build-scope-backlog.cjs').build(notices);
  fs.writeFileSync(path.join(__dirname,'capability-ledger.csv'),q.csv(rows));
  const issues=rows.flatMap(r=>Object.entries(r.fields).filter(([,f])=>!['可直接使用','不适用'].includes(f.status)).map(([field,f])=>({id:r.id,field,status:f.status,reason:f.reason,source_url:r.source_url})));
  write('audit-issues.json',issues);

@@ -94,14 +94,19 @@ contact_spec=importlib.util.spec_from_file_location('contact_evidence',ROOT/'com
 contact_module=importlib.util.module_from_spec(contact_spec);contact_spec.loader.exec_module(contact_module)
 rows=contact_module.apply(rows)
 rows=json.loads(subprocess.run(['node',str(ROOT/'enrich-scopes.cjs')],input=json.dumps(rows,ensure_ascii=False),text=True,encoding='utf-8',capture_output=True,check=True).stdout)
+subprocess.run([sys.executable,'-X','utf8',str(ROOT/'inventory-scope-sources.py'),'--stdin'],input=json.dumps(rows,ensure_ascii=False),text=True,encoding='utf-8',capture_output=True,check=True)
+rows=json.loads(subprocess.run(['node',str(ROOT/'resolve-source-scopes.cjs')],input=json.dumps(rows,ensure_ascii=False),text=True,encoding='utf-8',capture_output=True,check=True).stdout)
+rows=json.loads(subprocess.run(['node',str(ROOT/'resolve-reviewed-scopes.cjs')],input=json.dumps(rows,ensure_ascii=False),text=True,encoding='utf-8',capture_output=True,check=True).stdout)
 unique=[];seen={};duplicates=[]
 for r in rows:
  signature=tuple(re.sub(r'\s+','',r.get(k) or '') for k in ['published_date','title','model_raw','defect_raw'])
  if signature in seen:duplicates.append({'id':r['id'],'duplicate_of':seen[signature]['id']});continue
  seen[signature]=r;unique.append(r)
 unique.sort(key=lambda r:(r['published_date'],r['id']),reverse=True)
+unique=json.loads(subprocess.run(['node',str(ROOT/'build-scope-backlog.cjs')],input=json.dumps(unique,ensure_ascii=False),text=True,encoding='utf-8',capture_output=True,check=True).stdout)
 report=dict(generated_date='2026-10-25',count=len(unique),by_domain=dict(collections.Counter(r['domain'] for r in unique)),by_year=dict(collections.Counter(r['year'] for r in unique)),by_status=dict(collections.Counter(r['review_status'] for r in unique)),excluded_count=len(excluded),duplicates=duplicates,coverage=['一般消费品与汽车：官方栏目2023—2025目录遍历，正文无法可靠解析的公告另列排除清单','统计单位为去重公告，不是全国召回事件；不同领域的数量不能用于安全排名'])
 report.update(review_pipeline.quality(unique))
+report['generated_date']='2026-11-01'
 dump('recalls-2023-2025.json',unique);dump('quality-multidomain.json',report);dump('excluded-multidomain.json',excluded)
 (ROOT.parent/'dist'/'dataset-multidomain.js').write_text('const recallDataset = '+json.dumps(unique,ensure_ascii=False)+';\nconst recallCoverage = '+json.dumps(report,ensure_ascii=False)+';\n',encoding='utf-8')
 with (ROOT/'recalls-2023-2025.csv').open('w',encoding='utf-8-sig',newline='') as f:

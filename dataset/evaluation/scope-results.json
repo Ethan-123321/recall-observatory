@@ -1,18 +1,18 @@
 {
-  "suite_version": "scope-eval-20261024",
-  "rule_version": "scope-v4",
-  "fixture_sha256": "3999c0d8e7541d3fdc37d797f7cd57e43c096914fbd35c0ab9479138fbb8c002",
-  "data_sha256": "a4cd6cb0d3aa92cfec3108a2875a8d24829b7d2208d5ea44ad75ebc0c7ec5eec",
+  "suite_version": "scope-eval-20261101",
+  "rule_version": "scope-v5",
+  "fixture_sha256": "89f057b1d6be828dd1f5f9eecae1f340a9e1893cf74f4a25a12d4efb20b6ec5b",
+  "data_sha256": "7a2a7038638bf82798fd17ac09dd5d1b1c15b927ee9d85dbdfa23ac15068031c",
   "count": 120,
   "accuracy": 1,
-  "deterministic_coverage": 0.6666666666666666,
+  "deterministic_coverage": 0.6,
   "deterministic_accuracy": 1,
   "false_matches": 0,
   "false_exclusions": 0,
   "overconfident": 0,
   "matrix": {
     "matched": {
-      "matched": 44,
+      "matched": 36,
       "outside": 0,
       "pending": 0
     },
@@ -24,13 +24,13 @@
     "pending": {
       "matched": 0,
       "outside": 0,
-      "pending": 40
+      "pending": 48
     }
   },
   "pending_reasons": {
     "missing_batch": 8,
     "date_precision": 4,
-    "unsupported_batch": 4,
+    "unsupported_batch": 16,
     "conflict": 4,
     "unresolved_scope": 4,
     "exclusion_unknown": 4,
@@ -1943,20 +1943,14 @@
         "production": "2025-07-05",
         "batch": ""
       },
-      "expected": "matched",
-      "actual": "matched",
+      "expected": "pending",
+      "actual": "pending",
       "correct": true,
-      "basis": {
-        "model": "521",
-        "dates": "2025.07.05~2025.07.06",
-        "scope": "按型号与生产日期界定",
-        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
-        "sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b"
-      },
-      "reason_codes": [],
-      "decisive_groups": [
-        "art_5e795330577848978072b67d4186f5d1:g1"
-      ]
+      "basis": "[object Object]；2026-11-01证据门槛修订：未见公告明确免除批号，保留待确认。",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": []
     },
     {
       "case_id": "source-art_5e795330577848978072b67d4186f5d1-2",
@@ -1970,20 +1964,14 @@
         "production": "2025-07-06",
         "batch": ""
       },
-      "expected": "matched",
-      "actual": "matched",
+      "expected": "pending",
+      "actual": "pending",
       "correct": true,
-      "basis": {
-        "model": "521",
-        "dates": "2025.07.05~2025.07.06",
-        "scope": "按型号与生产日期界定",
-        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html",
-        "sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b"
-      },
-      "reason_codes": [],
-      "decisive_groups": [
-        "art_5e795330577848978072b67d4186f5d1:g1"
-      ]
+      "basis": "[object Object]；2026-11-01证据门槛修订：未见公告明确免除批号，保留待确认。",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": []
     },
     {
       "case_id": "source-art_5e795330577848978072b67d4186f5d1-3",
@@ -2062,7 +2050,8 @@
         "sha256": "386de425cefa1c7273b21f215f7a8fcd47d78b9c6271e778b732573727ea079b"
       },
       "reason_codes": [
-        "missing_production"
+        "missing_production",
+        "unsupported_batch"
       ],
       "decisive_groups": []
     },
@@ -2078,20 +2067,14 @@
         "production": "2025-03-10",
         "batch": ""
       },
-      "expected": "matched",
-      "actual": "matched",
+      "expected": "pending",
+      "actual": "pending",
       "correct": true,
-      "basis": {
-        "model": "6802-2",
-        "dates": "2025.3.10-2025.3.15",
-        "scope": "按型号与生产日期界定",
-        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
-        "sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3"
-      },
-      "reason_codes": [],
-      "decisive_groups": [
-        "art_5450c51d412f40de99454171d33ec52e:g1"
-      ]
+      "basis": "[object Object]；2026-11-01证据门槛修订：未见公告明确免除批号，保留待确认。",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": []
     },
     {
       "case_id": "source-art_5450c51d412f40de99454171d33ec52e-2",
@@ -2105,20 +2088,14 @@
         "production": "2025-03-15",
         "batch": ""
       },
-      "expected": "matched",
-      "actual": "matched",
+      "expected": "pending",
+      "actual": "pending",
       "correct": true,
-      "basis": {
-        "model": "6802-2",
-        "dates": "2025.3.10-2025.3.15",
-        "scope": "按型号与生产日期界定",
-        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html",
-        "sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3"
-      },
-      "reason_codes": [],
-      "decisive_groups": [
-        "art_5450c51d412f40de99454171d33ec52e:g1"
-      ]
+      "basis": "[object Object]；2026-11-01证据门槛修订：未见公告明确免除批号，保留待确认。",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": []
     },
     {
       "case_id": "source-art_5450c51d412f40de99454171d33ec52e-3",
@@ -2197,7 +2174,8 @@
         "sha256": "22ed108e79ffba9f7e68a318f24ea9e09172204c806cf5cedf5c2047046305a3"
       },
       "reason_codes": [
-        "missing_production"
+        "missing_production",
+        "unsupported_batch"
       ],
       "decisive_groups": []
     },
@@ -2213,20 +2191,14 @@
         "production": "2025-03-01",
         "batch": ""
       },
-      "expected": "matched",
-      "actual": "matched",
+      "expected": "pending",
+      "actual": "pending",
       "correct": true,
-      "basis": {
-        "model": "8115",
-        "dates": "2025年3月1日至2025年3月31日",
-        "scope": "按型号与生产日期界定",
-        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
-        "sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759"
-      },
-      "reason_codes": [],
-      "decisive_groups": [
-        "art_43f5622f2f98456e9dcf31570bcde379:g1"
-      ]
+      "basis": "[object Object]；2026-11-01证据门槛修订：未见公告明确免除批号，保留待确认。",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": []
     },
     {
       "case_id": "source-art_43f5622f2f98456e9dcf31570bcde379-2",
@@ -2240,20 +2212,14 @@
         "production": "2025-03-31",
         "batch": ""
       },
-      "expected": "matched",
-      "actual": "matched",
+      "expected": "pending",
+      "actual": "pending",
       "correct": true,
-      "basis": {
-        "model": "8115",
-        "dates": "2025年3月1日至2025年3月31日",
-        "scope": "按型号与生产日期界定",
-        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html",
-        "sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759"
-      },
-      "reason_codes": [],
-      "decisive_groups": [
-        "art_43f5622f2f98456e9dcf31570bcde379:g1"
-      ]
+      "basis": "[object Object]；2026-11-01证据门槛修订：未见公告明确免除批号，保留待确认。",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": []
     },
     {
       "case_id": "source-art_43f5622f2f98456e9dcf31570bcde379-3",
@@ -2332,7 +2298,8 @@
         "sha256": "2edadd2884f168fc535d89734e0bdae179897c8943a08d9fd495f33a49c14759"
       },
       "reason_codes": [
-        "missing_production"
+        "missing_production",
+        "unsupported_batch"
       ],
       "decisive_groups": []
     },
@@ -2348,20 +2315,14 @@
         "production": "2024-07-01",
         "batch": ""
       },
-      "expected": "matched",
-      "actual": "matched",
+      "expected": "pending",
+      "actual": "pending",
       "correct": true,
-      "basis": {
-        "model": "PT-60-3",
-        "dates": "2024-07-01 ～2024-08-31",
-        "scope": "按型号与生产日期界定",
-        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
-        "sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7"
-      },
-      "reason_codes": [],
-      "decisive_groups": [
-        "art_d9e6ce8de77e40f3a39c38589304ba40:g1"
-      ]
+      "basis": "[object Object]；2026-11-01证据门槛修订：未见公告明确免除批号，保留待确认。",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": []
     },
     {
       "case_id": "source-art_d9e6ce8de77e40f3a39c38589304ba40-2",
@@ -2375,20 +2336,14 @@
         "production": "2024-08-31",
         "batch": ""
       },
-      "expected": "matched",
-      "actual": "matched",
+      "expected": "pending",
+      "actual": "pending",
       "correct": true,
-      "basis": {
-        "model": "PT-60-3",
-        "dates": "2024-07-01 ～2024-08-31",
-        "scope": "按型号与生产日期界定",
-        "url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html",
-        "sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7"
-      },
-      "reason_codes": [],
-      "decisive_groups": [
-        "art_d9e6ce8de77e40f3a39c38589304ba40:g1"
-      ]
+      "basis": "[object Object]；2026-11-01证据门槛修订：未见公告明确免除批号，保留待确认。",
+      "reason_codes": [
+        "unsupported_batch"
+      ],
+      "decisive_groups": []
     },
     {
       "case_id": "source-art_d9e6ce8de77e40f3a39c38589304ba40-3",
@@ -2467,7 +2422,8 @@
         "sha256": "4d09b67f1a2b5fcb18bbe8c34d9281fa3a8acf739db37b3a2580f0a9e05450b7"
       },
       "reason_codes": [
-        "missing_production"
+        "missing_production",
+        "unsupported_batch"
       ],
       "decisive_groups": []
     },

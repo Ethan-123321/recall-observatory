@@ -15,20 +15,6 @@
   },
   {
     "id": "art_f1e340542d8d4a689fe00e2e4f1563da",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f1e340542d8d4a689fe00e2e4f1563da.html"
-  },
-  {
-    "id": "art_f1e340542d8d4a689fe00e2e4f1563da",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f1e340542d8d4a689fe00e2e4f1563da.html"
-  },
-  {
-    "id": "art_f1e340542d8d4a689fe00e2e4f1563da",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -379,13 +365,6 @@
   },
   {
     "id": "art_69b85ae6ac6a42cb86cba29d2a9f3361",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_69b85ae6ac6a42cb86cba29d2a9f3361.html"
-  },
-  {
-    "id": "art_69b85ae6ac6a42cb86cba29d2a9f3361",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -407,6 +386,13 @@
   },
   {
     "id": "art_5e795330577848978072b67d4186f5d1",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5e795330577848978072b67d4186f5d1.html"
+  },
+  {
+    "id": "art_5e795330577848978072b67d4186f5d1",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -428,6 +414,13 @@
   },
   {
     "id": "art_5450c51d412f40de99454171d33ec52e",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5450c51d412f40de99454171d33ec52e.html"
+  },
+  {
+    "id": "art_5450c51d412f40de99454171d33ec52e",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -540,6 +533,13 @@
   },
   {
     "id": "art_43f5622f2f98456e9dcf31570bcde379",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_43f5622f2f98456e9dcf31570bcde379.html"
+  },
+  {
+    "id": "art_43f5622f2f98456e9dcf31570bcde379",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -610,6 +610,13 @@
   },
   {
     "id": "art_ddba783a815a4315adf5b1f4e04176e2",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ddba783a815a4315adf5b1f4e04176e2.html"
+  },
+  {
+    "id": "art_ddba783a815a4315adf5b1f4e04176e2",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -638,6 +645,13 @@
   },
   {
     "id": "art_b4b492dc8515430482e28af48d5b5607",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b4b492dc8515430482e28af48d5b5607.html"
+  },
+  {
+    "id": "art_b4b492dc8515430482e28af48d5b5607",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -701,13 +715,6 @@
   },
   {
     "id": "art_46b2d63b721b477991c42b2ff69d8dc0",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_46b2d63b721b477991c42b2ff69d8dc0.html"
-  },
-  {
-    "id": "art_46b2d63b721b477991c42b2ff69d8dc0",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -834,13 +841,6 @@
   },
   {
     "id": "art_794b1de9efdc47d7af2dc6ab7a92c138",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_794b1de9efdc47d7af2dc6ab7a92c138.html"
-  },
-  {
-    "id": "art_794b1de9efdc47d7af2dc6ab7a92c138",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -884,20 +884,6 @@
   {
     "id": "art_3a78811f0e6240a5bc02f8ad03f545af",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_3a78811f0e6240a5bc02f8ad03f545af.html"
-  },
-  {
-    "id": "art_3a78811f0e6240a5bc02f8ad03f545af",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_3a78811f0e6240a5bc02f8ad03f545af.html"
-  },
-  {
-    "id": "art_3a78811f0e6240a5bc02f8ad03f545af",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_3a78811f0e6240a5bc02f8ad03f545af.html"
@@ -1086,13 +1072,6 @@
   },
   {
     "id": "art_916e90cea1e747ac9bf70dcbea272ca3",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_916e90cea1e747ac9bf70dcbea272ca3.html"
-  },
-  {
-    "id": "art_916e90cea1e747ac9bf70dcbea272ca3",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -1121,6 +1100,13 @@
   },
   {
     "id": "art_e4963346b0ad4eb283c648d1a8ba4be0",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_e4963346b0ad4eb283c648d1a8ba4be0.html"
+  },
+  {
+    "id": "art_e4963346b0ad4eb283c648d1a8ba4be0",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -1142,6 +1128,13 @@
   },
   {
     "id": "art_9673da476ec04eddb43de0e337e963d7",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_9673da476ec04eddb43de0e337e963d7.html"
+  },
+  {
+    "id": "art_9673da476ec04eddb43de0e337e963d7",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -1170,6 +1163,13 @@
   },
   {
     "id": "art_a3c2d297d92f46ceaa427049470ae11f",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a3c2d297d92f46ceaa427049470ae11f.html"
+  },
+  {
+    "id": "art_a3c2d297d92f46ceaa427049470ae11f",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -1226,6 +1226,13 @@
   },
   {
     "id": "art_32227f42492a48b1a22a56dbb7eded75",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_32227f42492a48b1a22a56dbb7eded75.html"
+  },
+  {
+    "id": "art_32227f42492a48b1a22a56dbb7eded75",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -1275,13 +1282,6 @@
   },
   {
     "id": "art_ce3c7b533fe945d79a20182ccdb3fad1",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ce3c7b533fe945d79a20182ccdb3fad1.html"
-  },
-  {
-    "id": "art_ce3c7b533fe945d79a20182ccdb3fad1",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -1331,13 +1331,6 @@
   },
   {
     "id": "art_44a911c5ba7d494da23788fbf6a42773",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_44a911c5ba7d494da23788fbf6a42773.html"
-  },
-  {
-    "id": "art_44a911c5ba7d494da23788fbf6a42773",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -1360,13 +1353,6 @@
   {
     "id": "art_2c4b9d68905c4ff2b7e1f251f9b67a3b",
     "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_2c4b9d68905c4ff2b7e1f251f9b67a3b.html"
-  },
-  {
-    "id": "art_2c4b9d68905c4ff2b7e1f251f9b67a3b",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_2c4b9d68905c4ff2b7e1f251f9b67a3b.html"
@@ -1537,6 +1523,13 @@
     "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_75cad3e4399d46e7bd00d185ed0d927e.html"
+  },
+  {
+    "id": "art_75cad3e4399d46e7bd00d185ed0d927e",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_75cad3e4399d46e7bd00d185ed0d927e.html"
   },
   {
@@ -1556,13 +1549,6 @@
   {
     "id": "art_72baf6b7392e410b89347de9afc8ef4c",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_72baf6b7392e410b89347de9afc8ef4c.html"
-  },
-  {
-    "id": "art_72baf6b7392e410b89347de9afc8ef4c",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_72baf6b7392e410b89347de9afc8ef4c.html"
@@ -1586,6 +1572,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5476d225197f4ecc8f0d7a56889d1c07.html"
+  },
+  {
+    "id": "art_5476d225197f4ecc8f0d7a56889d1c07",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5476d225197f4ecc8f0d7a56889d1c07.html"
   },
   {
@@ -1605,13 +1598,6 @@
   {
     "id": "art_b1e4e679498e4d1c843850b7856747e3",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b1e4e679498e4d1c843850b7856747e3.html"
-  },
-  {
-    "id": "art_b1e4e679498e4d1c843850b7856747e3",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b1e4e679498e4d1c843850b7856747e3.html"
@@ -2003,13 +1989,6 @@
   },
   {
     "id": "art_db681c14700845f8b2e65fad213ec80f",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_db681c14700845f8b2e65fad213ec80f.html"
-  },
-  {
-    "id": "art_db681c14700845f8b2e65fad213ec80f",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2143,13 +2122,6 @@
   },
   {
     "id": "art_9050f290f08e4f2486b580354565d941",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_9050f290f08e4f2486b580354565d941.html"
-  },
-  {
-    "id": "art_9050f290f08e4f2486b580354565d941",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2199,6 +2171,13 @@
   },
   {
     "id": "art_f7f78f56d7374211ab0b3b6c4196fb5c",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f7f78f56d7374211ab0b3b6c4196fb5c.html"
+  },
+  {
+    "id": "art_f7f78f56d7374211ab0b3b6c4196fb5c",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2241,13 +2220,6 @@
   },
   {
     "id": "art_633c64b971274a2f9bacdf2fd4274c22",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_633c64b971274a2f9bacdf2fd4274c22.html"
-  },
-  {
-    "id": "art_633c64b971274a2f9bacdf2fd4274c22",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2276,6 +2248,13 @@
   },
   {
     "id": "art_51c5050197734dae9db6e9c209993c34",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_51c5050197734dae9db6e9c209993c34.html"
+  },
+  {
+    "id": "art_51c5050197734dae9db6e9c209993c34",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2318,6 +2297,13 @@
   },
   {
     "id": "art_d9e6ce8de77e40f3a39c38589304ba40",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9e6ce8de77e40f3a39c38589304ba40.html"
+  },
+  {
+    "id": "art_d9e6ce8de77e40f3a39c38589304ba40",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2409,6 +2395,13 @@
   },
   {
     "id": "art_3fb1d49c89104acd8431154e3976e5a4",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_3fb1d49c89104acd8431154e3976e5a4.html"
+  },
+  {
+    "id": "art_3fb1d49c89104acd8431154e3976e5a4",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2500,6 +2493,13 @@
   },
   {
     "id": "art_e8c0e491d86045e0b8213f66e9b389dc",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_e8c0e491d86045e0b8213f66e9b389dc.html"
+  },
+  {
+    "id": "art_e8c0e491d86045e0b8213f66e9b389dc",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2521,20 +2521,6 @@
   },
   {
     "id": "art_877dd9efc32043e3a5de6f90eaf0c93c",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_877dd9efc32043e3a5de6f90eaf0c93c.html"
-  },
-  {
-    "id": "art_877dd9efc32043e3a5de6f90eaf0c93c",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_877dd9efc32043e3a5de6f90eaf0c93c.html"
-  },
-  {
-    "id": "art_877dd9efc32043e3a5de6f90eaf0c93c",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2584,13 +2570,6 @@
   },
   {
     "id": "art_d9fe7c4d66174172ae53bed471043fb9",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d9fe7c4d66174172ae53bed471043fb9.html"
-  },
-  {
-    "id": "art_d9fe7c4d66174172ae53bed471043fb9",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2615,6 +2594,13 @@
     "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c578e238fd524027b5e5544ab2382f33.html"
+  },
+  {
+    "id": "art_c578e238fd524027b5e5544ab2382f33",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c578e238fd524027b5e5544ab2382f33.html"
   },
   {
@@ -2692,6 +2678,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_703b9f70b086480bbf4a9a43dbcbe7ad.html"
+  },
+  {
+    "id": "art_703b9f70b086480bbf4a9a43dbcbe7ad",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_703b9f70b086480bbf4a9a43dbcbe7ad.html"
   },
   {
@@ -2808,20 +2801,6 @@
   },
   {
     "id": "art_79ec3a57bbad4352b7caf3157f64a67e",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_79ec3a57bbad4352b7caf3157f64a67e.html"
-  },
-  {
-    "id": "art_79ec3a57bbad4352b7caf3157f64a67e",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_79ec3a57bbad4352b7caf3157f64a67e.html"
-  },
-  {
-    "id": "art_79ec3a57bbad4352b7caf3157f64a67e",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -2860,6 +2839,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_59ac978187274921b9d81bf28bae5851.html"
+  },
+  {
+    "id": "art_59ac978187274921b9d81bf28bae5851",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_59ac978187274921b9d81bf28bae5851.html"
   },
   {
@@ -2888,6 +2874,13 @@
     "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_155a7b37645e4a9ba6748b50743d151d.html"
+  },
+  {
+    "id": "art_155a7b37645e4a9ba6748b50743d151d",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_155a7b37645e4a9ba6748b50743d151d.html"
   },
   {
@@ -3116,13 +3109,6 @@
   },
   {
     "id": "art_4058ffc96d0f45debfbdf57d75c4dab2",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_4058ffc96d0f45debfbdf57d75c4dab2.html"
-  },
-  {
-    "id": "art_4058ffc96d0f45debfbdf57d75c4dab2",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -3284,65 +3270,58 @@
   },
   {
     "id": "art_93e283bf1916402790385730dc79463a",
-    "field": "model_raw",
+    "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_93e283bf1916402790385730dc79463a.html"
   },
   {
-    "id": "art_93e283bf1916402790385730dc79463a",
+    "id": "art_52f9eeb638f84c0880c16692f932ba3e",
+    "field": "producer",
+    "status": "原文有信息，尚未整理",
+    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_52f9eeb638f84c0880c16692f932ba3e.html"
+  },
+  {
+    "id": "art_52f9eeb638f84c0880c16692f932ba3e",
+    "field": "brand",
+    "status": "原文有信息，尚未整理",
+    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_52f9eeb638f84c0880c16692f932ba3e.html"
+  },
+  {
+    "id": "art_52f9eeb638f84c0880c16692f932ba3e",
+    "field": "remedy_raw",
+    "status": "原文有信息，尚未整理",
+    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_52f9eeb638f84c0880c16692f932ba3e.html"
+  },
+  {
+    "id": "art_cfd6004aacf54f36ba657df7153b18fb",
+    "field": "producer",
+    "status": "原文有信息，尚未整理",
+    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_cfd6004aacf54f36ba657df7153b18fb.html"
+  },
+  {
+    "id": "art_cfd6004aacf54f36ba657df7153b18fb",
+    "field": "brand",
+    "status": "原文有信息，尚未整理",
+    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_cfd6004aacf54f36ba657df7153b18fb.html"
+  },
+  {
+    "id": "art_cfd6004aacf54f36ba657df7153b18fb",
+    "field": "model_raw",
+    "status": "原文有信息，尚未整理",
+    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_cfd6004aacf54f36ba657df7153b18fb.html"
+  },
+  {
+    "id": "art_cfd6004aacf54f36ba657df7153b18fb",
     "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_93e283bf1916402790385730dc79463a.html"
-  },
-  {
-    "id": "art_93e283bf1916402790385730dc79463a",
-    "field": "remedy_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_93e283bf1916402790385730dc79463a.html"
-  },
-  {
-    "id": "art_52f9eeb638f84c0880c16692f932ba3e",
-    "field": "producer",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_52f9eeb638f84c0880c16692f932ba3e.html"
-  },
-  {
-    "id": "art_52f9eeb638f84c0880c16692f932ba3e",
-    "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_52f9eeb638f84c0880c16692f932ba3e.html"
-  },
-  {
-    "id": "art_52f9eeb638f84c0880c16692f932ba3e",
-    "field": "remedy_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_52f9eeb638f84c0880c16692f932ba3e.html"
-  },
-  {
-    "id": "art_cfd6004aacf54f36ba657df7153b18fb",
-    "field": "producer",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_cfd6004aacf54f36ba657df7153b18fb.html"
-  },
-  {
-    "id": "art_cfd6004aacf54f36ba657df7153b18fb",
-    "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_cfd6004aacf54f36ba657df7153b18fb.html"
-  },
-  {
-    "id": "art_cfd6004aacf54f36ba657df7153b18fb",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_cfd6004aacf54f36ba657df7153b18fb.html"
   },
   {
@@ -3406,6 +3385,13 @@
     "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_408a3cc7b39849bfaf6a7409f6605e4f.html"
+  },
+  {
+    "id": "art_408a3cc7b39849bfaf6a7409f6605e4f",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_408a3cc7b39849bfaf6a7409f6605e4f.html"
   },
   {
@@ -3586,20 +3572,6 @@
   {
     "id": "art_f2c86089b2f14aa7b6ac1a72d673e506",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f2c86089b2f14aa7b6ac1a72d673e506.html"
-  },
-  {
-    "id": "art_f2c86089b2f14aa7b6ac1a72d673e506",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f2c86089b2f14aa7b6ac1a72d673e506.html"
-  },
-  {
-    "id": "art_f2c86089b2f14aa7b6ac1a72d673e506",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f2c86089b2f14aa7b6ac1a72d673e506.html"
@@ -3649,13 +3621,6 @@
   {
     "id": "art_620b5d3a3282408c91fb1aca94f4e5dd",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_620b5d3a3282408c91fb1aca94f4e5dd.html"
-  },
-  {
-    "id": "art_620b5d3a3282408c91fb1aca94f4e5dd",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_620b5d3a3282408c91fb1aca94f4e5dd.html"
@@ -3677,13 +3642,6 @@
   {
     "id": "art_0568ffff1d564c469fcddd432676027c",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0568ffff1d564c469fcddd432676027c.html"
-  },
-  {
-    "id": "art_0568ffff1d564c469fcddd432676027c",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0568ffff1d564c469fcddd432676027c.html"
@@ -4005,13 +3963,6 @@
   },
   {
     "id": "art_757c7ba465d449ab82d69330245c2dbe",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_757c7ba465d449ab82d69330245c2dbe.html"
-  },
-  {
-    "id": "art_757c7ba465d449ab82d69330245c2dbe",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -4033,20 +3984,6 @@
   },
   {
     "id": "art_b879be86b3db4d66b5082e5c1b944fdc",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b879be86b3db4d66b5082e5c1b944fdc.html"
-  },
-  {
-    "id": "art_b879be86b3db4d66b5082e5c1b944fdc",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b879be86b3db4d66b5082e5c1b944fdc.html"
-  },
-  {
-    "id": "art_b879be86b3db4d66b5082e5c1b944fdc",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -4062,20 +3999,6 @@
   {
     "id": "art_a9ade9a90f664f3092d80fb94bb1bd90",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a9ade9a90f664f3092d80fb94bb1bd90.html"
-  },
-  {
-    "id": "art_a9ade9a90f664f3092d80fb94bb1bd90",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a9ade9a90f664f3092d80fb94bb1bd90.html"
-  },
-  {
-    "id": "art_a9ade9a90f664f3092d80fb94bb1bd90",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a9ade9a90f664f3092d80fb94bb1bd90.html"
@@ -4204,6 +4127,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_6fd30f585b1b4345a68bbec3b9869020.html"
+  },
+  {
+    "id": "art_6fd30f585b1b4345a68bbec3b9869020",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_6fd30f585b1b4345a68bbec3b9869020.html"
   },
   {
@@ -4265,13 +4195,6 @@
   {
     "id": "art_21a03a6278fd45168e80863147e538c8",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_21a03a6278fd45168e80863147e538c8.html"
-  },
-  {
-    "id": "art_21a03a6278fd45168e80863147e538c8",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_21a03a6278fd45168e80863147e538c8.html"
@@ -4363,13 +4286,6 @@
   {
     "id": "art_b822413b621e48c9a2f5a205a02e0cdd",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b822413b621e48c9a2f5a205a02e0cdd.html"
-  },
-  {
-    "id": "art_b822413b621e48c9a2f5a205a02e0cdd",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b822413b621e48c9a2f5a205a02e0cdd.html"
@@ -4463,6 +4379,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_7911b53cafc24d02bf20105b4fd2e83b.html"
+  },
+  {
+    "id": "art_7911b53cafc24d02bf20105b4fd2e83b",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_7911b53cafc24d02bf20105b4fd2e83b.html"
   },
   {
@@ -4671,13 +4594,6 @@
   {
     "id": "art_73dde698d6444032b23fcb984d27368e",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_73dde698d6444032b23fcb984d27368e.html"
-  },
-  {
-    "id": "art_73dde698d6444032b23fcb984d27368e",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_73dde698d6444032b23fcb984d27368e.html"
@@ -4813,6 +4729,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d51a8f183106469ba1cafb0ba43ec47f.html"
+  },
+  {
+    "id": "art_d51a8f183106469ba1cafb0ba43ec47f",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d51a8f183106469ba1cafb0ba43ec47f.html"
   },
   {
@@ -5450,6 +5373,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_6496b62412d8409ebb0ffd0a7a626a1c.html"
+  },
+  {
+    "id": "art_6496b62412d8409ebb0ffd0a7a626a1c",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_6496b62412d8409ebb0ffd0a7a626a1c.html"
   },
   {
@@ -5518,13 +5448,6 @@
   {
     "id": "art_29cf7f41f1f4434f955ada4b66867997",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_29cf7f41f1f4434f955ada4b66867997.html"
-  },
-  {
-    "id": "art_29cf7f41f1f4434f955ada4b66867997",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_29cf7f41f1f4434f955ada4b66867997.html"
@@ -6273,6 +6196,13 @@
   },
   {
     "id": "art_97c1f7df674846278e537111c2306c0e",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_97c1f7df674846278e537111c2306c0e.html"
+  },
+  {
+    "id": "art_97c1f7df674846278e537111c2306c0e",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -6294,13 +6224,6 @@
   },
   {
     "id": "art_eeb40f40b11044639ecd4cd703674e0f",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_eeb40f40b11044639ecd4cd703674e0f.html"
-  },
-  {
-    "id": "art_eeb40f40b11044639ecd4cd703674e0f",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -6868,6 +6791,13 @@
   },
   {
     "id": "art_b2ec6d3653d24a6bb646ab1ce9e5d4de",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b2ec6d3653d24a6bb646ab1ce9e5d4de.html"
+  },
+  {
+    "id": "art_b2ec6d3653d24a6bb646ab1ce9e5d4de",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -6889,6 +6819,13 @@
   },
   {
     "id": "art_aa2be67c021e473d94fa31e6aa87adcd",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_aa2be67c021e473d94fa31e6aa87adcd.html"
+  },
+  {
+    "id": "art_aa2be67c021e473d94fa31e6aa87adcd",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -6931,20 +6868,6 @@
   },
   {
     "id": "art_22aea8bb65e349f7bfaecbff6151dd04",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_22aea8bb65e349f7bfaecbff6151dd04.html"
-  },
-  {
-    "id": "art_22aea8bb65e349f7bfaecbff6151dd04",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_22aea8bb65e349f7bfaecbff6151dd04.html"
-  },
-  {
-    "id": "art_22aea8bb65e349f7bfaecbff6151dd04",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -6962,6 +6885,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_17c9a699902e49cb801c71036095268a.html"
+  },
+  {
+    "id": "art_17c9a699902e49cb801c71036095268a",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_17c9a699902e49cb801c71036095268a.html"
   },
   {
@@ -7379,6 +7309,13 @@
   },
   {
     "id": "art_163944edb8bd4410b6beedbcfb95e81b",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_163944edb8bd4410b6beedbcfb95e81b.html"
+  },
+  {
+    "id": "art_163944edb8bd4410b6beedbcfb95e81b",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7435,13 +7372,6 @@
   },
   {
     "id": "art_42b680d8edf94c82afdce4c50fba280f",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_42b680d8edf94c82afdce4c50fba280f.html"
-  },
-  {
-    "id": "art_42b680d8edf94c82afdce4c50fba280f",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7463,6 +7393,13 @@
   },
   {
     "id": "art_2c27e419e46a4d43a2ba40be34733059",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_2c27e419e46a4d43a2ba40be34733059.html"
+  },
+  {
+    "id": "art_2c27e419e46a4d43a2ba40be34733059",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7561,6 +7498,13 @@
   },
   {
     "id": "art_c72752b5edb1408dbf3bbbf4708ce93f",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c72752b5edb1408dbf3bbbf4708ce93f.html"
+  },
+  {
+    "id": "art_c72752b5edb1408dbf3bbbf4708ce93f",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7582,6 +7526,13 @@
   },
   {
     "id": "art_0db7a93aba184bc1b1e2a21f46908158",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0db7a93aba184bc1b1e2a21f46908158.html"
+  },
+  {
+    "id": "art_0db7a93aba184bc1b1e2a21f46908158",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7603,6 +7554,13 @@
   },
   {
     "id": "art_fff8c1ca21ee48c8845cf96b78deb2c1",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_fff8c1ca21ee48c8845cf96b78deb2c1.html"
+  },
+  {
+    "id": "art_fff8c1ca21ee48c8845cf96b78deb2c1",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7666,6 +7624,13 @@
   },
   {
     "id": "art_d4c4d6570d8b47cc9d3450f24960e582",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d4c4d6570d8b47cc9d3450f24960e582.html"
+  },
+  {
+    "id": "art_d4c4d6570d8b47cc9d3450f24960e582",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7687,13 +7652,6 @@
   },
   {
     "id": "art_3025953e222749b09ab150244b3cb550",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_3025953e222749b09ab150244b3cb550.html"
-  },
-  {
-    "id": "art_3025953e222749b09ab150244b3cb550",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7715,6 +7673,13 @@
   },
   {
     "id": "art_13d492c64ab743eca6bddd3d5d62b4dd",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_13d492c64ab743eca6bddd3d5d62b4dd.html"
+  },
+  {
+    "id": "art_13d492c64ab743eca6bddd3d5d62b4dd",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7736,13 +7701,6 @@
   },
   {
     "id": "art_02a6ffa9f9a148cab2d984b367d4a61e",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_02a6ffa9f9a148cab2d984b367d4a61e.html"
-  },
-  {
-    "id": "art_02a6ffa9f9a148cab2d984b367d4a61e",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7764,13 +7722,6 @@
   },
   {
     "id": "art_4f44003dc4434b5b968cf02f5da7d890",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_4f44003dc4434b5b968cf02f5da7d890.html"
-  },
-  {
-    "id": "art_4f44003dc4434b5b968cf02f5da7d890",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7799,13 +7750,6 @@
   },
   {
     "id": "art_17685bea48574775a65c60cf716a976b",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_17685bea48574775a65c60cf716a976b.html"
-  },
-  {
-    "id": "art_17685bea48574775a65c60cf716a976b",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7876,13 +7820,6 @@
   },
   {
     "id": "art_d878563321a14d2fb0753c5117754626",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d878563321a14d2fb0753c5117754626.html"
-  },
-  {
-    "id": "art_d878563321a14d2fb0753c5117754626",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7904,13 +7841,6 @@
   },
   {
     "id": "art_bc3f432306ea4d2a81c5da03ac788524",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_bc3f432306ea4d2a81c5da03ac788524.html"
-  },
-  {
-    "id": "art_bc3f432306ea4d2a81c5da03ac788524",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -7981,13 +7911,6 @@
   },
   {
     "id": "art_990e82de92074401ae974210daa9678e",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_990e82de92074401ae974210daa9678e.html"
-  },
-  {
-    "id": "art_990e82de92074401ae974210daa9678e",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -8009,13 +7932,6 @@
   },
   {
     "id": "art_61bdf5a9581144f88e5439ee9d1af54b",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_61bdf5a9581144f88e5439ee9d1af54b.html"
-  },
-  {
-    "id": "art_61bdf5a9581144f88e5439ee9d1af54b",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -8037,13 +7953,6 @@
   },
   {
     "id": "art_5ca03f488a4c4dabb07d1372abb08d0c",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5ca03f488a4c4dabb07d1372abb08d0c.html"
-  },
-  {
-    "id": "art_5ca03f488a4c4dabb07d1372abb08d0c",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -8562,13 +8471,6 @@
   },
   {
     "id": "art_f3235565addd401585b101ce4ea50e56",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f3235565addd401585b101ce4ea50e56.html"
-  },
-  {
-    "id": "art_f3235565addd401585b101ce4ea50e56",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -8751,13 +8653,6 @@
   },
   {
     "id": "art_bacffdf6cd3f4171b4b95ec51e3743c1",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_bacffdf6cd3f4171b4b95ec51e3743c1.html"
-  },
-  {
-    "id": "art_bacffdf6cd3f4171b4b95ec51e3743c1",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9094,6 +8989,13 @@
   },
   {
     "id": "art_7cd9ef8f7dac44c1959cb5407e43e85d",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_7cd9ef8f7dac44c1959cb5407e43e85d.html"
+  },
+  {
+    "id": "art_7cd9ef8f7dac44c1959cb5407e43e85d",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9115,13 +9017,6 @@
   },
   {
     "id": "art_5678d430b6b34b359643892a1186c21b",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_5678d430b6b34b359643892a1186c21b.html"
-  },
-  {
-    "id": "art_5678d430b6b34b359643892a1186c21b",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9248,13 +9143,6 @@
   },
   {
     "id": "art_d77aa4eafff74fdf8f640d05ce926251",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d77aa4eafff74fdf8f640d05ce926251.html"
-  },
-  {
-    "id": "art_d77aa4eafff74fdf8f640d05ce926251",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9388,13 +9276,6 @@
   },
   {
     "id": "art_e0ead44ab4924fba9fa8904c0afa5d4e",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_e0ead44ab4924fba9fa8904c0afa5d4e.html"
-  },
-  {
-    "id": "art_e0ead44ab4924fba9fa8904c0afa5d4e",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9458,13 +9339,6 @@
   },
   {
     "id": "art_099230c78c5542bf9333da58cc40fd1a",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_099230c78c5542bf9333da58cc40fd1a.html"
-  },
-  {
-    "id": "art_099230c78c5542bf9333da58cc40fd1a",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9696,20 +9570,6 @@
   },
   {
     "id": "art_80a861e0886b42adb90f7092176c6504",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_80a861e0886b42adb90f7092176c6504.html"
-  },
-  {
-    "id": "art_80a861e0886b42adb90f7092176c6504",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_80a861e0886b42adb90f7092176c6504.html"
-  },
-  {
-    "id": "art_80a861e0886b42adb90f7092176c6504",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9801,13 +9661,6 @@
   },
   {
     "id": "art_2865d80558904a4eae10dee306f023ff",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_2865d80558904a4eae10dee306f023ff.html"
-  },
-  {
-    "id": "art_2865d80558904a4eae10dee306f023ff",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9823,6 +9676,13 @@
   {
     "id": "art_c7eff381925842a6b9ae25349dc9c1b0",
     "field": "brand",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c7eff381925842a6b9ae25349dc9c1b0.html"
+  },
+  {
+    "id": "art_c7eff381925842a6b9ae25349dc9c1b0",
+    "field": "batch_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c7eff381925842a6b9ae25349dc9c1b0.html"
@@ -9886,20 +9746,6 @@
   {
     "id": "art_f90d5b4be7fe41b8a961582ea4dc1ec7",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f90d5b4be7fe41b8a961582ea4dc1ec7.html"
-  },
-  {
-    "id": "art_f90d5b4be7fe41b8a961582ea4dc1ec7",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f90d5b4be7fe41b8a961582ea4dc1ec7.html"
-  },
-  {
-    "id": "art_f90d5b4be7fe41b8a961582ea4dc1ec7",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_f90d5b4be7fe41b8a961582ea4dc1ec7.html"
@@ -9934,13 +9780,6 @@
   },
   {
     "id": "art_e035571cdfc944cb95a79fbf1d612ba5",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_e035571cdfc944cb95a79fbf1d612ba5.html"
-  },
-  {
-    "id": "art_e035571cdfc944cb95a79fbf1d612ba5",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -9983,13 +9822,6 @@
   },
   {
     "id": "art_09abf7d7f18648c5889f9d0242fa0326",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_09abf7d7f18648c5889f9d0242fa0326.html"
-  },
-  {
-    "id": "art_09abf7d7f18648c5889f9d0242fa0326",
     "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -10012,13 +9844,6 @@
   {
     "id": "art_00743a717842437dbf19cafde2ab9321",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_00743a717842437dbf19cafde2ab9321.html"
-  },
-  {
-    "id": "art_00743a717842437dbf19cafde2ab9321",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_00743a717842437dbf19cafde2ab9321.html"
@@ -10077,6 +9902,13 @@
     "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_16e28401427a45848813c5e3112fcd4c.html"
+  },
+  {
+    "id": "art_16e28401427a45848813c5e3112fcd4c",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_16e28401427a45848813c5e3112fcd4c.html"
   },
   {
@@ -10236,20 +10068,6 @@
   {
     "id": "art_7a1b9ae022034ca0b6d87e7e67334cac",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_7a1b9ae022034ca0b6d87e7e67334cac.html"
-  },
-  {
-    "id": "art_7a1b9ae022034ca0b6d87e7e67334cac",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_7a1b9ae022034ca0b6d87e7e67334cac.html"
-  },
-  {
-    "id": "art_7a1b9ae022034ca0b6d87e7e67334cac",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_7a1b9ae022034ca0b6d87e7e67334cac.html"
@@ -10537,13 +10355,6 @@
   {
     "id": "art_dca9469a09a2460e8eb098339ad5531b",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_dca9469a09a2460e8eb098339ad5531b.html"
-  },
-  {
-    "id": "art_dca9469a09a2460e8eb098339ad5531b",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_dca9469a09a2460e8eb098339ad5531b.html"
@@ -11173,13 +10984,6 @@
   },
   {
     "id": "art_e69f98b6ad6948aabfe89a62edcdb82d",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_e69f98b6ad6948aabfe89a62edcdb82d.html"
-  },
-  {
-    "id": "art_e69f98b6ad6948aabfe89a62edcdb82d",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -11418,6 +11222,13 @@
   },
   {
     "id": "art_9b855807b0cd44e39517ea02e6dfe09b",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_9b855807b0cd44e39517ea02e6dfe09b.html"
+  },
+  {
+    "id": "art_9b855807b0cd44e39517ea02e6dfe09b",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -11439,13 +11250,6 @@
   },
   {
     "id": "art_8417865bb6a645c2b2e265b2cdd438e8",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8417865bb6a645c2b2e265b2cdd438e8.html"
-  },
-  {
-    "id": "art_8417865bb6a645c2b2e265b2cdd438e8",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -11509,13 +11313,6 @@
   },
   {
     "id": "art_13289cd521974129a984cbf70b47d5f0",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_13289cd521974129a984cbf70b47d5f0.html"
-  },
-  {
-    "id": "art_13289cd521974129a984cbf70b47d5f0",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -11537,13 +11334,6 @@
   },
   {
     "id": "art_ce1dfdce05674e248eedbc24335e971c",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ce1dfdce05674e248eedbc24335e971c.html"
-  },
-  {
-    "id": "art_ce1dfdce05674e248eedbc24335e971c",
     "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -11761,13 +11551,6 @@
   },
   {
     "id": "art_8304077901af42b3a5811bc5efa15f50",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8304077901af42b3a5811bc5efa15f50.html"
-  },
-  {
-    "id": "art_8304077901af42b3a5811bc5efa15f50",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -11789,13 +11572,6 @@
   },
   {
     "id": "art_4f9fe791790f4c3eba1a30300805864a",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_4f9fe791790f4c3eba1a30300805864a.html"
-  },
-  {
-    "id": "art_4f9fe791790f4c3eba1a30300805864a",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -12020,13 +11796,6 @@
   },
   {
     "id": "art_a7fc1d97107f41a983e1a3c3dfd3f998",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a7fc1d97107f41a983e1a3c3dfd3f998.html"
-  },
-  {
-    "id": "art_a7fc1d97107f41a983e1a3c3dfd3f998",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -12188,13 +11957,6 @@
   },
   {
     "id": "art_77e0aa7f13b141a58d657f546f2bdb76",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_77e0aa7f13b141a58d657f546f2bdb76.html"
-  },
-  {
-    "id": "art_77e0aa7f13b141a58d657f546f2bdb76",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -12531,20 +12293,6 @@
   },
   {
     "id": "art_a058f0be782a45918f3920488dc9dbf6",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a058f0be782a45918f3920488dc9dbf6.html"
-  },
-  {
-    "id": "art_a058f0be782a45918f3920488dc9dbf6",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a058f0be782a45918f3920488dc9dbf6.html"
-  },
-  {
-    "id": "art_a058f0be782a45918f3920488dc9dbf6",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -12587,20 +12335,6 @@
   },
   {
     "id": "art_ee299df13cba4ca8a40546975eabdd60",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ee299df13cba4ca8a40546975eabdd60.html"
-  },
-  {
-    "id": "art_ee299df13cba4ca8a40546975eabdd60",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ee299df13cba4ca8a40546975eabdd60.html"
-  },
-  {
-    "id": "art_ee299df13cba4ca8a40546975eabdd60",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -12622,13 +12356,6 @@
   },
   {
     "id": "art_c8ed6b8a69e8463a8e06b605b24555f7",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c8ed6b8a69e8463a8e06b605b24555f7.html"
-  },
-  {
-    "id": "art_c8ed6b8a69e8463a8e06b605b24555f7",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -12644,20 +12371,6 @@
   {
     "id": "art_c63657bda02d4a44861e83dbaed27d4d",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c63657bda02d4a44861e83dbaed27d4d.html"
-  },
-  {
-    "id": "art_c63657bda02d4a44861e83dbaed27d4d",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c63657bda02d4a44861e83dbaed27d4d.html"
-  },
-  {
-    "id": "art_c63657bda02d4a44861e83dbaed27d4d",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_c63657bda02d4a44861e83dbaed27d4d.html"
@@ -12679,13 +12392,6 @@
   {
     "id": "art_9d44b3ba2bf0453e9ccf73224127d803",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_9d44b3ba2bf0453e9ccf73224127d803.html"
-  },
-  {
-    "id": "art_9d44b3ba2bf0453e9ccf73224127d803",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_9d44b3ba2bf0453e9ccf73224127d803.html"
@@ -12707,13 +12413,6 @@
   {
     "id": "art_8ac032f965414075a0544c53de645eaa",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8ac032f965414075a0544c53de645eaa.html"
-  },
-  {
-    "id": "art_8ac032f965414075a0544c53de645eaa",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8ac032f965414075a0544c53de645eaa.html"
@@ -12735,13 +12434,6 @@
   {
     "id": "art_7d3b83f691674f14b9e9e101868624e4",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_7d3b83f691674f14b9e9e101868624e4.html"
-  },
-  {
-    "id": "art_7d3b83f691674f14b9e9e101868624e4",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_7d3b83f691674f14b9e9e101868624e4.html"
@@ -12839,20 +12531,6 @@
   },
   {
     "id": "art_6d67644453624ba6829b2bf8199e974b",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_6d67644453624ba6829b2bf8199e974b.html"
-  },
-  {
-    "id": "art_6d67644453624ba6829b2bf8199e974b",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_6d67644453624ba6829b2bf8199e974b.html"
-  },
-  {
-    "id": "art_6d67644453624ba6829b2bf8199e974b",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -12868,20 +12546,6 @@
   {
     "id": "art_55790527fdfd402b8504ec9b3e9e262c",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_55790527fdfd402b8504ec9b3e9e262c.html"
-  },
-  {
-    "id": "art_55790527fdfd402b8504ec9b3e9e262c",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_55790527fdfd402b8504ec9b3e9e262c.html"
-  },
-  {
-    "id": "art_55790527fdfd402b8504ec9b3e9e262c",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_55790527fdfd402b8504ec9b3e9e262c.html"
@@ -12916,6 +12580,13 @@
   },
   {
     "id": "art_39ba21885504482c898b8b4d71f4f9d5",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_39ba21885504482c898b8b4d71f4f9d5.html"
+  },
+  {
+    "id": "art_39ba21885504482c898b8b4d71f4f9d5",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -12931,13 +12602,6 @@
   {
     "id": "art_26b10e4babf64e6d8b163154a355fa54",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_26b10e4babf64e6d8b163154a355fa54.html"
-  },
-  {
-    "id": "art_26b10e4babf64e6d8b163154a355fa54",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_26b10e4babf64e6d8b163154a355fa54.html"
@@ -12989,13 +12653,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0ddc78c0db7f4f54b16693d13f5f146d.html"
-  },
-  {
-    "id": "art_0ddc78c0db7f4f54b16693d13f5f146d",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0ddc78c0db7f4f54b16693d13f5f146d.html"
   },
   {
@@ -13063,13 +12720,6 @@
   },
   {
     "id": "art_d8a72bd53cca477bafeeba78fe78b115",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d8a72bd53cca477bafeeba78fe78b115.html"
-  },
-  {
-    "id": "art_d8a72bd53cca477bafeeba78fe78b115",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -13085,20 +12735,6 @@
   {
     "id": "art_d07676c238a944e19cab67006589febd",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d07676c238a944e19cab67006589febd.html"
-  },
-  {
-    "id": "art_d07676c238a944e19cab67006589febd",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d07676c238a944e19cab67006589febd.html"
-  },
-  {
-    "id": "art_d07676c238a944e19cab67006589febd",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_d07676c238a944e19cab67006589febd.html"
@@ -13143,6 +12779,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_9ed0582926a345688ce449efb786ea8d.html"
+  },
+  {
+    "id": "art_9ed0582926a345688ce449efb786ea8d",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_9ed0582926a345688ce449efb786ea8d.html"
   },
   {
@@ -13171,6 +12814,13 @@
     "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_826d67b412494706b0ed2a4bcdae775c.html"
+  },
+  {
+    "id": "art_826d67b412494706b0ed2a4bcdae775c",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_826d67b412494706b0ed2a4bcdae775c.html"
   },
   {
@@ -13192,13 +12842,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_167f87a21ec34a3ab1dcab2cc17ff4c5.html"
-  },
-  {
-    "id": "art_167f87a21ec34a3ab1dcab2cc17ff4c5",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_167f87a21ec34a3ab1dcab2cc17ff4c5.html"
   },
   {
@@ -13267,13 +12910,6 @@
   {
     "id": "art_e442de28326143928649ddd9ee6e7ba5",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_e442de28326143928649ddd9ee6e7ba5.html"
-  },
-  {
-    "id": "art_e442de28326143928649ddd9ee6e7ba5",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_e442de28326143928649ddd9ee6e7ba5.html"
@@ -13295,13 +12931,6 @@
   {
     "id": "art_ccf5a141c0644e72bd03c4164b4fa5cf",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ccf5a141c0644e72bd03c4164b4fa5cf.html"
-  },
-  {
-    "id": "art_ccf5a141c0644e72bd03c4164b4fa5cf",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ccf5a141c0644e72bd03c4164b4fa5cf.html"
@@ -13351,13 +12980,6 @@
   {
     "id": "art_8cdf749420fa4602a617b4e27e3f1709",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8cdf749420fa4602a617b4e27e3f1709.html"
-  },
-  {
-    "id": "art_8cdf749420fa4602a617b4e27e3f1709",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8cdf749420fa4602a617b4e27e3f1709.html"
@@ -13462,13 +13084,6 @@
   },
   {
     "id": "art_60f88f04eb044739b2ef3b9b419f3116",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_60f88f04eb044739b2ef3b9b419f3116.html"
-  },
-  {
-    "id": "art_60f88f04eb044739b2ef3b9b419f3116",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -13567,13 +13182,6 @@
   },
   {
     "id": "art_4d5564c29bde4d15b76589646a887d64",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_4d5564c29bde4d15b76589646a887d64.html"
-  },
-  {
-    "id": "art_4d5564c29bde4d15b76589646a887d64",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -13875,20 +13483,6 @@
   },
   {
     "id": "art_02883cb9cbd24ccd9b5f370fd8112164",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_02883cb9cbd24ccd9b5f370fd8112164.html"
-  },
-  {
-    "id": "art_02883cb9cbd24ccd9b5f370fd8112164",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_02883cb9cbd24ccd9b5f370fd8112164.html"
-  },
-  {
-    "id": "art_02883cb9cbd24ccd9b5f370fd8112164",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -13904,13 +13498,6 @@
   {
     "id": "art_0222839b21194be5bfa947845a944b5d",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0222839b21194be5bfa947845a944b5d.html"
-  },
-  {
-    "id": "art_0222839b21194be5bfa947845a944b5d",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0222839b21194be5bfa947845a944b5d.html"
@@ -14008,20 +13595,6 @@
   },
   {
     "id": "art_136a86630c19437eaf7d8815a07c4d49",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_136a86630c19437eaf7d8815a07c4d49.html"
-  },
-  {
-    "id": "art_136a86630c19437eaf7d8815a07c4d49",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_136a86630c19437eaf7d8815a07c4d49.html"
-  },
-  {
-    "id": "art_136a86630c19437eaf7d8815a07c4d49",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -14043,13 +13616,6 @@
   },
   {
     "id": "art_b28131c7a4d0474595c32bf5641a7a50",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b28131c7a4d0474595c32bf5641a7a50.html"
-  },
-  {
-    "id": "art_b28131c7a4d0474595c32bf5641a7a50",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -14071,13 +13637,6 @@
   },
   {
     "id": "art_0825b269ca974dd69b224578a6cd1eb0",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0825b269ca974dd69b224578a6cd1eb0.html"
-  },
-  {
-    "id": "art_0825b269ca974dd69b224578a6cd1eb0",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -14093,13 +13652,6 @@
   {
     "id": "art_2049c2d0d06c4bd9b25481a767e2e25c",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_2049c2d0d06c4bd9b25481a767e2e25c.html"
-  },
-  {
-    "id": "art_2049c2d0d06c4bd9b25481a767e2e25c",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_2049c2d0d06c4bd9b25481a767e2e25c.html"
@@ -14183,13 +13735,6 @@
   },
   {
     "id": "art_dd798617d2744456b6e221783743c673",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_dd798617d2744456b6e221783743c673.html"
-  },
-  {
-    "id": "art_dd798617d2744456b6e221783743c673",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -14211,13 +13756,6 @@
   },
   {
     "id": "art_daf04dcef6aa4281b2711b83ad774625",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_daf04dcef6aa4281b2711b83ad774625.html"
-  },
-  {
-    "id": "art_daf04dcef6aa4281b2711b83ad774625",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -14233,20 +13771,6 @@
   {
     "id": "art_a7317608af1543db8805142c58dabff9",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a7317608af1543db8805142c58dabff9.html"
-  },
-  {
-    "id": "art_a7317608af1543db8805142c58dabff9",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a7317608af1543db8805142c58dabff9.html"
-  },
-  {
-    "id": "art_a7317608af1543db8805142c58dabff9",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a7317608af1543db8805142c58dabff9.html"
@@ -14351,13 +13875,6 @@
   },
   {
     "id": "art_68a17548d926438c910b0125ebedb2fc",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_68a17548d926438c910b0125ebedb2fc.html"
-  },
-  {
-    "id": "art_68a17548d926438c910b0125ebedb2fc",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -14450,20 +13967,6 @@
   {
     "id": "art_189e336c683545f39365b84e42a61491",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_189e336c683545f39365b84e42a61491.html"
-  },
-  {
-    "id": "art_189e336c683545f39365b84e42a61491",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_189e336c683545f39365b84e42a61491.html"
-  },
-  {
-    "id": "art_189e336c683545f39365b84e42a61491",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_189e336c683545f39365b84e42a61491.html"
@@ -14487,13 +13990,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_12f9b47a289948fb9fc2ee611c5dc018.html"
-  },
-  {
-    "id": "art_12f9b47a289948fb9fc2ee611c5dc018",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_12f9b47a289948fb9fc2ee611c5dc018.html"
   },
   {
@@ -14513,6 +14009,13 @@
   {
     "id": "art_4f9a123907fe40ff80f995f264616d43",
     "field": "brand",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_4f9a123907fe40ff80f995f264616d43.html"
+  },
+  {
+    "id": "art_4f9a123907fe40ff80f995f264616d43",
+    "field": "batch_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_4f9a123907fe40ff80f995f264616d43.html"
@@ -14625,13 +14128,6 @@
   {
     "id": "art_31845594fb0247779444f1096a088fbb",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31845594fb0247779444f1096a088fbb.html"
-  },
-  {
-    "id": "art_31845594fb0247779444f1096a088fbb",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_31845594fb0247779444f1096a088fbb.html"
@@ -15030,13 +14526,6 @@
   },
   {
     "id": "art_db35f5471205459bb9fb9cdbe1930f17",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_db35f5471205459bb9fb9cdbe1930f17.html"
-  },
-  {
-    "id": "art_db35f5471205459bb9fb9cdbe1930f17",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -15058,13 +14547,6 @@
   },
   {
     "id": "art_b88ca345fb1b42ee950b0b0d2b4ed854",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b88ca345fb1b42ee950b0b0d2b4ed854.html"
-  },
-  {
-    "id": "art_b88ca345fb1b42ee950b0b0d2b4ed854",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -15086,13 +14568,6 @@
   },
   {
     "id": "art_b6561bfb374d48c286fc48278ec59e61",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b6561bfb374d48c286fc48278ec59e61.html"
-  },
-  {
-    "id": "art_b6561bfb374d48c286fc48278ec59e61",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -15108,20 +14583,6 @@
   {
     "id": "art_a537cd22c3e549d8ba8c0c91191cf7dd",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a537cd22c3e549d8ba8c0c91191cf7dd.html"
-  },
-  {
-    "id": "art_a537cd22c3e549d8ba8c0c91191cf7dd",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a537cd22c3e549d8ba8c0c91191cf7dd.html"
-  },
-  {
-    "id": "art_a537cd22c3e549d8ba8c0c91191cf7dd",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_a537cd22c3e549d8ba8c0c91191cf7dd.html"
@@ -15219,20 +14680,6 @@
   },
   {
     "id": "art_63004083fe1e4cc1ab8917776a8b2539",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_63004083fe1e4cc1ab8917776a8b2539.html"
-  },
-  {
-    "id": "art_63004083fe1e4cc1ab8917776a8b2539",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_63004083fe1e4cc1ab8917776a8b2539.html"
-  },
-  {
-    "id": "art_63004083fe1e4cc1ab8917776a8b2539",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -15254,13 +14701,6 @@
   },
   {
     "id": "art_0e245ce481e64533890c27240ae94d45",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_0e245ce481e64533890c27240ae94d45.html"
-  },
-  {
-    "id": "art_0e245ce481e64533890c27240ae94d45",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -15276,20 +14716,6 @@
   {
     "id": "art_ed177816a19c417eaaf8f284590ae5b9",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ed177816a19c417eaaf8f284590ae5b9.html"
-  },
-  {
-    "id": "art_ed177816a19c417eaaf8f284590ae5b9",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ed177816a19c417eaaf8f284590ae5b9.html"
-  },
-  {
-    "id": "art_ed177816a19c417eaaf8f284590ae5b9",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_ed177816a19c417eaaf8f284590ae5b9.html"
@@ -15346,20 +14772,6 @@
   {
     "id": "art_bc9060f886744c4d9a1ea65909d760d2",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_bc9060f886744c4d9a1ea65909d760d2.html"
-  },
-  {
-    "id": "art_bc9060f886744c4d9a1ea65909d760d2",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_bc9060f886744c4d9a1ea65909d760d2.html"
-  },
-  {
-    "id": "art_bc9060f886744c4d9a1ea65909d760d2",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_bc9060f886744c4d9a1ea65909d760d2.html"
@@ -15422,13 +14834,6 @@
   },
   {
     "id": "art_bb4a491592a545fbbd26112c86430106",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_bb4a491592a545fbbd26112c86430106.html"
-  },
-  {
-    "id": "art_bb4a491592a545fbbd26112c86430106",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -15444,20 +14849,6 @@
   {
     "id": "art_b0b4db2558bb4e5c9c09354e12dd4bdf",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b0b4db2558bb4e5c9c09354e12dd4bdf.html"
-  },
-  {
-    "id": "art_b0b4db2558bb4e5c9c09354e12dd4bdf",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b0b4db2558bb4e5c9c09354e12dd4bdf.html"
-  },
-  {
-    "id": "art_b0b4db2558bb4e5c9c09354e12dd4bdf",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b0b4db2558bb4e5c9c09354e12dd4bdf.html"
@@ -15479,13 +14870,6 @@
   {
     "id": "art_8ffc91ddafbb43f3a6e5261a4ca07d73",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8ffc91ddafbb43f3a6e5261a4ca07d73.html"
-  },
-  {
-    "id": "art_8ffc91ddafbb43f3a6e5261a4ca07d73",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8ffc91ddafbb43f3a6e5261a4ca07d73.html"
@@ -15507,13 +14891,6 @@
   {
     "id": "art_56a95aa9e86a4af699d1dfabcdcd5ab9",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_56a95aa9e86a4af699d1dfabcdcd5ab9.html"
-  },
-  {
-    "id": "art_56a95aa9e86a4af699d1dfabcdcd5ab9",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_56a95aa9e86a4af699d1dfabcdcd5ab9.html"
@@ -15535,13 +14912,6 @@
   {
     "id": "art_530f3c9035ef4c5fa9a80f352543a2a9",
     "field": "brand",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_530f3c9035ef4c5fa9a80f352543a2a9.html"
-  },
-  {
-    "id": "art_530f3c9035ef4c5fa9a80f352543a2a9",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_530f3c9035ef4c5fa9a80f352543a2a9.html"
@@ -15894,6 +15264,13 @@
     "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_402d25c7ddb54d24970aa6e73e271519.html"
+  },
+  {
+    "id": "art_402d25c7ddb54d24970aa6e73e271519",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_402d25c7ddb54d24970aa6e73e271519.html"
   },
   {
@@ -16083,6 +15460,13 @@
     "field": "brand",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8e81a62830374cc0ae83d6dcfd2527a8.html"
+  },
+  {
+    "id": "art_8e81a62830374cc0ae83d6dcfd2527a8",
+    "field": "batch_raw",
+    "status": "待审计",
+    "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_8e81a62830374cc0ae83d6dcfd2527a8.html"
   },
   {
@@ -16990,13 +16374,6 @@
   },
   {
     "id": "art_b34301a58b41434a91bd1a5fb8634789",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b34301a58b41434a91bd1a5fb8634789.html"
-  },
-  {
-    "id": "art_b34301a58b41434a91bd1a5fb8634789",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -17018,13 +16395,6 @@
   },
   {
     "id": "art_b2a5c11826724865acf088f8e5995b7a",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_b2a5c11826724865acf088f8e5995b7a.html"
-  },
-  {
-    "id": "art_b2a5c11826724865acf088f8e5995b7a",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -17067,13 +16437,6 @@
   },
   {
     "id": "art_02eb9aa8c5ab4b6099c0b773f33dc775",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_02eb9aa8c5ab4b6099c0b773f33dc775.html"
-  },
-  {
-    "id": "art_02eb9aa8c5ab4b6099c0b773f33dc775",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -17256,13 +16619,6 @@
   },
   {
     "id": "art_194c110f58ad462ea3ef824540cd5ec5",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2025/art_194c110f58ad462ea3ef824540cd5ec5.html"
-  },
-  {
-    "id": "art_194c110f58ad462ea3ef824540cd5ec5",
     "field": "remedy_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -18117,13 +17473,6 @@
   },
   {
     "id": "art_fca118e5c2774de8aa3521bd9a8cfad0",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_fca118e5c2774de8aa3521bd9a8cfad0.html"
-  },
-  {
-    "id": "art_fca118e5c2774de8aa3521bd9a8cfad0",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -18286,13 +17635,6 @@
   {
     "id": "art_5213dd9925b9486eaa70dc267c1fbe64",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_5213dd9925b9486eaa70dc267c1fbe64.html"
-  },
-  {
-    "id": "art_5213dd9925b9486eaa70dc267c1fbe64",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_5213dd9925b9486eaa70dc267c1fbe64.html"
@@ -18365,13 +17707,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_f9734cb6683e4882a20e80334835d0ea.html"
-  },
-  {
-    "id": "art_f9734cb6683e4882a20e80334835d0ea",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_f9734cb6683e4882a20e80334835d0ea.html"
   },
   {
@@ -18386,13 +17721,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_d62f2130b6b94c1ab92081d2bcd85627.html"
-  },
-  {
-    "id": "art_d62f2130b6b94c1ab92081d2bcd85627",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_d62f2130b6b94c1ab92081d2bcd85627.html"
   },
   {
@@ -18533,13 +17861,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_6ff878e1211e4ed485c46654907e7d14.html"
-  },
-  {
-    "id": "art_6ff878e1211e4ed485c46654907e7d14",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_6ff878e1211e4ed485c46654907e7d14.html"
   },
   {
@@ -18572,13 +17893,6 @@
   },
   {
     "id": "art_58fa46239db04f79803e024fd9b647f2",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_58fa46239db04f79803e024fd9b647f2.html"
-  },
-  {
-    "id": "art_58fa46239db04f79803e024fd9b647f2",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -18593,13 +17907,6 @@
   },
   {
     "id": "art_2fe162b2cff84ae0add3f428c2813308",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_2fe162b2cff84ae0add3f428c2813308.html"
-  },
-  {
-    "id": "art_2fe162b2cff84ae0add3f428c2813308",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -18670,13 +17977,6 @@
   },
   {
     "id": "art_8509c524c7e245d4ab3c1e63b78eec31",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_8509c524c7e245d4ab3c1e63b78eec31.html"
-  },
-  {
-    "id": "art_8509c524c7e245d4ab3c1e63b78eec31",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -19951,13 +19251,6 @@
   },
   {
     "id": "art_3d820f85cc6c4c8790340348b940c487",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_3d820f85cc6c4c8790340348b940c487.html"
-  },
-  {
-    "id": "art_3d820f85cc6c4c8790340348b940c487",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -20364,20 +19657,6 @@
   },
   {
     "id": "art_57d2880d669a48129c7d05c0409453a8",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_57d2880d669a48129c7d05c0409453a8.html"
-  },
-  {
-    "id": "art_57d2880d669a48129c7d05c0409453a8",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_57d2880d669a48129c7d05c0409453a8.html"
-  },
-  {
-    "id": "art_57d2880d669a48129c7d05c0409453a8",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -21282,13 +20561,6 @@
   {
     "id": "art_2aae03884eb84f36b854bca5db64dd9c",
     "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_2aae03884eb84f36b854bca5db64dd9c.html"
-  },
-  {
-    "id": "art_2aae03884eb84f36b854bca5db64dd9c",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_2aae03884eb84f36b854bca5db64dd9c.html"
@@ -21709,13 +20981,6 @@
   {
     "id": "art_1bf6829ec4874a9496d2a82258f22fd8",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_1bf6829ec4874a9496d2a82258f22fd8.html"
-  },
-  {
-    "id": "art_1bf6829ec4874a9496d2a82258f22fd8",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_1bf6829ec4874a9496d2a82258f22fd8.html"
@@ -21758,13 +21023,6 @@
   {
     "id": "art_e3d8a14bac214ea6937be86b323ad67a",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_e3d8a14bac214ea6937be86b323ad67a.html"
-  },
-  {
-    "id": "art_e3d8a14bac214ea6937be86b323ad67a",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_e3d8a14bac214ea6937be86b323ad67a.html"
@@ -22038,13 +21296,6 @@
   {
     "id": "art_1c91b117b43242b2aaf41caf602968bf",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_1c91b117b43242b2aaf41caf602968bf.html"
-  },
-  {
-    "id": "art_1c91b117b43242b2aaf41caf602968bf",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_1c91b117b43242b2aaf41caf602968bf.html"
@@ -22653,6 +21904,13 @@
   },
   {
     "id": "art_5d31e3fe70fe4f70ab9bffb6cef003d3",
+    "field": "production_dates_raw",
+    "status": "原文有信息，尚未整理",
+    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
+    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_5d31e3fe70fe4f70ab9bffb6cef003d3.html"
+  },
+  {
+    "id": "art_5d31e3fe70fe4f70ab9bffb6cef003d3",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -22912,20 +22170,6 @@
   },
   {
     "id": "art_11655407f3a5404f93e57835d1447393",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_11655407f3a5404f93e57835d1447393.html"
-  },
-  {
-    "id": "art_11655407f3a5404f93e57835d1447393",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_11655407f3a5404f93e57835d1447393.html"
-  },
-  {
-    "id": "art_11655407f3a5404f93e57835d1447393",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -23263,13 +22507,6 @@
   {
     "id": "art_57f4ea1d50134c7da32d2017b4d5a82f",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_57f4ea1d50134c7da32d2017b4d5a82f.html"
-  },
-  {
-    "id": "art_57f4ea1d50134c7da32d2017b4d5a82f",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_57f4ea1d50134c7da32d2017b4d5a82f.html"
@@ -23682,13 +22919,6 @@
   },
   {
     "id": "art_df8970a685884b3e9116a6babfdf4335",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_df8970a685884b3e9116a6babfdf4335.html"
-  },
-  {
-    "id": "art_df8970a685884b3e9116a6babfdf4335",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -23725,13 +22955,6 @@
   {
     "id": "art_73c340b76da44ab7a3957debbf3f4e22",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_73c340b76da44ab7a3957debbf3f4e22.html"
-  },
-  {
-    "id": "art_73c340b76da44ab7a3957debbf3f4e22",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_73c340b76da44ab7a3957debbf3f4e22.html"
@@ -23780,13 +23003,6 @@
   },
   {
     "id": "art_2c0539657a0c444f9df82baee423ffbb",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_2c0539657a0c444f9df82baee423ffbb.html"
-  },
-  {
-    "id": "art_2c0539657a0c444f9df82baee423ffbb",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -23823,13 +23039,6 @@
   {
     "id": "art_2282f0126ffa4416b6b6fc4627ab0694",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_2282f0126ffa4416b6b6fc4627ab0694.html"
-  },
-  {
-    "id": "art_2282f0126ffa4416b6b6fc4627ab0694",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_2282f0126ffa4416b6b6fc4627ab0694.html"
@@ -24557,13 +23766,6 @@
   },
   {
     "id": "art_0d8a4c2ae96c4585b19ecd9855718621",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_0d8a4c2ae96c4585b19ecd9855718621.html"
-  },
-  {
-    "id": "art_0d8a4c2ae96c4585b19ecd9855718621",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -24922,13 +24124,6 @@
   {
     "id": "art_7db7aacea58e41338735df2fa9017e0b",
     "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_7db7aacea58e41338735df2fa9017e0b.html"
-  },
-  {
-    "id": "art_7db7aacea58e41338735df2fa9017e0b",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_7db7aacea58e41338735df2fa9017e0b.html"
@@ -25510,20 +24705,6 @@
   {
     "id": "art_4a8e4e266e0940ec87adf1e592091544",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_4a8e4e266e0940ec87adf1e592091544.html"
-  },
-  {
-    "id": "art_4a8e4e266e0940ec87adf1e592091544",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_4a8e4e266e0940ec87adf1e592091544.html"
-  },
-  {
-    "id": "art_4a8e4e266e0940ec87adf1e592091544",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_4a8e4e266e0940ec87adf1e592091544.html"
@@ -26413,13 +25594,6 @@
   {
     "id": "art_c0883ab7dd3c43f88d44cea62c429b38",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_c0883ab7dd3c43f88d44cea62c429b38.html"
-  },
-  {
-    "id": "art_c0883ab7dd3c43f88d44cea62c429b38",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_c0883ab7dd3c43f88d44cea62c429b38.html"
@@ -27134,20 +26308,6 @@
   {
     "id": "art_eebec596125d4b349cbcc41371b2411a",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_eebec596125d4b349cbcc41371b2411a.html"
-  },
-  {
-    "id": "art_eebec596125d4b349cbcc41371b2411a",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_eebec596125d4b349cbcc41371b2411a.html"
-  },
-  {
-    "id": "art_eebec596125d4b349cbcc41371b2411a",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_eebec596125d4b349cbcc41371b2411a.html"
@@ -27274,13 +26434,6 @@
   {
     "id": "art_6a47ad2623334406867375d5c0fb0ad8",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_6a47ad2623334406867375d5c0fb0ad8.html"
-  },
-  {
-    "id": "art_6a47ad2623334406867375d5c0fb0ad8",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_6a47ad2623334406867375d5c0fb0ad8.html"
@@ -27323,13 +26476,6 @@
   {
     "id": "art_5bfd18f3e23d482a9a129514501fda09",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_5bfd18f3e23d482a9a129514501fda09.html"
-  },
-  {
-    "id": "art_5bfd18f3e23d482a9a129514501fda09",
-    "field": "production_dates_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_5bfd18f3e23d482a9a129514501fda09.html"
@@ -27659,13 +26805,6 @@
   {
     "id": "art_839391822dc54a7e8e30f4d1828a8a52",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_839391822dc54a7e8e30f4d1828a8a52.html"
-  },
-  {
-    "id": "art_839391822dc54a7e8e30f4d1828a8a52",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_839391822dc54a7e8e30f4d1828a8a52.html"
@@ -27939,13 +27078,6 @@
   {
     "id": "art_e4ce746ce5fa4031a290f60c787f0eab",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_e4ce746ce5fa4031a290f60c787f0eab.html"
-  },
-  {
-    "id": "art_e4ce746ce5fa4031a290f60c787f0eab",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_e4ce746ce5fa4031a290f60c787f0eab.html"
@@ -28240,13 +27372,6 @@
   {
     "id": "art_f0faf41be1d547388c9fe1667a419d4e",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_f0faf41be1d547388c9fe1667a419d4e.html"
-  },
-  {
-    "id": "art_f0faf41be1d547388c9fe1667a419d4e",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_f0faf41be1d547388c9fe1667a419d4e.html"
@@ -28289,13 +27414,6 @@
   {
     "id": "art_2f88a064aa9141829f944b2c11cf9902",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_2f88a064aa9141829f944b2c11cf9902.html"
-  },
-  {
-    "id": "art_2f88a064aa9141829f944b2c11cf9902",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_2f88a064aa9141829f944b2c11cf9902.html"
@@ -29703,13 +28821,6 @@
   {
     "id": "art_dcb32a3899dd4b1cbd4bd7cb942f8017",
     "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_dcb32a3899dd4b1cbd4bd7cb942f8017.html"
-  },
-  {
-    "id": "art_dcb32a3899dd4b1cbd4bd7cb942f8017",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_dcb32a3899dd4b1cbd4bd7cb942f8017.html"
@@ -30234,13 +29345,6 @@
   },
   {
     "id": "art_e793805f1672405da44931f3644b9281",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_e793805f1672405da44931f3644b9281.html"
-  },
-  {
-    "id": "art_e793805f1672405da44931f3644b9281",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -30570,13 +29674,6 @@
   },
   {
     "id": "art_953651e794944ec89d716061ed0678a3",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_953651e794944ec89d716061ed0678a3.html"
-  },
-  {
-    "id": "art_953651e794944ec89d716061ed0678a3",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -30753,13 +29850,6 @@
   {
     "id": "art_66120b2856684f179068ad3e6e43d3b8",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_66120b2856684f179068ad3e6e43d3b8.html"
-  },
-  {
-    "id": "art_66120b2856684f179068ad3e6e43d3b8",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_66120b2856684f179068ad3e6e43d3b8.html"
@@ -31368,27 +30458,6 @@
   },
   {
     "id": "art_ec7c874a83854c7aaf52be0470a74625",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_ec7c874a83854c7aaf52be0470a74625.html"
-  },
-  {
-    "id": "art_ec7c874a83854c7aaf52be0470a74625",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_ec7c874a83854c7aaf52be0470a74625.html"
-  },
-  {
-    "id": "art_ec7c874a83854c7aaf52be0470a74625",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_ec7c874a83854c7aaf52be0470a74625.html"
-  },
-  {
-    "id": "art_ec7c874a83854c7aaf52be0470a74625",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -31585,13 +30654,6 @@
   },
   {
     "id": "art_936fd78cc0c048b5b974b6d24f6266f6",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_936fd78cc0c048b5b974b6d24f6266f6.html"
-  },
-  {
-    "id": "art_936fd78cc0c048b5b974b6d24f6266f6",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -31628,13 +30690,6 @@
   {
     "id": "art_75b7b5bd87cf40c89f6b5703cbf213c6",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_75b7b5bd87cf40c89f6b5703cbf213c6.html"
-  },
-  {
-    "id": "art_75b7b5bd87cf40c89f6b5703cbf213c6",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_75b7b5bd87cf40c89f6b5703cbf213c6.html"
@@ -32243,13 +31298,6 @@
   },
   {
     "id": "art_a8cf912d08094b618d9d298840bc0fdb",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_a8cf912d08094b618d9d298840bc0fdb.html"
-  },
-  {
-    "id": "art_a8cf912d08094b618d9d298840bc0fdb",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -32292,13 +31340,6 @@
   },
   {
     "id": "art_9e9d2bc892c94f4bace98f714d61400f",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_9e9d2bc892c94f4bace98f714d61400f.html"
-  },
-  {
-    "id": "art_9e9d2bc892c94f4bace98f714d61400f",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -32383,13 +31424,6 @@
   },
   {
     "id": "art_47e187e0a9054fb3bc16919157568a23",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_47e187e0a9054fb3bc16919157568a23.html"
-  },
-  {
-    "id": "art_47e187e0a9054fb3bc16919157568a23",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -32432,13 +31466,6 @@
   },
   {
     "id": "art_43a7e976a4fe4a54af7bf19adaecc7cb",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_43a7e976a4fe4a54af7bf19adaecc7cb.html"
-  },
-  {
-    "id": "art_43a7e976a4fe4a54af7bf19adaecc7cb",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -32537,13 +31564,6 @@
   },
   {
     "id": "art_dc296fec4e0f42b6a605af7d09cf28d0",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_dc296fec4e0f42b6a605af7d09cf28d0.html"
-  },
-  {
-    "id": "art_dc296fec4e0f42b6a605af7d09cf28d0",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -32614,13 +31634,6 @@
   },
   {
     "id": "art_e62d2d6a5aa04ca68e7ec55fc9837068",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_e62d2d6a5aa04ca68e7ec55fc9837068.html"
-  },
-  {
-    "id": "art_e62d2d6a5aa04ca68e7ec55fc9837068",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -32663,13 +31676,6 @@
   },
   {
     "id": "art_6aa8f67893a54df0b7a381fd7fe2199c",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_6aa8f67893a54df0b7a381fd7fe2199c.html"
-  },
-  {
-    "id": "art_6aa8f67893a54df0b7a381fd7fe2199c",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -32866,13 +31872,6 @@
   },
   {
     "id": "art_bef4dda6d5504e4c8c96077413148c2a",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_bef4dda6d5504e4c8c96077413148c2a.html"
-  },
-  {
-    "id": "art_bef4dda6d5504e4c8c96077413148c2a",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -33909,13 +32908,6 @@
   },
   {
     "id": "art_525ff40e2f45454e8e8df9cc3da5aabc",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_525ff40e2f45454e8e8df9cc3da5aabc.html"
-  },
-  {
-    "id": "art_525ff40e2f45454e8e8df9cc3da5aabc",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -34441,13 +33433,6 @@
   },
   {
     "id": "art_46e5890fa15f42fc9674048032074680",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_46e5890fa15f42fc9674048032074680.html"
-  },
-  {
-    "id": "art_46e5890fa15f42fc9674048032074680",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -34624,20 +33609,6 @@
   {
     "id": "art_03d010c1499b4ccaa151c2c473c1a0a2",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_03d010c1499b4ccaa151c2c473c1a0a2.html"
-  },
-  {
-    "id": "art_03d010c1499b4ccaa151c2c473c1a0a2",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_03d010c1499b4ccaa151c2c473c1a0a2.html"
-  },
-  {
-    "id": "art_03d010c1499b4ccaa151c2c473c1a0a2",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_03d010c1499b4ccaa151c2c473c1a0a2.html"
@@ -34668,13 +33639,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_f37bb191480145cc843cf9695dc4cd02.html"
-  },
-  {
-    "id": "art_f37bb191480145cc843cf9695dc4cd02",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_f37bb191480145cc843cf9695dc4cd02.html"
   },
   {
@@ -34689,13 +33653,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_8290d23c3fcc49188493c73068b312af.html"
-  },
-  {
-    "id": "art_8290d23c3fcc49188493c73068b312af",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_8290d23c3fcc49188493c73068b312af.html"
   },
   {
@@ -36394,13 +35351,6 @@
   },
   {
     "id": "art_5504caa90bff4a7dbab3ab9fbc07ad44",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_5504caa90bff4a7dbab3ab9fbc07ad44.html"
-  },
-  {
-    "id": "art_5504caa90bff4a7dbab3ab9fbc07ad44",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -37144,13 +36094,6 @@
   {
     "id": "art_381022d5bbed4f98a6d64e7d3963e795",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_381022d5bbed4f98a6d64e7d3963e795.html"
-  },
-  {
-    "id": "art_381022d5bbed4f98a6d64e7d3963e795",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_381022d5bbed4f98a6d64e7d3963e795.html"
@@ -38179,13 +37122,6 @@
   },
   {
     "id": "art_8faf8fb9aa5848f99c02064d9b8b5ddb",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_8faf8fb9aa5848f99c02064d9b8b5ddb.html"
-  },
-  {
-    "id": "art_8faf8fb9aa5848f99c02064d9b8b5ddb",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -38196,13 +37132,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_7b09614dd860441bbb88d9a30b41ecec.html"
-  },
-  {
-    "id": "art_7b09614dd860441bbb88d9a30b41ecec",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_7b09614dd860441bbb88d9a30b41ecec.html"
   },
   {
@@ -39117,20 +38046,6 @@
   },
   {
     "id": "art_105c0eeabe0d4dbcb2bc1c992b05c8b5",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_105c0eeabe0d4dbcb2bc1c992b05c8b5.html"
-  },
-  {
-    "id": "art_105c0eeabe0d4dbcb2bc1c992b05c8b5",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_105c0eeabe0d4dbcb2bc1c992b05c8b5.html"
-  },
-  {
-    "id": "art_105c0eeabe0d4dbcb2bc1c992b05c8b5",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -39167,13 +38082,6 @@
   {
     "id": "art_e762e6420afb4b00a02b8d2fbc806523",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_e762e6420afb4b00a02b8d2fbc806523.html"
-  },
-  {
-    "id": "art_e762e6420afb4b00a02b8d2fbc806523",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_e762e6420afb4b00a02b8d2fbc806523.html"
@@ -39265,13 +38173,6 @@
   {
     "id": "art_63abff22a1584404a6da253d5cd65f95",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_63abff22a1584404a6da253d5cd65f95.html"
-  },
-  {
-    "id": "art_63abff22a1584404a6da253d5cd65f95",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_63abff22a1584404a6da253d5cd65f95.html"
@@ -39370,13 +38271,6 @@
   {
     "id": "art_57285252c5bc43c9b49e0ae768257705",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_57285252c5bc43c9b49e0ae768257705.html"
-  },
-  {
-    "id": "art_57285252c5bc43c9b49e0ae768257705",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_57285252c5bc43c9b49e0ae768257705.html"
@@ -39981,13 +38875,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_d83a23cb83e6495abce46681f68f3c26.html"
-  },
-  {
-    "id": "art_d83a23cb83e6495abce46681f68f3c26",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_d83a23cb83e6495abce46681f68f3c26.html"
   },
   {
@@ -40035,13 +38922,6 @@
   {
     "id": "art_b1a202f9cd5849758ed73bc9b0b64760",
     "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_b1a202f9cd5849758ed73bc9b0b64760.html"
-  },
-  {
-    "id": "art_b1a202f9cd5849758ed73bc9b0b64760",
-    "field": "production_dates_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_b1a202f9cd5849758ed73bc9b0b64760.html"
@@ -40086,13 +38966,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_9a6fee5d22f94c43959fb092eb2a7571.html"
-  },
-  {
-    "id": "art_9a6fee5d22f94c43959fb092eb2a7571",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_9a6fee5d22f94c43959fb092eb2a7571.html"
   },
   {
@@ -40149,13 +39022,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_704fb5f550d14ca3ba5d51302bf104f1.html"
-  },
-  {
-    "id": "art_704fb5f550d14ca3ba5d51302bf104f1",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_704fb5f550d14ca3ba5d51302bf104f1.html"
   },
   {
@@ -40300,13 +39166,6 @@
   },
   {
     "id": "art_096608b888234277ad332e42e79f8391",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_096608b888234277ad332e42e79f8391.html"
-  },
-  {
-    "id": "art_096608b888234277ad332e42e79f8391",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -40363,13 +39222,6 @@
   },
   {
     "id": "art_0ac1e2e564034985a7274ff86ab001e4",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2024/art_0ac1e2e564034985a7274ff86ab001e4.html"
-  },
-  {
-    "id": "art_0ac1e2e564034985a7274ff86ab001e4",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -41910,13 +40762,6 @@
   },
   {
     "id": "art_2d6a8dbd7d1a4c50b6d0031e430c014c",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2d6a8dbd7d1a4c50b6d0031e430c014c.html"
-  },
-  {
-    "id": "art_2d6a8dbd7d1a4c50b6d0031e430c014c",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -41959,13 +40804,6 @@
   },
   {
     "id": "art_2b17fb51b21c4804953dc83875b9d680",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2b17fb51b21c4804953dc83875b9d680.html"
-  },
-  {
-    "id": "art_2b17fb51b21c4804953dc83875b9d680",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -42421,13 +41259,6 @@
   },
   {
     "id": "art_e87462257f08461aae25ed52fdbf8b37",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_e87462257f08461aae25ed52fdbf8b37.html"
-  },
-  {
-    "id": "art_e87462257f08461aae25ed52fdbf8b37",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -42652,20 +41483,6 @@
   },
   {
     "id": "art_4588e89e16af4eb2b04c07a2d3651720",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_4588e89e16af4eb2b04c07a2d3651720.html"
-  },
-  {
-    "id": "art_4588e89e16af4eb2b04c07a2d3651720",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_4588e89e16af4eb2b04c07a2d3651720.html"
-  },
-  {
-    "id": "art_4588e89e16af4eb2b04c07a2d3651720",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -42778,13 +41595,6 @@
   },
   {
     "id": "art_6605df1cd3fd4fa790129a21b4c4327f",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_6605df1cd3fd4fa790129a21b4c4327f.html"
-  },
-  {
-    "id": "art_6605df1cd3fd4fa790129a21b4c4327f",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -43618,13 +42428,6 @@
   },
   {
     "id": "art_c18127fd61dc47fb950afb9c935778e4",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_c18127fd61dc47fb950afb9c935778e4.html"
-  },
-  {
-    "id": "art_c18127fd61dc47fb950afb9c935778e4",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -43947,13 +42750,6 @@
   },
   {
     "id": "art_96f16d03edde420594dd02fe59da037a",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_96f16d03edde420594dd02fe59da037a.html"
-  },
-  {
-    "id": "art_96f16d03edde420594dd02fe59da037a",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -44080,13 +42876,6 @@
   },
   {
     "id": "art_4840b706407249ed8ffec542bf30954d",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_4840b706407249ed8ffec542bf30954d.html"
-  },
-  {
-    "id": "art_4840b706407249ed8ffec542bf30954d",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -44123,13 +42912,6 @@
   {
     "id": "art_a7fd02bd50b74ce694cd48932f5d3dfb",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_a7fd02bd50b74ce694cd48932f5d3dfb.html"
-  },
-  {
-    "id": "art_a7fd02bd50b74ce694cd48932f5d3dfb",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_a7fd02bd50b74ce694cd48932f5d3dfb.html"
@@ -44258,20 +43040,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_f309b7c03c8a4a588c8ef98506edc0fe.html"
-  },
-  {
-    "id": "art_f309b7c03c8a4a588c8ef98506edc0fe",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_f309b7c03c8a4a588c8ef98506edc0fe.html"
-  },
-  {
-    "id": "art_f309b7c03c8a4a588c8ef98506edc0fe",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_f309b7c03c8a4a588c8ef98506edc0fe.html"
   },
   {
@@ -44335,20 +43103,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_91d280e63837406787c08dd98025ed46.html"
-  },
-  {
-    "id": "art_91d280e63837406787c08dd98025ed46",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_91d280e63837406787c08dd98025ed46.html"
-  },
-  {
-    "id": "art_91d280e63837406787c08dd98025ed46",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_91d280e63837406787c08dd98025ed46.html"
   },
   {
@@ -44363,13 +43117,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_8132fb0f972447b4bc142d07928f31c7.html"
-  },
-  {
-    "id": "art_8132fb0f972447b4bc142d07928f31c7",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_8132fb0f972447b4bc142d07928f31c7.html"
   },
   {
@@ -44384,13 +43131,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_3bdc31203f974e338e03e056e3136957.html"
-  },
-  {
-    "id": "art_3bdc31203f974e338e03e056e3136957",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_3bdc31203f974e338e03e056e3136957.html"
   },
   {
@@ -44951,13 +43691,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_fae48402d74247b78e8c7592768d6966.html"
-  },
-  {
-    "id": "art_fae48402d74247b78e8c7592768d6966",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_fae48402d74247b78e8c7592768d6966.html"
   },
   {
@@ -44990,13 +43723,6 @@
   },
   {
     "id": "art_c25dbe7e7d1e441189d2e46c0a7dcb83",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_c25dbe7e7d1e441189d2e46c0a7dcb83.html"
-  },
-  {
-    "id": "art_c25dbe7e7d1e441189d2e46c0a7dcb83",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -45011,27 +43737,6 @@
   },
   {
     "id": "art_a9c7b008228d4865888d0be82d4f68c2",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_a9c7b008228d4865888d0be82d4f68c2.html"
-  },
-  {
-    "id": "art_a9c7b008228d4865888d0be82d4f68c2",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_a9c7b008228d4865888d0be82d4f68c2.html"
-  },
-  {
-    "id": "art_a9c7b008228d4865888d0be82d4f68c2",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_a9c7b008228d4865888d0be82d4f68c2.html"
-  },
-  {
-    "id": "art_a9c7b008228d4865888d0be82d4f68c2",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -45063,13 +43768,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_9f241757560f49d883a1a20bdb24f4f0.html"
-  },
-  {
-    "id": "art_9f241757560f49d883a1a20bdb24f4f0",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_9f241757560f49d883a1a20bdb24f4f0.html"
   },
   {
@@ -45795,13 +44493,6 @@
   },
   {
     "id": "art_b8a9f37083004d76ad837279da91728f",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_b8a9f37083004d76ad837279da91728f.html"
-  },
-  {
-    "id": "art_b8a9f37083004d76ad837279da91728f",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -45812,20 +44503,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_72d23d830c124a7a8f13b3d5fc8f6cf8.html"
-  },
-  {
-    "id": "art_72d23d830c124a7a8f13b3d5fc8f6cf8",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_72d23d830c124a7a8f13b3d5fc8f6cf8.html"
-  },
-  {
-    "id": "art_72d23d830c124a7a8f13b3d5fc8f6cf8",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_72d23d830c124a7a8f13b3d5fc8f6cf8.html"
   },
   {
@@ -45840,13 +44517,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_67296d70d3454c9ebf8466029c7e261e.html"
-  },
-  {
-    "id": "art_67296d70d3454c9ebf8466029c7e261e",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_67296d70d3454c9ebf8466029c7e261e.html"
   },
   {
@@ -45861,13 +44531,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_670419b8f0f3480b8b43c46a6364045f.html"
-  },
-  {
-    "id": "art_670419b8f0f3480b8b43c46a6364045f",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_670419b8f0f3480b8b43c46a6364045f.html"
   },
   {
@@ -45952,13 +44615,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2e40c27ebc274f14a47f2ca94ff4a069.html"
-  },
-  {
-    "id": "art_2e40c27ebc274f14a47f2ca94ff4a069",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2e40c27ebc274f14a47f2ca94ff4a069.html"
   },
   {
@@ -46369,13 +45025,6 @@
   },
   {
     "id": "art_36e9e9aaa69f4dcf85b0ed685535b03e",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_36e9e9aaa69f4dcf85b0ed685535b03e.html"
-  },
-  {
-    "id": "art_36e9e9aaa69f4dcf85b0ed685535b03e",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -46656,13 +45305,6 @@
   },
   {
     "id": "art_c26740a94f1e4c73ab1b97b4199e7a9a",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_c26740a94f1e4c73ab1b97b4199e7a9a.html"
-  },
-  {
-    "id": "art_c26740a94f1e4c73ab1b97b4199e7a9a",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -46677,13 +45319,6 @@
   },
   {
     "id": "art_7b9eafaf05d749988d7e98309491724f",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_7b9eafaf05d749988d7e98309491724f.html"
-  },
-  {
-    "id": "art_7b9eafaf05d749988d7e98309491724f",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -46694,20 +45329,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_76936472aa3e4ff8b743e558d3dd10fb.html"
-  },
-  {
-    "id": "art_76936472aa3e4ff8b743e558d3dd10fb",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_76936472aa3e4ff8b743e558d3dd10fb.html"
-  },
-  {
-    "id": "art_76936472aa3e4ff8b743e558d3dd10fb",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_76936472aa3e4ff8b743e558d3dd10fb.html"
   },
   {
@@ -46722,13 +45343,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_1ef1465f2fed4e52b0df069e10b70859.html"
-  },
-  {
-    "id": "art_1ef1465f2fed4e52b0df069e10b70859",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_1ef1465f2fed4e52b0df069e10b70859.html"
   },
   {
@@ -46841,20 +45455,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_d6acbc8e5bea45b1b69d7be4c8721c35.html"
-  },
-  {
-    "id": "art_d6acbc8e5bea45b1b69d7be4c8721c35",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_d6acbc8e5bea45b1b69d7be4c8721c35.html"
-  },
-  {
-    "id": "art_d6acbc8e5bea45b1b69d7be4c8721c35",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_d6acbc8e5bea45b1b69d7be4c8721c35.html"
   },
   {
@@ -48098,13 +46698,6 @@
   },
   {
     "id": "art_fd2eeb92fec04ba59c5454cc1b9f1365",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_fd2eeb92fec04ba59c5454cc1b9f1365.html"
-  },
-  {
-    "id": "art_fd2eeb92fec04ba59c5454cc1b9f1365",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -48141,13 +46734,6 @@
   {
     "id": "art_c2b35733ef6d49c6bf54b02fe20e0beb",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_c2b35733ef6d49c6bf54b02fe20e0beb.html"
-  },
-  {
-    "id": "art_c2b35733ef6d49c6bf54b02fe20e0beb",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_c2b35733ef6d49c6bf54b02fe20e0beb.html"
@@ -49344,13 +47930,6 @@
   },
   {
     "id": "art_00aba1b6511d470bae5d51f6e3999f11",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_00aba1b6511d470bae5d51f6e3999f11.html"
-  },
-  {
-    "id": "art_00aba1b6511d470bae5d51f6e3999f11",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -49443,13 +48022,6 @@
   {
     "id": "art_1523e5bef6d74bf3a06587ebc63592ef",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_1523e5bef6d74bf3a06587ebc63592ef.html"
-  },
-  {
-    "id": "art_1523e5bef6d74bf3a06587ebc63592ef",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_1523e5bef6d74bf3a06587ebc63592ef.html"
@@ -49522,13 +48094,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_fb7eda8e6afd41c6990ed5b19e014978.html"
-  },
-  {
-    "id": "art_fb7eda8e6afd41c6990ed5b19e014978",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_fb7eda8e6afd41c6990ed5b19e014978.html"
   },
   {
@@ -49827,13 +48392,6 @@
   },
   {
     "id": "art_901565e8d64b4427b96078316f3e011e",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_901565e8d64b4427b96078316f3e011e.html"
-  },
-  {
-    "id": "art_901565e8d64b4427b96078316f3e011e",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -49942,13 +48500,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_3d26a0c5c84a40f59fc604aa42170656.html"
-  },
-  {
-    "id": "art_3d26a0c5c84a40f59fc604aa42170656",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_3d26a0c5c84a40f59fc604aa42170656.html"
   },
   {
@@ -50436,13 +48987,6 @@
   },
   {
     "id": "art_ab64e2847a25431bab65ef2680338b98",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_ab64e2847a25431bab65ef2680338b98.html"
-  },
-  {
-    "id": "art_ab64e2847a25431bab65ef2680338b98",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -50527,13 +49071,6 @@
   },
   {
     "id": "art_3cdd3b7d08e24653bd0c71d2452ecd05",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_3cdd3b7d08e24653bd0c71d2452ecd05.html"
-  },
-  {
-    "id": "art_3cdd3b7d08e24653bd0c71d2452ecd05",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -50926,13 +49463,6 @@
   },
   {
     "id": "art_68ee047f6191463db5dd905b0596b4c4",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_68ee047f6191463db5dd905b0596b4c4.html"
-  },
-  {
-    "id": "art_68ee047f6191463db5dd905b0596b4c4",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -51241,27 +49771,6 @@
   },
   {
     "id": "art_2bc8b6063269474b99c59ec572f22da8",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2bc8b6063269474b99c59ec572f22da8.html"
-  },
-  {
-    "id": "art_2bc8b6063269474b99c59ec572f22da8",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2bc8b6063269474b99c59ec572f22da8.html"
-  },
-  {
-    "id": "art_2bc8b6063269474b99c59ec572f22da8",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2bc8b6063269474b99c59ec572f22da8.html"
-  },
-  {
-    "id": "art_2bc8b6063269474b99c59ec572f22da8",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -51347,13 +49856,6 @@
   {
     "id": "art_5623469b7eb44f4eb50d5df636ffb5d7",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_5623469b7eb44f4eb50d5df636ffb5d7.html"
-  },
-  {
-    "id": "art_5623469b7eb44f4eb50d5df636ffb5d7",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_5623469b7eb44f4eb50d5df636ffb5d7.html"
@@ -52110,27 +50612,6 @@
   {
     "id": "art_25f7f03959334e80a543197700db5ac3",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_25f7f03959334e80a543197700db5ac3.html"
-  },
-  {
-    "id": "art_25f7f03959334e80a543197700db5ac3",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_25f7f03959334e80a543197700db5ac3.html"
-  },
-  {
-    "id": "art_25f7f03959334e80a543197700db5ac3",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_25f7f03959334e80a543197700db5ac3.html"
-  },
-  {
-    "id": "art_25f7f03959334e80a543197700db5ac3",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_25f7f03959334e80a543197700db5ac3.html"
@@ -52210,13 +50691,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_f201ca6d14d840a6aec9e45e24a47d0a.html"
-  },
-  {
-    "id": "art_f201ca6d14d840a6aec9e45e24a47d0a",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_f201ca6d14d840a6aec9e45e24a47d0a.html"
   },
   {
@@ -52560,13 +51034,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2010f00df00742f6ade8acb6ab7f4315.html"
-  },
-  {
-    "id": "art_2010f00df00742f6ade8acb6ab7f4315",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2010f00df00742f6ade8acb6ab7f4315.html"
   },
   {
@@ -53243,13 +51710,6 @@
   },
   {
     "id": "art_b2bcf6640b7240488e30b39afa76c4df",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_b2bcf6640b7240488e30b39afa76c4df.html"
-  },
-  {
-    "id": "art_b2bcf6640b7240488e30b39afa76c4df",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -53260,13 +51720,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_a094e4d8dcae411687e92de4a3976c03.html"
-  },
-  {
-    "id": "art_a094e4d8dcae411687e92de4a3976c03",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_a094e4d8dcae411687e92de4a3976c03.html"
   },
   {
@@ -53337,13 +51790,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_533b6281b9604b20a319260928ac3872.html"
-  },
-  {
-    "id": "art_533b6281b9604b20a319260928ac3872",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_533b6281b9604b20a319260928ac3872.html"
   },
   {
@@ -53852,13 +52298,6 @@
   },
   {
     "id": "art_be10b28084f14a40a55cf4e20ad07a88",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_be10b28084f14a40a55cf4e20ad07a88.html"
-  },
-  {
-    "id": "art_be10b28084f14a40a55cf4e20ad07a88",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -53911,13 +52350,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_accff2a909704f26a7ac89e2728b2b84.html"
-  },
-  {
-    "id": "art_accff2a909704f26a7ac89e2728b2b84",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_accff2a909704f26a7ac89e2728b2b84.html"
   },
   {
@@ -54181,13 +52613,6 @@
   },
   {
     "id": "art_c755ef073d5d46eb93a436cc415b4d9b",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_c755ef073d5d46eb93a436cc415b4d9b.html"
-  },
-  {
-    "id": "art_c755ef073d5d46eb93a436cc415b4d9b",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -54223,13 +52648,6 @@
   },
   {
     "id": "art_b0230a610d674411bb91e78148e81d53",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_b0230a610d674411bb91e78148e81d53.html"
-  },
-  {
-    "id": "art_b0230a610d674411bb91e78148e81d53",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -54244,13 +52662,6 @@
   },
   {
     "id": "art_9c2e2f6873d14f84b0ebd2218ee3b078",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_9c2e2f6873d14f84b0ebd2218ee3b078.html"
-  },
-  {
-    "id": "art_9c2e2f6873d14f84b0ebd2218ee3b078",
     "field": "contact_raw",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
@@ -54338,27 +52749,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_7bae113a23a740ec894b51638d3d2f51.html"
-  },
-  {
-    "id": "art_7bae113a23a740ec894b51638d3d2f51",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_7bae113a23a740ec894b51638d3d2f51.html"
-  },
-  {
-    "id": "art_7bae113a23a740ec894b51638d3d2f51",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_7bae113a23a740ec894b51638d3d2f51.html"
-  },
-  {
-    "id": "art_7bae113a23a740ec894b51638d3d2f51",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_7bae113a23a740ec894b51638d3d2f51.html"
   },
   {
@@ -54471,13 +52861,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_0aa1019862cd443ba142d9f9fd2dd040.html"
-  },
-  {
-    "id": "art_0aa1019862cd443ba142d9f9fd2dd040",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_0aa1019862cd443ba142d9f9fd2dd040.html"
   },
   {
@@ -55154,13 +53537,6 @@
   },
   {
     "id": "art_e660ae681d3841a88cd06e3bf0b21d5d",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_e660ae681d3841a88cd06e3bf0b21d5d.html"
-  },
-  {
-    "id": "art_e660ae681d3841a88cd06e3bf0b21d5d",
     "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -55234,13 +53610,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_b56768b45ed54dd1a9dc65c8704525e9.html"
-  },
-  {
-    "id": "art_b56768b45ed54dd1a9dc65c8704525e9",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_b56768b45ed54dd1a9dc65c8704525e9.html"
   },
   {
@@ -55372,13 +53741,6 @@
   {
     "id": "art_5d56ae4fa93a47baad5ba84b4577dfba",
     "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_5d56ae4fa93a47baad5ba84b4577dfba.html"
-  },
-  {
-    "id": "art_5d56ae4fa93a47baad5ba84b4577dfba",
-    "field": "production_dates_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_5d56ae4fa93a47baad5ba84b4577dfba.html"
@@ -55630,13 +53992,6 @@
   },
   {
     "id": "art_f796740b614f47aea5eaf33a6b4f4bf6",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_f796740b614f47aea5eaf33a6b4f4bf6.html"
-  },
-  {
-    "id": "art_f796740b614f47aea5eaf33a6b4f4bf6",
     "field": "defect_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
@@ -55673,13 +54028,6 @@
   {
     "id": "art_50dccb5bb6fa456b834c6d684fbdfc6f",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_50dccb5bb6fa456b834c6d684fbdfc6f.html"
-  },
-  {
-    "id": "art_50dccb5bb6fa456b834c6d684fbdfc6f",
-    "field": "model_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_50dccb5bb6fa456b834c6d684fbdfc6f.html"
@@ -55974,27 +54322,6 @@
   {
     "id": "art_2f5a69db80644663a001dceb88217f8f",
     "field": "product_name",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2f5a69db80644663a001dceb88217f8f.html"
-  },
-  {
-    "id": "art_2f5a69db80644663a001dceb88217f8f",
-    "field": "model_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2f5a69db80644663a001dceb88217f8f.html"
-  },
-  {
-    "id": "art_2f5a69db80644663a001dceb88217f8f",
-    "field": "production_dates_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2f5a69db80644663a001dceb88217f8f.html"
-  },
-  {
-    "id": "art_2f5a69db80644663a001dceb88217f8f",
-    "field": "batch_raw",
     "status": "原文有信息，尚未整理",
     "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_2f5a69db80644663a001dceb88217f8f.html"
@@ -57705,13 +56032,6 @@
     "field": "brand",
     "status": "待审计",
     "reason": "尚无充分字段级证据，不能由空值推断公告未披露",
-    "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_16f996be223b4a669318e23a843a614f.html"
-  },
-  {
-    "id": "art_16f996be223b4a669318e23a843a614f",
-    "field": "batch_raw",
-    "status": "原文有信息，尚未整理",
-    "reason": "已有摘录，仍需确认语义、结构化结果与原文对应关系",
     "source_url": "https://www.samrdprc.org.cn/fzlm/zhgg/xfpzhgg/art/2023/art_16f996be223b4a669318e23a843a614f.html"
   },
   {

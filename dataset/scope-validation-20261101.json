@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-01",
+  "source_sha256": "7a2a7038638bf82798fd17ac09dd5d1b1c15b927ee9d85dbdfa23ac15068031c",
+  "status": "通过",
+  "suites": [
+    {
+      "test": "test_scope_resolution.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_quality.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_scope.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_verify.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_scope_enrichment.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_pending_resolution.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_visualization.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_navigation.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_scope_template.cjs",
+      "passed": true
+    },
+    {
+      "test": "evaluate-scope.cjs",
+      "passed": true
+    },
+    {
+      "test": "test_scope_stats.py (2 tests, including real loopback HTTP)",
+      "passed": true
+    }
+  ],
+  "rule_cases": {
+    "total": 120,
+    "correct": 120,
+    "false_matches": 0,
+    "false_exclusions": 0,
+    "overconfident": 0
+  },
+  "full_source_integrity_count": 1303,
+  "target_ledger_count": 997,
+  "browser_visual_check": {
+    "passed": false,
+    "reason": "内置浏览器无法访问本机端口；本机Computer Use因无法可靠识别浏览器URL而停止。已完成Vue模板编译和图表筛选逻辑测试，未宣称视觉验收。"
+  },
+  "review_note": "继承已有AI转录的规则编译不代表本轮重新视觉复核；本轮人工复核未完成。旧评估的部分预期按更严格批号证据门槛改为待确认，旧版案例已完整保留。",
+  "expected_case_revision_count": 8
+}

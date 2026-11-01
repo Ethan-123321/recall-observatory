@@ -13,6 +13,18 @@ for line in (ROOT / '.env').read_text(encoding='utf-8-sig').splitlines() if not 
             os.environ.setdefault(k.strip(),v.strip().strip('\"').strip("'"))
 ROWS=json.loads((ROOT/'dataset/recalls-2023-2025.json').read_text(encoding='utf-8'))
 DATA_VERSION=hashlib.sha256((ROOT/'dataset/recalls-2023-2025.json').read_bytes()).hexdigest()
+def capability_stats(rows=None):
+    report=json.loads((ROOT/'dataset/scope-resolution-report.json').read_text(encoding='utf-8'))
+    if report['source_sha256']!=DATA_VERSION:
+        raise ValueError('核验台账与正式数据版本不一致，请重新构建')
+    selected=ROWS if rows is None else rows
+    issues=[r['scope_issue'] for r in selected]
+    return {'count':len(issues),'data_version':DATA_VERSION,'rule_version':report['rule_version'],
+            'before':dict(collections.Counter(i['before'] for i in issues)),
+            'after':dict(collections.Counter(i['current'] for i in issues)),
+            'remaining_blockers':dict(collections.Counter(b['label'] for i in issues for b in i['blockers'])),
+            'changed_ids':[i['id'] for i in issues if i['before']!=i['current']],
+            'review_scope':report['processing_scope']}
 CATS=sorted({r['category'] for r in ROWS})
 RISKS=sorted({t for r in ROWS for t in r['risk_tags']})
 SCOPES=sorted({r['scope_assessment'] for r in ROWS})
@@ -209,6 +221,7 @@ def analyze(text,f,notice_id=None):
     if notice_id and not evidence:raise ValueError('公告不存在。')
     facts={'count':len(rows),'month_counts':counts,'top_months':top_months,'top_count':top,'scope':str(len(ROWS))+'份2023—2025年多领域去重公告；AI辅助复核按阶段记录，部分范围和转录仍有待确认项。研究范围为一般消费品与汽车，非全国事件全量。'}
     facts['review_stages']={stage:dict(collections.Counter(r.get('review_stages',{}).get(stage,'未记录') for r in rows)) for stage in ['category','risk','scope','transcription']}
+    facts['capabilities']=capability_stats(rows)
     facts.update({'metric':metric,'rankings':ranks,'filters':f,'cause_classification_available':False})
     facts['summary']=str(len(rows))+'份匹配公告 · 统计使用全部匹配记录'
     if not notice_id and metric in ranks and ranks[metric]:
@@ -216,7 +229,7 @@ def analyze(text,f,notice_id=None):
         if metric=='risk':evidence=sorted([r for r in rows if set(r['risk_tags']) & set(leaders)],key=lambda r:r['published_date'],reverse=True)[:5]
         elif metric=='category':evidence=sorted([r for r in rows if r['category'] in leaders],key=lambda r:r['published_date'],reverse=True)[:5]
         elif metric=='month':evidence=sorted([r for r in rows if r['published_date'][:7] in leaders],key=lambda r:r['published_date'],reverse=True)[:5]
-    cites=[{k:r.get(k) for k in ['id','title','source_url','model_raw','production_dates_raw','batch_raw','quantity_raw','scope_assessment','scope_assessment_reason','defect_raw','consequence_raw','remedy_raw','review_stages','quality_flags','scope_details']} for r in evidence]
+    cites=[{k:r.get(k) for k in ['id','title','source_url','model_raw','production_dates_raw','batch_raw','quantity_raw','scope_assessment','scope_assessment_reason','defect_raw','consequence_raw','remedy_raw','review_stages','quality_flags','scope_details','scope_rules','scope_issue']} for r in evidence]
     answer='当前筛选共'+str(len(rows))+'份公告。'+('样本中最多的月份为'+ '、'.join(top_months)+'，各'+str(top)+'份。' if rows else '没有匹配公告，不能据此判断没有召回。')
     if notice_id:answer=evidence[0]['scope_assessment']+'：'+evidence[0]['scope_assessment_reason']
     mode='local'
@@ -325,6 +338,7 @@ class Handler(SimpleHTTPRequestHandler):
         try:self.wfile.write(data)
         except (BrokenPipeError,ConnectionResetError,ConnectionAbortedError):pass
     def do_GET(self):
+        if self.path=='/api/capabilities':return self.json_reply(capability_stats())
         if self.path=='/api/status':return self.json_reply(public_settings())
         if self.path.startswith('/api/'):return self.json_reply({'error':'接口不存在'},404)
         super().do_GET()

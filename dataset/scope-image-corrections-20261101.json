@@ -1,0 +1,20 @@
+{
+  "art_a9c7b008228d4865888d0be82d4f68c2": {
+    "image_file": "raw/review-images/art_a9c7b008228d4865888d0be82d4f68c2-0.png",
+    "image_sha256": "433d0b2e23f48e544b6c273279c093b132a2ad018f4e9c3c92672b6c7b846cc8",
+    "locator": "原图第一屏：型号/规格、生产起止日期、生产批号/批次三个相邻行，逐型号标注",
+    "groups": [
+      {"model":"TDT006Z","source_dates":"2020年10月28日至2020年10月28日","batch_raw":"20201028","evidence":"TDT006Z；生产起止日期TDT006Z：2020年10月28日至2020年10月28日；生产批号/批次TDT006Z：20201028"},
+      {"model":"TDT010Z","source_dates":"2020年9月18日至2020年9月18日","batch_raw":"20200918","evidence":"TDT010Z；生产起止日期TDT010Z：2020年9月18日至2020年9月18日；生产批号/批次TDT010Z：20200918"}
+    ]
+  },
+  "art_7bae113a23a740ec894b51638d3d2f51": {
+    "image_file": "raw/review-images/art_7bae113a23a740ec894b51638d3d2f51-0.png",
+    "image_sha256": "9786a8fa7527a5f1a86a23ca087c6a6d07391d00df9faacf2369bd3793057741",
+    "locator": "原图首屏型号/规格、生产起止日期、生产批号/批次，按卡迪之光和米兰极光品牌名称对应",
+    "groups": [
+      {"model":"YY-GD-35W-5500K","source_dates":"2020年6月5日至2021年12月26日","batch_raw":"JDSCRK00000066、JDSCRK00000026、JDSCRK00000088、JDSCRK00000101","evidence":"卡迪之光：YY-GD-35W-5500K；2020年6月5日至2021年12月26日；JDSCRK00000066、JDSCRK00000026、JDSCRK00000088、JDSCRK00000101"},
+      {"model":"YY-GD-20W-5500K","source_dates":"2020年6月18日至2021年12月06日","batch_raw":"JDSCRK00000020、JDSCRK00000077、JDSCRK00000156、JDSCRK00000214、JDSCRK00000712、JDSCRK00001420","evidence":"米兰极光：YY-GD-20W-5500K；2020年6月18日至2021年12月06日；JDSCRK00000020、JDSCRK00000077、JDSCRK00000156、JDSCRK00000214、JDSCRK00000712、JDSCRK00001420"}
+    ]
+  }
+}

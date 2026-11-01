@@ -16,7 +16,7 @@ for(const r of data.filter(r=>r.scope_rules?.method==='source-bound-normalizatio
    assert.equal(v.check(r,input).state,'pending');assert.notEqual(q.audit(r,v).capability,q.capabilities[0]);
    assert.ok(v.check(r,input).groupResults.some(x=>x.state==='matched'));carGroups++;
   }else{
-   assert.equal(v.check(r,input).state,'matched',r.id);assert.equal(v.check(r,{...input,model:'WRONG-UNIQUE-ID'}).state,'outside');
+   assert.equal(v.check(r,input).state,g.required.batch&&!g.batchValues&&!g.batchInterval?'pending':'matched',r.id);assert.equal(v.check(r,{...input,model:'WRONG-UNIQUE-ID'}).state,'outside');
    if(g.required.batch)assert.equal(v.check(r,{...input,batch:''}).state,'pending');upgraded++;
   }
  }
@@ -26,4 +26,4 @@ const missing=structuredClone(sample);delete missing.scope_rules;missing.scope_d
 assert.ok(!enrich(missing).scope_rules,'blank/slash batch cannot become all batches');
 const ambiguous=structuredClone(sample);delete ambiguous.scope_rules;ambiguous.scope_review.note='型号对应关系未明确';
 assert.ok(!enrich(ambiguous).scope_rules);
-console.log(`PASS: ${upgraded} source-bound consumer/food groups; ${carGroups} car clauses remain VIN-pending; identifiers, missing batches and ambiguous mappings`);
+console.log(`PASS: ${upgraded} source-bound consumer groups; ${carGroups} car clauses remain VIN-pending; identifiers, missing batches and ambiguous mappings`);

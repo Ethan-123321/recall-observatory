@@ -8,7 +8,7 @@ const RecallAdvancedAnalysis={
  },
  watch:{filtered(){if(this.abilityCategory&&!this.capabilityStack.categories.includes(this.abilityCategory))this.abilityCategory='';if(this.compositionPeriod&&!this.riskComposition.periods.includes(this.compositionPeriod))this.compositionPeriod=''},riskTimeUnit(){this.compositionPeriod='';nextTick(()=>this.draw())},riskValueMode(){nextTick(()=>this.draw())}},
  methods:{
-  showCapabilityDetails(category,capability){if(!category||!RecallQuality.capabilities.includes(capability))return;this.category=category;this.qualityCapability=capability;this.qualityField='';this.qualityStatus='';this.qualitySource='';this.page=3;nextTick(()=>this.goSection('quality-records'))},
+  showCapabilityDetails(category,capability){if(!category||!RecallQuality.capabilities.includes(capability))return;this.category=category;this.qualityCompareStage='after';this.qualityBlocker='';this.qualityChanged=false;this.qualityCapability=capability;this.qualityField='';this.qualityStatus='';this.qualitySource='';this.page=3;nextTick(()=>this.goSection('quality-records'))},
   openRiskSlice(period,risk=''){if(!period)return;if(this.riskTimeUnit==='year'){this.year=period;this.month=''}else{this.year=period.slice(0,4);this.month=period}this.from='';this.to='';if(risk)this.risk=risk;this.page=2;nextTick(()=>this.goSection('search-results'))},
   drawAdvancedAnalysis(){
    if(!this.$refs.capabilityChart||!this.$refs.riskCompositionChart)return;

@@ -10,6 +10,8 @@ const RecallWorkbench={
  },
  watch:{verifyQuery(){this.clearVerification()},verifyDomain(){this.clearVerification()},verifyModel(){this.verifyResults=null},verifyDate(){this.verifyResults=null},verifyBatch(){this.verifyResults=null},reportYear(){this.reportMonth='';this.renderReport()},reportDomain(){this.reportMonth='';this.renderReport()}},
  methods:{
+  sourceModelChoices(r){return RecallVerify.groups(r).flatMap(g=>(g.models||[]).map(value=>({group_id:g.id,value:g.models.length===1?g.modelRaw:value})))},
+  normalizedScopeGroups(r){return RecallVerify.groups(r)},
   clearVerification(){this.verifyResults=null;this.verifyLimit=12;this.verifyFocus=null;this.verifyNoticeId=''},
   verifyAll(){if(!this.verifyNoticeId&&!this.verifyQuery.trim()&&!this.verifyModel.trim()){this.verifyResults=[];return}this.verifyResults=this.verifyCandidates.map(r=>RecallVerify.check(r,{model:this.verifyModel,production:this.verifyDate,batch:this.verifyBatch}));this.activeSection='verify-evidence';nextTick(()=>document.getElementById('verify-evidence')?.scrollIntoView({behavior:'smooth'}))},
   startNoticeVerification(r){if(this.page!==0)this.verifyReturnPage=this.page;this.detail=null;this.annualDetail=null;this.page=0;this.verifyDomain=r.domain;this.verifyQuery=r.brand||r.producer||r.product_name;const ms=RecallVerify.models(r.model_raw);this.verifyModel=ms?.length===1?ms[0]:'';this.verifyDate='';this.verifyBatch='';nextTick(()=>{this.verifyFocus=r;this.verifyNoticeId=r.id;this.verifyResults=null})},

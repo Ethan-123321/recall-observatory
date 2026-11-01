@@ -1,32 +1,33 @@
 /* One audit policy shared by the browser and the reproducible Node export. */
 const RecallQuality=(()=>{
- const version='quality-v3';
+ const version='quality-v4';
  const statuses=['可直接使用','原文有信息，尚未整理','公告未披露','原文存在歧义或冲突','不适用','待审计'];
  const capabilities=['可进行确定性条件比对','可进行部分条件比对','仅支持检索与原文查阅'];
  const fields={producer:'企业',brand:'品牌',product_name:'产品名称',model_raw:'型号 / 规格',production_dates_raw:'生产日期',batch_raw:'批号 / 序列号',defect_raw:'缺陷',consequence_raw:'可能后果',remedy_raw:'处理方式',contact_raw:'联系方式'};
  function audit(r,v){
   const info=v.scopeInfo(r),gs=info.groups,flags=(r.quality_flags||[]).filter(x=>/冲突|笔误|模糊|待确认|不完整|无法.*辨|倒置/.test(x));
-  const noBatch=r.scope_assessment==='按型号与生产日期界定'&&!r.batch_raw;
+  const noBatch=r.domain!=='汽车'&&gs.length>0&&gs.every(g=>!g.required.batch)&&!r.batch_raw;
   const allBatch=r.scope_assessment==='明确限定范围内全部批次'&&/全部/.test(r.batch_raw||'');
   const result={};
   for(const [key,label] of Object.entries(fields)){
    const raw=r[key]||'',review=r.field_review?.[key]||{},legacy=r.review_evidence?.[key];
    const text=String(review.evidence||legacy||'');
    const hashOK=!!r.sha256&&(!review.source_sha256||review.source_sha256===r.sha256);
-   const evidence=text&&hashOK?{url:r.source_url,sha256:r.sha256,locator:'现有字段复核记录：'+key,excerpt:text,method:review.status||'既有AI辅助文本复核'}:null;
+   let evidence=text&&hashOK?{url:r.source_url,sha256:r.sha256,locator:'现有字段复核记录：'+key,excerpt:text,method:review.status||'既有AI辅助文本复核'}:null;
    const range=['model_raw','production_dates_raw','batch_raw'].includes(key);
+   if(range&&info.complete&&r.scope_rules?.source_sha256===r.sha256&&gs.every(g=>g.evidence))evidence={url:r.source_url,sha256:r.sha256,locator:gs.map(g=>g.locator||'条件组 '+g.id).join('；'),excerpt:gs.map(g=>key==='model_raw'?g.modelRaw:key==='production_dates_raw'?g.dateRaw:g.batchRaw).join('；'),method:r.scope_rules.review_state?.rule_processing||r.scope_rules.method};
    let status='待审计',reason='尚无充分字段级证据，不能由空值推断公告未披露';
    if(raw){status='原文有信息，尚未整理';reason='已有摘录，仍需确认语义、结构化结果与原文对应关系'}
    // Ambiguous historical missing-field labels must not become confirmed non-disclosure.
    if(!raw&&review.status==='公告未明确披露，保留缺失'&&hashOK){status='公告未披露';reason='既有字段级复核明确记录未披露；非本轮重新查阅原文'}
-   if(key==='batch_raw'&&noBatch&&!flags.length){status='不适用';reason='既有范围复核明确按型号与生产日期界定；不是由批号空白单独推断'}
+   if(key==='batch_raw'&&noBatch&&!flags.length){status='不适用';reason='可执行组有明确免除批号依据；空值和旧范围标签本身不构成依据'}
    let normalized=null;
    if(key==='model_raw')normalized=v.models(raw);
    else if(key==='production_dates_raw')normalized=v.dateSpec(raw);
-   else if(key==='batch_raw')normalized=allBatch?'公告限定范围内全部批次':v.batches(raw);
+   else if(key==='batch_raw')normalized=allBatch?'公告限定范围内全部批次':v.batches(raw)||v.batchRange(raw);
    else normalized=raw||null;
-   if(range&&!normalized&&info.complete&&gs.length>1){
-    const parsed=gs.map(g=>({group_id:g.id,value:key==='model_raw'?g.models:key==='production_dates_raw'?g.dateSpec:g.batchValues}));
+   if(range&&!normalized&&info.complete){
+    const parsed=gs.map(g=>({group_id:g.id,value:key==='model_raw'?g.models:key==='production_dates_raw'?g.dateSpec:g.batchValues||g.batchInterval}));
     if(parsed.every(g=>g.value))normalized=parsed;
    }
    if(raw&&evidence&&normalized&&status!=='不适用'){
